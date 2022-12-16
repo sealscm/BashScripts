@@ -1,0 +1,1001 @@
+id+first_name+last_name+dob+email+phone+city+state+standing+major+years_enrolled
+U00029395+Allin+Bramont+08/29/1995+abramont0@university.edu+(920) 628-1837+Green Bay+WI+FR+ALHS+3
+U00138165+Petrina+Brownsill+02/14/1996+pbrownsill1@university.edu+(504) 830-3645+New Orleans+LA+JR+CHEM+3
+U00396971+Koralle+Nolleau+09/13/1999+knolleau2@university.edu+(504) 272-6390+Metairie+LA+FR+STOR+3
+U00477515+Normy+Piercy+06/12/1997+npiercy3@university.edu+(513) 429-8305+Columbus+OH+SO+CJCR+3
+U00501536+Hillier+Codner+08/02/1996+hcodner4@university.edu+(513) 933-5581+Cincinnati+OH+SR+SPAN+1
+U00069503+Merla+Ansty+09/17/2000+mansty5@university.edu+(941) 836-5872+North Port+FL+FR+CSCI+2
+U00604917+Caron+Ikins+09/20/1999+cikins6@university.edu+(860) 577-3032+Hartford+CT+FR+CSCI+5
+U00342663+Elysha+Burgoine+04/25/2005+eburgoine7@university.edu+(325) 261-7559+Abilene+TX+GR+ASTR+4
+U00541560+Blanch+Torbett+01/28/2003+btorbett8@university.edu+(254) 570-0793+Killeen+TX+SR+CSCI+2
+U00599225+Dorey+Patershall+08/29/1995+dpatershall9@university.edu+(305) 325-2935+Miami Beach+FL+SR+HSC+6
+U00307688+Corette+Eyam+04/21/1995+ceyama@university.edu+(701) 773-4748+Fargo+ND+FR+APST+2
+U00047291+Burch+Mathelin+05/21/1997+bmathelinb@university.edu+(909) 816-4335+San Bernardino+CA+JR+CSCI+1
+U00012252+Gabbie+Paur+05/18/2001+gpaurc@university.edu+(831) 461-5868+Salinas+CA+GR+CSCI+1
+U00173678+Perkin+Dutson+06/27/1997+pdutsond@university.edu+(757) 146-0652+Norfolk+VA+SO+SWRK+1
+U00412332+Freddie+Koschek+07/05/1999+fkoscheke@university.edu+(617) 984-1427+Boston+MA+FR+CSCI+3
+U00987062+Aigneis+Spain+02/19/2000+aspainf@university.edu+(323) 135-9916+North Hollywood+CA+GR+GRAD+2
+U00719637+Vergil+Olenov+09/27/1999+volenovg@university.edu+(212) 262-0691+New York City+NY+SO+SCED+3
+U00068781+Isabeau+Surr+10/14/1998+isurrh@university.edu+(402) 665-7373+Omaha+NE+SO+CSCI+3
+U00742724+Cecil+Wilcocks+11/20/2000+cwilcocksi@university.edu+(913) 601-5378+Shawnee Mission+KS+SR+COMP+2
+U00448496+Dav+Rodway+03/03/2003+drodwayj@university.edu+(979) 721-2921+Bryan+TX+SR+COUN+3
+U00128197+Brice+Belfelt+04/06/2001+bbelfeltk@university.edu+(419) 826-9901+Toledo+OH+SO+BIOL+1
+U00528454+Elnora+Baack+02/24/1999+ebaackl@university.edu+(504) 661-2718+New Orleans+LA+SR+GSLD+3
+U00639568+Todd+Del Dello+03/09/2001+tdeldellom@university.edu+(203) 989-2780+New Haven+CT+GR+PMPR+3
+U00265607+Shawn+Welfair+03/09/2002+swelfairn@university.edu+(805) 912-9715+Santa Barbara+CA+FR+MKTG+3
+U00864834+Nani+Barhem+11/06/1998+nbarhemo@university.edu+(918) 341-6807+Tulsa+OK+SO+ENVS+2
+U00085522+Annabela+Hellens+10/23/2001+ahellensp@university.edu+(719) 739-5430+Pueblo+CO+SR+EDU+3
+U00328515+Etti+Gorry+05/18/1999+egorryq@university.edu+(704) 372-9109+Charlotte+NC+SR+CISP+1
+U00781137+Sandy+Zanetti+12/06/2001+szanettir@university.edu+(702) 412-4793+Las Vegas+NV+FR+ECED+2
+U00245472+Mathilda+Jeacop+01/22/1996+mjeacops@university.edu+(915) 383-3108+El Paso+TX+SO+ALHS+3
+U00774344+Jena+Balnaves+01/23/2003+jbalnavest@university.edu+(203) 606-8483+Fairfield+CT+FR+ECED+3
+U00573695+Kalvin+Turner+09/20/2001+kturneru@university.edu+(305) 558-5791+Hialeah+FL+SO+ENVH+2
+U00728009+Geoff+Hazeldine+06/24/1977+ghazeldinev@university.edu+(318) 898-9746+Shreveport+LA+SR+PTMA+6
+U00581356+Cosme+Triggs+07/31/2001+ctriggsw@university.edu+(651) 467-1736+Saint Paul+MN+FR+HPSS+3
+U00205817+Garrick+Toogood+11/09/2001+gtoogoodx@university.edu+(571) 319-3090+Arlington+VA+JR+HLSC+2
+U00795782+Bobbi+Jays+06/01/2001+bjaysy@university.edu+(303) 615-4266+Englewood+CO+SO+BIOM+4
+U00504698+Darice+Fredi+03/29/1996+dfrediz@university.edu+(701) 482-6054+Fargo+ND+GR+JRSM+2
+U00892660+Bette-ann+Dwelling+12/03/2000+bdwelling10@university.edu+(704) 438-6742+Winston Salem+NC+JR+SPED+2
+U00241978+Giorgia+Enns+03/13/1995+genns11@university.edu+(804) 941-9644+Richmond+VA+JR+GEOL+3
+U00727581+Myca+Hanway+01/25/1996+mhanway12@university.edu+(518) 776-7600+Albany+NY+FR+MUSC+5
+U00042115+Culver+Binns+04/10/1995+cbinns13@university.edu+(404) 295-8206+Atlanta+GA+JR+JOUR+3
+U00357292+Blondie+Twiddle+06/08/1998+btwiddle14@university.edu+(910) 479-8517+Wilmington+NC+SR+COM+2
+U00844694+Mattias+MacWhirter+10/04/1999+mmacwhirter15@university.edu+(208) 521-6140+Boise+ID+GR+GRAD+2
+U00523517+Jasmina+Rowbury+05/12/1999+jrowbury16@university.edu+(415) 195-5397+San Francisco+CA+SO+CJA+2
+U00328274+Sharia+Hebble+10/15/2000+shebble17@university.edu+(860) 967-7824+Hartford+CT+GR+EDCI+6
+U00823516+Bryanty+Vasile+01/11/2000+bvasile18@university.edu+(806) 102-8645+Lubbock+TX+SO+CSCI+4
+U00684543+Pavel+Pennycock+12/08/1998+ppennycock19@university.edu+(818) 989-6182+Los Angeles+CA+JR+STAT+3
+U00898653+Anastasia+Bowbrick+09/18/1999+abowbrick1a@university.edu+(904) 721-0247+Jacksonville+FL+SR+AFAM+2
+U00166647+Vidovic+Job+05/19/2000+vjob1b@university.edu+(505) 649-3938+Albuquerque+NM+JR+SCED+2
+U00901751+Pammie+Jeannot+04/05/2001+pjeannot1c@university.edu+(704) 164-5363+Charlotte+NC+FR+MSCI+3
+U00488461+Benny+Rowles+08/12/1998+browles1d@university.edu+(954) 244-3367+Hollywood+FL+FR+BMGT+2
+U00994719+Allan+Mamwell+06/28/1997+amamwell1e@university.edu+(714) 407-8128+Fullerton+CA+GR+GSLD+2
+U00699540+Wolfie+Rymour+07/01/2002+wrymour1f@university.edu+(202) 908-0140+Washington+DC+JR+TECH+2
+U00499179+Rodrick+Sarver+07/27/1995+rsarver1g@university.edu+(239) 355-6052+Fort Myers+FL+JR+MGMT+4
+U00533398+June+Spira+06/09/2002+jspira1h@university.edu+(304) 611-1885+Charleston+WV+FR+SCED+3
+U00450286+Janela+McAughtry+10/03/1997+jmcaughtry1i@university.edu+(816) 741-7420+Lees Summit+MO+GR+NTFD+3
+U00899151+Kendrick+Emer+09/20/1998+kemer1j@university.edu+(760) 909-8884+Carlsbad+CA+SR+CSCI+2
+U00244609+Agatha+Gildersleeve+01/26/1998+agildersleeve1k@university.edu+(623) 377-6693+Phoenix+AZ+GR+ADMN+3
+U00584104+Kimmi+Preuvost+02/16/1998+kpreuvost1l@university.edu+(480) 234-6649+Phoenix+AZ+SR+TECH+1
+U00587744+Marlowe+Riddall+09/19/1997+mriddall1m@university.edu+(678) 317-8131+Duluth+GA+SR+JRSM+5
+U00722681+Art+Coke+04/14/2002+acoke1n@university.edu+(213) 913-3024+Los Angeles+CA+GR+CSCI+2
+U00092155+Gillan+Tether+09/28/1997+gtether1o@university.edu+(765) 633-4727+Anderson+IN+JR+PMPR+3
+U00113817+Renata+Brownhill+07/17/2001+rbrownhill1p@university.edu+(571) 478-2273+Arlington+VA+FR+BMGT+3
+U00258486+Dorie+Ghioni+12/06/1998+dghioni1q@university.edu+(919) 534-9695+Raleigh+NC+FR+PREH+4
+U00992875+Angil+Benitti+10/02/1996+abenitti1r@university.edu+(202) 593-9340+Washington+DC+SR+EDUC+2
+U00909823+Flory+Cape+11/23/2002+fcape1s@university.edu+(804) 497-2354+Richmond+VA+GR+APST+2
+U00114878+Sabra+Tague+01/06/1999+stague1t@university.edu+(510) 396-6720+Oakland+CA+GR+ENTC+1
+U00999488+Adore+Pavolini+05/11/1995+apavolini1u@university.edu+(425) 602-3945+Kent+WA+GR+PRST+2
+U00687718+Aldrich+Bullimore+07/24/1999+abullimore1v@university.edu+(859) 970-9173+Lexington+KY+SO+HIST+2
+U00341392+Kenton+Leydon+04/25/1999+kleydon1w@university.edu+(480) 173-2853+Chandler+AZ+JR+AFAM+6
+U00724843+Somerset+Loody+06/29/1998+sloody1x@university.edu+(916) 232-0074+Sacramento+CA+JR+POLI+2
+U00621947+Jannelle+Bohman+06/18/2000+jbohman1y@university.edu+(405) 689-1105+Oklahoma City+OK+GR+ALHE+1
+U00324207+Bonnie+McLagain+07/24/2002+bmclagain1z@university.edu+(814) 631-4764+Erie+PA+FR+CJA+3
+U00948487+Averil+Dellar+12/26/1999+adellar20@university.edu+(281) 287-0230+Houston+TX+SO+SPAN+3
+U00253309+Lynde+De Andreis+01/11/1998+ldeandreis21@university.edu+(602) 216-2450+Phoenix+AZ+FR+STOR+2
+U00292309+Gibb+Khosa+12/18/1999+gkhosa22@university.edu+(408) 749-8725+San Jose+CA+JR+MCOM+3
+U00925536+Susie+Eustice+06/26/1997+seustice23@university.edu+(717) 360-0241+Lancaster+PA+JR+MSDM+2
+U00092616+Charmian+Vertey+04/02/2000+cvertey24@university.edu+(817) 385-2967+Fort Worth+TX+GR+CDST+2
+U00567520+Rodrique+Malek+06/07/1996+rmalek25@university.edu+(901) 533-8271+Memphis+TN+FR+COMM+2
+U00923556+Nelly+Cissen+10/22/1978+ncissen26@university.edu+(707) 238-3051+Santa Rosa+CA+GR+CSCI+5
+U00462713+Adriano+Dutnall+04/17/2001+adutnall27@university.edu+(972) 213-5116+Dallas+TX+SO+ET+3
+U00740086+Dotti+Prator+04/16/1998+dprator28@university.edu+(605) 976-1054+Sioux Falls+SD+GR+EDU+2
+U00401423+Garrot+Scrivner+05/22/1997+gscrivner29@university.edu+(512) 325-1301+Austin+TX+JR+CSCI+2
+U00230235+Anselm+Dyne+03/13/1995+adyne2a@university.edu+(808) 333-1391+Honolulu+HI+SO+POLS+2
+U00631380+Carey+Brazil+10/03/1997+cbrazil2b@university.edu+(916) 645-8220+Sacramento+CA+SO+LIST+6
+U00063678+Coralie+Crummay+01/24/1999+ccrummay2c@university.edu+(212) 920-8597+New York City+NY+SO+EXCH+2
+U00938458+Adeline+Kimbley+11/12/1998+akimbley2d@university.edu+(503) 839-5340+Portland+OR+FR+STAT+6
+U00660190+Rosella+Doody+09/06/2002+rdoody2e@university.edu+(914) 390-8569+Mount Vernon+NY+FR+GEOL+2
+U00916556+Benjamin+Czapla+05/07/1999+bczapla2f@university.edu+(330) 507-7944+Youngstown+OH+SO+ADVR+6
+U00191008+Skippie+Lempertz+02/01/2000+slempertz2g@university.edu+(860) 311-4523+Hartford+CT+SR+ECED+3
+U00279989+Sibilla+Cosgreave+12/13/2000+scosgreave2h@university.edu+(561) 845-9160+Lake Worth+FL+SO+ME+2
+U00422143+Gypsy+Ibbs+04/05/1997+gibbs2i@university.edu+(206) 785-6348+Seattle+WA+FR+WEB+3
+U00793963+Armstrong+Cracknell+10/27/1999+acracknell2j@university.edu+(619) 223-1564+San Diego+CA+JR+SRVL+2
+U00369228+Haley+Pinwell+01/21/2002+hpinwell2k@university.edu+(417) 651-6107+Springfield+MO+SR+CSCI+2
+U00518388+Pincus+Pounsett+01/26/2001+ppounsett2l@university.edu+(716) 485-4446+Buffalo+NY+SR+RTVF+7
+U00547931+Alta+Duchart+11/26/2001+aduchart2m@university.edu+(706) 218-8111+Columbus+GA+GR+PHAR+1
+U00911687+Ulises+Lazare+01/16/2002+ulazare2n@university.edu+(713) 839-8701+Houston+TX+FR+GREK+3
+U00612820+Clemmie+Pott+03/15/1999+cpott2o@university.edu+(248) 551-8614+Detroit+MI+JR+LANG+3
+U00611559+Paulita+Sanford+09/12/1998+psanford2p@university.edu+(775) 334-0562+Reno+NV+SO+SOWK+2
+U00378787+Valaria+Wadham+08/07/1996+vwadham2q@university.edu+(302) 311-6753+Wilmington+DE+JR+CSCI+2
+U00783369+Alexandre+Muzzillo+06/11/1998+amuzzillo2r@university.edu+(812) 402-7200+Terre Haute+IN+SO+TEAE+4
+U00975499+Jere+Livens+11/03/2000+jlivens2s@university.edu+(248) 964-7246+Troy+MI+JR+ECE+3
+U00024468+Shirley+Rubinowicz+03/26/1999+srubinowicz2t@university.edu+(513) 315-2309+Cincinnati+OH+FR+RADT+3
+U00101727+Sephira+Ledwith+06/01/2002+sledwith2u@university.edu+(559) 228-3988+Fresno+CA+JR+POLI+3
+U00180340+Darcee+Maharey+06/05/2001+dmaharey2v@university.edu+(260) 105-1004+Fort Wayne+IN+JR+HLSC+4
+U00121962+Kyrstin+Stainland+07/02/2000+kstainland2w@university.edu+(757) 674-8851+Newport News+VA+GR+CSCI+3
+U00937837+Ned+Ridsdale+07/12/1996+nridsdale2x@university.edu+(281) 171-0620+Houston+TX+FR+ENGL+3
+U00083914+Corny+Hinkley+09/22/2001+chinkley2y@university.edu+(304) 385-5315+Huntington+WV+JR+PHYS+3
+U00509400+Danice+Gunston+09/24/1996+dgunston2z@university.edu+(706) 945-9668+Columbus+GA+SR+BIOL+3
+U00734913+Merry+Sainte Paul+01/04/2002+msaintepaul30@university.edu+(916) 655-8968+Sacramento+CA+JR+PHYT+2
+U00718937+Elwyn+Siseland+08/21/1996+esiseland31@university.edu+(763) 555-5629+Monticello+MN+SO+EDAD+2
+U00384896+Sapphira+Oulner+08/22/1995+soulner32@university.edu+(501) 150-6476+North Little Rock+AR+SO+PETE+4
+U00354406+Kare+Gagin+12/08/1997+kgagin33@university.edu+(763) 409-9255+Monticello+MN+SO+ECON+2
+U00554994+Giffy+Harris+06/20/1997+gharris34@university.edu+(501) 243-8180+North Little Rock+AR+FR+HPSS+2
+U00132570+Dan+Padbery+12/03/1999+dpadbery35@university.edu+(702) 415-6973+Las Vegas+NV+JR+HIST+1
+U00335252+Ebeneser+Brannigan+11/29/1997+ebrannigan36@university.edu+(949) 620-1474+Irvine+CA+FR+PHYS+4
+U00201772+Evangelin+Izatson+03/10/1999+eizatson37@university.edu+(301) 579-1372+Bethesda+MD+SO+SURV+2
+U00974396+Georg+Uc+04/18/1999+guc38@university.edu+(805) 260-5964+Santa Barbara+CA+SO+TELC+2
+U00703491+Ursula+Mutton+02/14/1999+umutton39@university.edu+(202) 259-6251+Washington+DC+JR+COUN+2
+U00270248+Cy+Reynalds+03/24/2002+creynalds3a@university.edu+(212) 828-5919+New York City+NY+SO+CUAI+2
+U00967874+Orson+Danell+02/18/1998+odanell3b@university.edu+(704) 101-6153+Charlotte+NC+JR+GERM+2
+U00137001+Dena+Lett+01/31/1999+dlett3c@university.edu+(212) 616-4319+New York City+NY+JR+COL+2
+U00690434+Tobin+Synnott+11/17/1998+tsynnott3d@university.edu+(212) 955-5214+New York City+NY+FR+PBRL+2
+U00151226+Lotte+Chicotti+12/08/1996+lchicotti3e@university.edu+(651) 651-5909+Saint Paul+MN+SO+SOWK+1
+U00688922+Bryce+Ismead+01/13/2002+bismead3f@university.edu+(415) 797-0435+San Rafael+CA+SR+DHYG+1
+U00019356+Britt+Heindl+03/07/1997+bheindl3g@university.edu+(281) 995-2867+Pasadena+TX+FR+MGMT+2
+U00514698+Nadya+Tavinor+05/28/1999+ntavinor3h@university.edu+(901) 254-8402+Memphis+TN+SR+BIOM+4
+U00158075+Quill+Carme+01/30/1997+qcarme3i@university.edu+(205) 749-8588+Birmingham+AL+SR+COMM+2
+U00438625+Lorens+Larner+08/01/1998+llarner3j@university.edu+(304) 561-4786+Charleston+WV+SO+POLS+3
+U00718179+Beitris+Astle+04/13/2001+bastle3k@university.edu+(209) 566-2876+Stockton+CA+SR+EDAD+4
+U00579593+Georgena+Sangar+05/09/2000+gsangar3l@university.edu+(209) 159-2529+Fresno+CA+JR+AGRI+6
+U00471587+Ardyce+Burditt+09/12/1996+aburditt3m@university.edu+(702) 358-0101+Las Vegas+NV+JR+PHYS+3
+U00020057+Estele+Scotson+11/22/2002+escotson3n@university.edu+(858) 371-7185+San Diego+CA+FR+TELC+2
+U00275743+Bogey+Bernaldez+06/14/1996+bbernaldez3o@university.edu+(619) 839-8016+San Diego+CA+SO+ENVS+2
+U00135467+Atlanta+Dolden+03/31/2000+adolden3p@university.edu+(727) 703-6729+Saint Petersburg+FL+SO+ENVH+3
+U00110556+Hoebart+Bywater+07/16/2001+hbywater3q@university.edu+(651) 924-8475+Minneapolis+MN+GR+EDAD+2
+U00646557+Markos+Waldock+09/04/2001+mwaldock3r@university.edu+(718) 287-7494+Brooklyn+NY+SR+CSCI+2
+U00492287+Nigel+Rheam+11/05/1996+nrheam3s@university.edu+(203) 391-7981+Stamford+CT+SO+SALM+2
+U00168811+Jada+Mattioli+03/30/1997+jmattioli3t@university.edu+(682) 711-8363+Fort Worth+TX+GR+ADMN+3
+U00989242+Gabi+Mendonca+02/12/1999+gmendonca3u@university.edu+(859) 904-2001+Lexington+KY+FR+ENTC+4
+U00144855+Elsinore+Lambertini+11/03/1996+elambertini3v@university.edu+(213) 441-8143+Los Angeles+CA+FR+BIOC+1
+U00331565+Hanny+O'Sheerin+02/14/1995+hosheerin3w@university.edu+(503) 621-0957+Portland+OR+SR+BSTA+1
+U00470955+Elise+O'Feeney+07/07/2001+eofeeney3x@university.edu+(718) 753-1828+Jamaica+NY+GR+MEDA+3
+U00302056+Saraann+Haldene+03/26/1997+shaldene3y@university.edu+(714) 758-1437+San Jose+CA+JR+ENGL+5
+U00316658+Korrie+Jardine+03/27/2000+kjardine3z@university.edu+(754) 601-8899+Pompano Beach+FL+SR+ACCT+4
+U00532208+Holly-anne+Dominighi+05/24/1996+hdominighi40@university.edu+(850) 808-8379+Panama City+FL+JR+GEOL+3
+U00698839+Gradey+Huglin+06/01/2000+ghuglin41@university.edu+(859) 603-6334+Lexington+KY+SO+ECED+2
+U00627576+Kordula+Calverley+04/19/2002+kcalverley42@university.edu+(502) 396-9613+Louisville+KY+FR+SOC+2
+U00391148+Dallon+Hake+04/24/2001+dhake43@university.edu+(714) 107-0604+Santa Ana+CA+SR+SOAA+1
+U00515716+Glynda+Thomasson+07/03/1997+gthomasson44@university.edu+(970) 422-8004+Grand Junction+CO+JR+READ+2
+U00660383+Leroy+Richemond+03/01/1999+lrichemond45@university.edu+(334) 313-6188+Montgomery+AL+SR+TEAS+3
+U00041921+Ulrich+Coneybeer+11/11/1995+uconeybeer46@university.edu+(203) 267-9237+Norwalk+CT+FR+PADM+2
+U00835545+Gavin+Iacomo+10/11/1997+giacomo47@university.edu+(615) 541-4985+Nashville+TN+SR+HSC+3
+U00619810+Karoline+Muzzi+03/24/1999+kmuzzi48@university.edu+(714) 394-5218+Santa Ana+CA+SO+HIST+5
+U00032650+Tiffie+Earie+02/26/1998+tearie49@university.edu+(508) 960-1636+Worcester+MA+GR+CISP+2
+U00908949+Demetris+Winsbury+10/14/2000+dwinsbury4a@university.edu+(410) 913-0745+Baltimore+MD+GR+PSY+3
+U00844626+Nelia+Sudran+04/02/1998+nsudran4b@university.edu+(352) 735-3619+Gainesville+FL+FR+SRVL+5
+U00882951+Ysabel+Perrin+06/16/1998+yperrin4c@university.edu+(210) 727-6174+San Antonio+TX+SR+SOWK+1
+U00152047+Erika+Meco+04/10/2000+emeco4d@university.edu+(915) 486-0014+El Paso+TX+GR+EXCH+3
+U00785086+Bethina+Misken+03/14/2000+bmisken4e@university.edu+(314) 221-6762+Saint Louis+MO+FR+SOWK+1
+U00697542+Isac+Okroy+10/02/1999+iokroy4f@university.edu+(971) 884-3725+Portland+OR+SO+COUN+3
+U00986771+Amalle+Mawne+02/09/1995+amawne4g@university.edu+(682) 338-8582+Fort Worth+TX+GR+HIST+2
+U00333914+Kimbra+Kirton+12/10/1999+kkirton4h@university.edu+(952) 935-4580+Minneapolis+MN+GR+STAT+1
+U00448806+Baily+Woolaghan+11/30/1996+bwoolaghan4i@university.edu+(952) 336-1429+Young America+MN+FR+CSCI+1
+U00108205+Rachele+Heady+06/22/1996+rheady4j@university.edu+(914) 809-5045+Yonkers+NY+SR+SALM+2
+U00735587+Elise+Newis+11/29/1995+enewis4k@university.edu+(716) 631-5042+Buffalo+NY+JR+BIOL+3
+U00109042+Giovanni+Sired+12/07/1997+gsired4l@university.edu+(414) 495-5233+Milwaukee+WI+FR+HIMT+3
+U00327478+Chip+Brookes+06/23/2000+cbrookes4m@university.edu+(202) 315-2651+Washington+DC+JR+EDU+6
+U00536814+Aili+Mulran+07/27/2000+amulran4n@university.edu+(301) 965-4891+Bethesda+MD+GR+SOAA+3
+U00035690+Stern+Millions+05/03/1999+smillions4o@university.edu+(757) 576-1218+Hampton+VA+FR+AMBA+2
+U00868887+Jorey+Grewe+11/20/2001+jgrewe4p@university.edu+(302) 114-5909+Wilmington+DE+JR+POLI+3
+U00958481+Gertie+Karleman+08/14/2002+gkarleman4q@university.edu+(608) 710-3393+Madison+WI+FR+PSYC+2
+U00815881+Antoinette+Jankovic+07/16/1997+ajankovic4r@university.edu+(405) 230-8496+Oklahoma City+OK+FR+SOAA+4
+U00284321+Abran+Winder+10/30/2000+awinder4s@university.edu+(501) 304-2335+Hot Springs National Park+AR+FR+HLSC+3
+U00950587+Etienne+Lanfranchi+01/15/2001+elanfranchi4t@university.edu+(603) 340-9892+Portsmouth+NH+SR+PHED+3
+U00609037+Melesa+Dary+01/12/2002+mdary4u@university.edu+(214) 845-6151+Dallas+TX+GR+CJCR+2
+U00019853+Fritz+Bucklee+03/21/2000+fbucklee4v@university.edu+(806) 690-6146+Lubbock+TX+GR+STAT+1
+U00154280+Mile+Gudger+04/29/1995+mgudger4w@university.edu+(561) 298-8275+Boca Raton+FL+SO+EXCH+4
+U00231143+Rriocard+Franzonello+12/11/2002+rfranzonello4x@university.edu+(812) 920-0960+Evansville+IN+FR+BMGT+2
+U00112410+Robby+Rolston+05/04/1997+rrolston4y@university.edu+(405) 461-9960+Oklahoma City+OK+FR+AGRI+3
+U00638121+Diena+Jailler+06/08/1997+djailler4z@university.edu+(209) 259-4769+Stockton+CA+SO+HUMT+1
+U00199127+Ertha+Masser+03/04/2002+emasser50@university.edu+(360) 135-5752+Seattle+WA+SR+ME+8
+U00540192+Theodosia+Readmire+01/14/2002+treadmire51@university.edu+(609) 100-8388+Trenton+NJ+JR+CUAI+3
+U00959892+Hetty+Kermeen+05/22/2001+hkermeen52@university.edu+(909) 221-4988+San Bernardino+CA+SO+SCED+2
+U00251386+Carena+Renshaw+12/03/1995+crenshaw53@university.edu+(501) 181-1452+Little Rock+AR+JR+CSCI+3
+U00614967+Cassie+Jeffryes+06/23/2000+cjeffryes54@university.edu+(804) 800-6160+Richmond+VA+JR+GERM+5
+U00330793+Barnebas+Kefford+01/09/1999+bkefford55@university.edu+(402) 233-4978+Omaha+NE+FR+GERM+3
+U00668106+Tabatha+O'Shields+02/23/2001+toshields56@university.edu+(312) 254-5901+Chicago+IL+FR+PM+3
+U00505971+Gwendolyn+Pelfer+10/11/2002+gpelfer57@university.edu+(760) 315-3022+Escondido+CA+GR+COM+2
+U00333330+Patty+Di Biaggi+11/01/2001+pdibiaggi58@university.edu+(818) 619-6440+Burbank+CA+GR+MICR+2
+U00811310+Kat+Olfert+01/30/2002+kolfert59@university.edu+(608) 327-7640+Madison+WI+SO+GEOS+2
+U00354655+Rea+Allmark+01/31/1998+rallmark5a@university.edu+(412) 879-6610+Pittsburgh+PA+GR+HLSC+2
+U00417385+Ado+Stuart+11/24/2001+astuart5b@university.edu+(612) 305-1607+Saint Paul+MN+FR+ANTH+3
+U00769899+Sydel+Dargavel+04/04/1995+sdargavel5c@university.edu+(310) 820-2664+Inglewood+CA+SR+SOCI+4
+U00491315+Berkie+Walenta+10/26/2002+bwalenta5d@university.edu+(813) 905-5580+Tampa+FL+SO+GEOS+3
+U00976705+Englebert+Chatburn+07/20/1995+echatburn5e@university.edu+(919) 355-7454+Raleigh+NC+GR+HUMT+3
+U00770015+Lemar+Lebel+09/07/2001+llebel5f@university.edu+(843) 448-7850+Myrtle Beach+SC+FR+SOAA+2
+U00692136+Thebault+Cowell+07/27/2000+tcowell5g@university.edu+(505) 741-9640+Santa Fe+NM+GR+MUSC+2
+U00647496+Chryste+Gremane+07/08/2002+cgremane5h@university.edu+(405) 685-0751+Edmond+OK+JR+NRSE+1
+U00483035+Jerrold+Stubs+07/25/1996+jstubs5i@university.edu+(203) 367-7780+Waterbury+CT+SO+PSY+3
+U00523632+Nickolaus+Obern+11/04/2002+nobern5j@university.edu+(915) 179-0810+El Paso+TX+SO+PRST+2
+U00847371+Shandy+Ilyasov+06/06/2000+silyasov5k@university.edu+(408) 147-0321+San Jose+CA+SR+CRMJ+3
+U00017425+Silvana+McCoughan+01/18/2001+smccoughan5l@university.edu+(504) 483-6059+New Orleans+LA+SR+PRST+2
+U00858140+Adan+Damper+07/09/2000+adamper5m@university.edu+(304) 845-8347+Huntington+WV+FR+TECH+2
+U00660726+Merrily+Tomovic+10/22/1999+mtomovic5n@university.edu+(309) 606-9371+Peoria+IL+JR+MGMT+2
+U00990749+Giulietta+Gingle+06/18/1996+ggingle5o@university.edu+(612) 831-1070+Minneapolis+MN+FR+DHYG+2
+U00962370+Angele+Babidge+02/07/1999+ababidge5p@university.edu+(410) 953-1701+Ridgely+MD+SO+ENVS+3
+U00628302+Lexy+Pigeram+08/30/2000+lpigeram5q@university.edu+(208) 746-9256+Boise+ID+FR+MEDA+1
+U00914258+Daveen+Sterre+04/12/1997+dsterre5r@university.edu+(904) 786-1160+Saint Augustine+FL+SR+GRAD+2
+U00656667+Hesther+Ioannou+01/06/1999+hioannou5s@university.edu+(618) 902-3817+East Saint Louis+IL+GR+ECE+3
+U00508016+Chery+Asif+01/23/1998+casif5t@university.edu+(619) 606-2687+Chula Vista+CA+GR+GEOS+2
+U00105085+Morganne+Gayton+04/02/1998+mgayton5u@university.edu+(717) 906-2499+Harrisburg+PA+SO+POLI+2
+U00350229+Mayne+Gullam+10/07/1997+mgullam5v@university.edu+(505) 846-9713+Santa Fe+NM+SO+HUM+4
+U00208163+Oates+Slaten+07/24/2000+oslaten5w@university.edu+(405) 502-1134+Oklahoma City+OK+GR+SWRK+3
+U00036402+Willow+Nock+02/20/1998+wnock5x@university.edu+(507) 775-6759+Rochester+MN+SR+HUMT+4
+U00447024+Rosalia+Snozzwell+11/30/1996+rsnozzwell5y@university.edu+(520) 743-3970+Tucson+AZ+JR+GEOS+2
+U00700415+Rina+Fidgin+11/29/1997+rfidgin5z@university.edu+(202) 889-6444+Washington+DC+FR+ASTR+3
+U00053742+Robin+Turnpenny+03/22/1997+rturnpenny60@university.edu+(940) 452-8802+Wichita Falls+TX+GR+SPED+1
+U00099852+Markus+Burchnall+04/05/2000+mburchnall61@university.edu+(205) 795-3032+Tuscaloosa+AL+FR+PSCI+3
+U00241244+Giraud+Cristoferi+11/16/1995+gcristoferi62@university.edu+(602) 792-0408+Gilbert+AZ+SO+EDCI+1
+U00318262+Malia+Turrell+05/08/1998+mturrell63@university.edu+(718) 493-4406+Staten Island+NY+JR+PETE+3
+U00430191+Kathie+Chartman+11/06/1998+kchartman64@university.edu+(916) 991-8192+Sacramento+CA+SR+ADVR+1
+U00429761+Tarah+Arthur+08/24/2000+tarthur65@university.edu+(214) 169-9856+Dallas+TX+SR+GSLD+5
+U00483474+Dael+Gosnoll+12/11/2001+dgosnoll66@university.edu+(512) 634-6296+Austin+TX+FR+ECE+4
+U00252030+Port+Tesauro+11/19/1995+ptesauro67@university.edu+(920) 293-9611+Green Bay+WI+SR+MCOM+3
+U00289241+Casey+Cuss+12/24/2001+ccuss68@university.edu+(281) 618-1997+Houston+TX+FR+LIST+3
+U00799802+Joshia+Bootman+02/15/1996+jbootman69@university.edu+(407) 590-5212+Orlando+FL+GR+WEB+3
+U00966110+Andreas+Lemary+03/11/1997+alemary6a@university.edu+(706) 322-9547+Augusta+GA+FR+MATH+6
+U00376141+Elna+Ajean+04/24/1996+eajean6b@university.edu+(941) 244-1820+Sarasota+FL+SR+MSDM+2
+U00530040+Zachery+Glave+11/18/2000+zglave6c@university.edu+(713) 522-2255+Houston+TX+SO+BIOM+5
+U00474601+Rycca+McMichan+11/30/2001+rmcmichan6d@university.edu+(520) 779-9865+Tucson+AZ+SR+THEA+6
+U00252010+Zachary+Leblanc+02/13/1995+zleblanc6e@university.edu+(919) 593-0396+Raleigh+NC+GR+CJCR+5
+U00115767+Nataniel+Dabernott+02/19/1996+ndabernott6f@university.edu+(702) 703-4661+Las Vegas+NV+GR+RHSC+2
+U00693981+Rosana+Hannant+05/19/1995+rhannant6g@university.edu+(718) 482-7286+Brooklyn+NY+JR+SPED+5
+U00369048+Kim+MacMenamin+12/28/2001+kmacmenamin6h@university.edu+(513) 417-9578+Cincinnati+OH+SR+EDUC+6
+U00230309+Moishe+Attle+05/15/2000+mattle6i@university.edu+(754) 235-9863+Pompano Beach+FL+SO+COUN+3
+U00785631+Lizbeth+Eborall+07/06/1997+leborall6j@university.edu+(804) 480-0688+Richmond+VA+GR+ART+3
+U00527650+Bernadina+Baldinotti+09/18/2001+bbaldinotti6k@university.edu+(210) 386-6104+San Antonio+TX+SR+BADM+2
+U00919728+Karisa+Melloi+09/29/1996+kmelloi6l@university.edu+(330) 482-2148+Youngstown+OH+GR+AGRI+2
+U00167275+Karrie+Allwell+03/27/1995+kallwell6m@university.edu+(661) 349-3886+Bakersfield+CA+SO+PBRL+3
+U00137052+Esteban+Provis+06/16/1996+eprovis6n@university.edu+(909) 234-2535+Pomona+CA+FR+AGRI+4
+U00975468+Barbe+Kaming+02/28/2002+bkaming6o@university.edu+(434) 516-3264+Manassas+VA+SR+COM+2
+U00549204+Danica+Copcutt+03/17/1997+dcopcutt6p@university.edu+(763) 900-1676+Minneapolis+MN+GR+PREH+6
+U00331228+Jamie+Joddens+03/11/2002+jjoddens6q@university.edu+(804) 200-7765+Richmond+VA+SR+COL+2
+U00359633+Laraine+Peschmann+12/15/1996+lpeschmann6r@university.edu+(806) 416-6248+Lubbock+TX+JR+CJCR+3
+U00089557+Chaddie+Markie+10/23/2001+cmarkie6s@university.edu+(847) 964-1347+Palatine+IL+SR+ENVS+4
+U00006901+Cosimo+Barry+04/29/2001+cbarry6t@university.edu+(216) 141-5510+Cleveland+OH+GR+HETH+3
+U00493591+Mart+Foister+09/10/2000+mfoister6u@university.edu+(708) 967-0532+Chicago+IL+SR+CSCI+2
+U00685190+Aeriell+Upfold+05/18/2001+aupfold6v@university.edu+(804) 234-0140+Richmond+VA+SR+PMPR+2
+U00780983+Claudell+Breache+07/04/1998+cbreache6w@university.edu+(505) 185-9465+Santa Fe+NM+FR+READ+3
+U00698596+Jinny+Celez+10/15/1998+jcelez6x@university.edu+(919) 535-9887+Durham+NC+FR+HETH+4
+U00196721+Myron+Gaber+06/18/1995+mgaber6y@university.edu+(310) 684-6129+Santa Monica+CA+JR+JRSM+3
+U00837965+Tedd+Timlett+06/21/1997+ttimlett6z@university.edu+(719) 955-4891+Colorado Springs+CO+FR+GEOG+1
+U00172898+Kynthia+Lancley+08/07/1998+klancley70@university.edu+(609) 954-8455+Trenton+NJ+GR+ENGR+1
+U00397735+Winne+Heape+05/07/1997+wheape71@university.edu+(662) 368-5769+Columbus+MS+GR+PBRL+3
+U00275130+Naoma+Northgraves+02/02/1996+nnorthgraves72@university.edu+(757) 403-5288+Virginia Beach+VA+GR+GEOG+5
+U00471877+Lowe+Ossulton+12/01/2000+lossulton73@university.edu+(503) 509-9102+Portland+OR+GR+PTMA+5
+U00321057+Adorne+Ferneley+05/02/1998+aferneley74@university.edu+(256) 626-7347+Huntsville+AL+FR+PHYT+6
+U00809710+Algernon+Dumpleton+10/22/1997+adumpleton75@university.edu+(816) 977-8717+Kansas City+MO+SR+WEB+6
+U00194452+Gavan+Penfold+09/13/1999+gpenfold76@university.edu+(540) 169-7318+Roanoke+VA+GR+ALHE+2
+U00275465+Clarinda+Pflieger+07/13/2000+cpflieger77@university.edu+(314) 267-8846+Saint Louis+MO+JR+CSCI+1
+U00191999+Gabie+Stranio+05/08/1996+gstranio78@university.edu+(518) 889-4648+Albany+NY+SR+PRST+2
+U00215691+Anna-diana+Albarez+02/06/2000+aalbarez79@university.edu+(763) 902-4942+Loretto+MN+SO+MKTG+5
+U00215231+Kaylil+Gentile+01/16/1998+kgentile7a@university.edu+(860) 349-6827+Hartford+CT+GR+LATN+2
+U00797978+Cynthia+Portwaine+12/24/1999+cportwaine7b@university.edu+(312) 500-5753+Chicago+IL+FR+NRSE+6
+U00548329+Lisbeth+Jocelyn+11/24/1998+ljocelyn7c@university.edu+(419) 388-6250+Toledo+OH+SR+ENGR+3
+U00503133+Euell+Prendergrast+08/01/1997+eprendergrast7d@university.edu+(512) 650-9603+Austin+TX+JR+TEAE+6
+U00386736+Victoir+Roscoe+08/08/2002+vroscoe7e@university.edu+(216) 626-7943+Cleveland+OH+SO+EDAD+2
+U00222776+Mia+Keam+04/29/1998+mkeam7f@university.edu+(713) 977-1092+Humble+TX+GR+ANTH+2
+U00982518+Archy+Pietruschka+05/17/2001+apietruschka7g@university.edu+(267) 491-4212+Philadelphia+PA+SR+MRCH+5
+U00567420+Binky+Lord+06/13/1995+blord7h@university.edu+(215) 820-9053+Philadelphia+PA+JR+TEAS+3
+U00425911+Tamra+Havile+04/21/1997+thavile7i@university.edu+(317) 390-4108+Indianapolis+IN+SO+JAPN+3
+U00083038+Jacquie+Schiementz+10/04/2002+jschiementz7j@university.edu+(937) 677-8404+Springfield+OH+SR+ELPA+2
+U00928145+Amara+Pettwood+12/12/1999+apettwood7k@university.edu+(210) 165-0663+San Antonio+TX+SR+GSLD+3
+U00839247+Lucretia+Riden+12/15/1999+lriden7l@university.edu+(513) 487-1784+Cincinnati+OH+SR+ENGR+2
+U00192667+Marlon+Weeden+05/15/1997+mweeden7m@university.edu+(713) 543-9777+Houston+TX+SR+SLS+3
+U00755056+Kahaleel+Lewty+04/29/1995+klewty7n@university.edu+(843) 916-5528+Myrtle Beach+SC+GR+MEDA+1
+U00289584+Joelie+Semrad+06/01/1996+jsemrad7o@university.edu+(213) 847-9342+Los Angeles+CA+SO+MDT+2
+U00574124+Vally+Renwick+09/16/1995+vrenwick7p@university.edu+(515) 296-6278+Des Moines+IA+JR+PM+3
+U00920596+Dun+MacPharlain+03/09/2001+dmacpharlain7q@university.edu+(225) 633-9214+Baton Rouge+LA+SR+DHYG+1
+U00325056+Bertie+Speak+05/10/2001+bspeak7r@university.edu+(563) 146-9931+Davenport+IA+JR+ME+3
+U00787222+Chelsea+Mougenel+10/07/1995+cmougenel7s@university.edu+(231) 508-0711+Muskegon+MI+GR+ENVH+2
+U00160139+Martita+Burdge+09/29/1995+mburdge7t@university.edu+(315) 449-6198+Syracuse+NY+GR+ENVH+3
+U00824254+Abbey+Meneer+07/25/1998+ameneer7u@university.edu+(484) 287-6994+Valley Forge+PA+GR+COL+3
+U00430413+Bess+Stukings+09/12/1996+bstukings7v@university.edu+(562) 867-2379+Long Beach+CA+GR+BIOC+3
+U00285657+Alden+Riddington+05/06/2002+ariddington7w@university.edu+(412) 872-4553+Pittsburgh+PA+GR+EXCH+2
+U00473014+Iggie+Richfield+01/26/2002+irichfield7x@university.edu+(619) 959-5650+San Diego+CA+SO+PMPR+3
+U00947027+Isahella+Handrahan+04/02/1997+ihandrahan7y@university.edu+(319) 872-3275+Cedar Rapids+IA+SO+HIMT+3
+U00256444+Trumann+Ovey+06/06/1996+tovey7z@university.edu+(904) 308-4827+Jacksonville+FL+SR+CBAT+3
+U00586764+Lizzy+Paike+06/01/2000+lpaike80@university.edu+(303) 284-8243+Denver+CO+JR+TELC+3
+U00131656+Ximenez+Valasek+03/25/2000+xvalasek81@university.edu+(810) 814-8335+Flint+MI+SO+ET+2
+U00779582+Corey+Harken+09/12/1997+charken82@university.edu+(812) 927-3395+Bloomington+IN+SO+CSCI+2
+U00359045+Eleen+Shenfish+12/20/2000+eshenfish83@university.edu+(901) 121-5828+Memphis+TN+FR+CITC+1
+U00707526+Rich+Eyres+12/03/2002+reyres84@university.edu+(812) 807-8706+Bloomington+IN+GR+CJA+2
+U00224416+Katya+Scranedge+09/28/2002+kscranedge85@university.edu+(612) 411-3493+Minneapolis+MN+FR+CSCI+2
+U00530673+Dulcinea+Winston+01/15/1995+dwinston86@university.edu+(806) 102-2612+Lubbock+TX+JR+HUM+2
+U00696687+Hank+Iacobacci+11/10/1998+hiacobacci87@university.edu+(409) 279-2526+Galveston+TX+GR+PSY+3
+U00845431+Gertrud+I'anson+11/05/2000+gianson88@university.edu+(915) 340-5292+El Paso+TX+GR+CSCI+2
+U00889259+Gabbie+Macken+08/09/1997+gmacken89@university.edu+(719) 968-0687+Pueblo+CO+FR+MGMT+3
+U00856961+Consuela+Meysham+09/18/2001+cmeysham8a@university.edu+(901) 454-0930+Memphis+TN+JR+ELED+4
+U00749027+Kalvin+Christopherson+10/04/2000+kchristopherson8b@university.edu+(828) 181-5604+Asheville+NC+SR+SPED+5
+U00522835+Juieta+Sweedy+05/24/1998+jsweedy8c@university.edu+(860) 263-3199+Hartford+CT+FR+ADMN+3
+U00503892+Amalea+Bruckman+04/27/1995+abruckman8d@university.edu+(605) 434-7301+Sioux Falls+SD+JR+CUAI+2
+U00048489+Fernando+Hearnes+03/07/1998+fhearnes8e@university.edu+(602) 297-1629+Mesa+AZ+JR+TEAE+2
+U00961192+Dwight+Tran+04/07/2001+dtran8f@university.edu+(585) 788-7945+Rochester+NY+SO+CDIS+2
+U00232640+Dulciana+Deboick+02/10/1998+ddeboick8g@university.edu+(571) 914-9969+Fairfax+VA+GR+ECED+2
+U00060875+Roger+Walklot+02/03/2002+rwalklot8h@university.edu+(502) 835-0846+Louisville+KY+JR+DIGM+2
+U00612391+Gabriel+Jestico+09/16/2002+gjestico8i@university.edu+(239) 416-2097+Fort Myers+FL+SO+PREH+3
+U00936791+Tommi+Yuryaev+08/26/1995+tyuryaev8j@university.edu+(972) 661-6610+Dallas+TX+GR+BMGT+1
+U00610525+Dayle+Entwisle+10/17/1998+dentwisle8k@university.edu+(256) 617-5527+Anniston+AL+SO+STAT+3
+U00695595+Jillie+Ruppel+12/07/1995+jruppel8l@university.edu+(770) 793-8276+Lawrenceville+GA+FR+NTFD+4
+U00140147+Syman+Pilmoor+08/23/2001+spilmoor8m@university.edu+(612) 673-1223+Minneapolis+MN+SR+ALHE+2
+U00783216+Westleigh+Leyman+10/04/2002+wleyman8n@university.edu+(909) 973-4905+Riverside+CA+SR+COM+2
+U00260193+Michel+Oxbrow+12/15/2002+moxbrow8o@university.edu+(402) 708-4371+Omaha+NE+SR+EDCI+2
+U00223311+Harriette+Cosson+01/14/1995+hcosson8p@university.edu+(619) 918-8688+San Diego+CA+SR+ECON+4
+U00518252+Lenora+Fairclough+06/29/1999+lfairclough8q@university.edu+(713) 572-3762+Houston+TX+JR+ELED+6
+U00740095+Anna-maria+Sambrok+04/07/1995+asambrok8r@university.edu+(606) 114-8162+London+KY+JR+PBRL+3
+U00345090+Alair+Newlove+04/22/1995+anewlove8s@university.edu+(512) 774-1501+Austin+TX+SO+AVST+2
+U00901885+Murvyn+Hutchens+08/30/2002+mhutchens8t@university.edu+(330) 892-6885+Youngstown+OH+SO+CUAI+6
+U00854991+Shaine+Mueller+06/20/1998+smueller8u@university.edu+(402) 593-5756+Omaha+NE+FR+CPSC+6
+U00437519+Lazare+Still+11/29/1996+lstill8v@university.edu+(214) 168-1189+Dallas+TX+GR+PSY+2
+U00953999+Adrian+Welham+11/16/2000+awelham8w@university.edu+(228) 999-9571+Biloxi+MS+FR+DIGM+3
+U00349416+Frederique+Coneau+12/22/2002+fconeau8x@university.edu+(480) 720-8807+Chandler+AZ+FR+ECON+2
+U00536373+Marylynne+Bonsall+06/16/1997+mbonsall8y@university.edu+(727) 430-0177+Saint Petersburg+FL+FR+PHAR+6
+U00640190+Pauline+Essel+06/28/2000+pessel8z@university.edu+(215) 153-7372+Philadelphia+PA+FR+ALHS+2
+U00722190+Courtney+Vayne+11/10/1997+cvayne90@university.edu+(213) 470-3208+Los Angeles+CA+GR+PADM+2
+U00411287+Livy+Connerry+01/15/1999+lconnerry91@university.edu+(402) 882-4882+Lincoln+NE+GR+CRMJ+3
+U00198726+Maryjo+Kempton+07/30/1998+mkempton92@university.edu+(320) 200-2609+Saint Cloud+MN+SO+MATH+2
+U00341189+Mariya+Woodroofe+05/18/1998+mwoodroofe93@university.edu+(480) 397-7450+Phoenix+AZ+SO+MSDM+3
+U00911136+Dorice+Kittle+08/29/1998+dkittle94@university.edu+(229) 296-6618+Albany+GA+FR+MGMT+2
+U00228752+Maxie+Allanby+11/06/2001+mallanby95@university.edu+(720) 887-2155+Denver+CO+GR+EDCI+3
+U00526954+Celene+McEachern+10/04/1997+cmceachern96@university.edu+(810) 676-2293+Flint+MI+SR+PSYC+5
+U00332987+Kyle+Ghiotto+11/14/2000+kghiotto97@university.edu+(202) 374-7169+Washington+DC+SO+HUMT+3
+U00539226+Merle+Lowten+01/03/1998+mlowten98@university.edu+(310) 317-4002+Inglewood+CA+GR+PBRL+2
+U00825724+Saxe+Kisbee+11/17/1996+skisbee99@university.edu+(412) 539-4694+Mc Keesport+PA+SR+POLS+2
+U00520227+Demetris+Le Brum+05/21/2000+dlebrum9a@university.edu+(813) 925-2845+Tampa+FL+JR+COM+1
+U00443060+Bella+Watkiss+04/17/2000+bwatkiss9b@university.edu+(616) 830-2071+Grand Rapids+MI+SO+PRST+3
+U00320800+Lonny+Geldeford+03/06/1995+lgeldeford9c@university.edu+(336) 917-9156+Greensboro+NC+JR+PSYC+1
+U00782806+Lilly+Coules+07/03/1995+lcoules9d@university.edu+(832) 806-3753+Houston+TX+SO+THEA+2
+U00065693+Reeba+Earingey+06/27/2001+rearingey9e@university.edu+(386) 772-7054+Daytona Beach+FL+SR+PHYS+2
+U00358308+Irwin+Wernher+08/15/1996+iwernher9f@university.edu+(513) 118-3583+Cincinnati+OH+JR+GSLD+3
+U00339585+Jonah+Oakenfield+09/02/1999+joakenfield9g@university.edu+(602) 632-0917+Chandler+AZ+GR+HUM+2
+U00106042+Anatola+Delamaine+06/29/1995+adelamaine9h@university.edu+(813) 669-2255+Tampa+FL+FR+WEB+3
+U00461481+Lyn+Cowern+02/24/2001+lcowern9i@university.edu+(504) 706-4782+New Orleans+LA+FR+PHSI+5
+U00077760+Claudette+Janssens+12/08/1997+cjanssens9j@university.edu+(605) 544-8138+Sioux Falls+SD+SO+EXCH+4
+U00405905+Harmon+Wahncke+03/18/2000+hwahncke9k@university.edu+(309) 183-3181+Carol Stream+IL+FR+CSCI+2
+U00387423+Gale+Featherston+04/12/2002+gfeatherston9l@university.edu+(775) 301-1897+Carson City+NV+JR+LATN+3
+U00282458+Lynda+Shury+07/29/2001+lshury9m@university.edu+(740) 947-5371+Columbus+OH+SR+CITC+1
+U00717879+Deirdre+Christophers+04/09/2000+dchristophers9n@university.edu+(702) 971-8167+Las Vegas+NV+FR+PRST+2
+U00313273+Fae+Cheetam+07/30/1995+fcheetam9o@university.edu+(404) 236-0624+Atlanta+GA+SO+CITC+1
+U00164528+Lisbeth+Kittless+05/24/1996+lkittless9p@university.edu+(225) 610-9227+Baton Rouge+LA+FR+HETH+1
+U00759616+Cam+Cabrera+03/26/2000+ccabrera9q@university.edu+(812) 762-3752+Evansville+IN+SO+FREN+2
+U00227520+Issie+Elegood+04/03/1999+ielegood9r@university.edu+(215) 532-1791+Philadelphia+PA+FR+BUSN+3
+U00305343+Emili+Grosvenor+11/17/1999+egrosvenor9s@university.edu+(213) 148-1618+Los Angeles+CA+GR+JAPN+2
+U00482253+Atalanta+Hastilow+03/13/1995+ahastilow9t@university.edu+(323) 498-8038+Los Angeles+CA+JR+ME+2
+U00786291+Xerxes+Aulds+01/12/1999+xaulds9u@university.edu+(813) 908-3916+Tampa+FL+GR+SOCI+6
+U00820682+Noemi+Arnecke+12/27/1999+narnecke9v@university.edu+(318) 949-8529+Alexandria+LA+SR+CUAI+3
+U00202585+Alfy+Heckney+04/15/2001+aheckney9w@university.edu+(540) 200-2466+Roanoke+VA+SO+HSCI+1
+U00948750+Benetta+Fenning+01/21/1998+bfenning9x@university.edu+(912) 591-8852+Savannah+GA+GR+ARTH+4
+U00675350+Sarita+Gregorowicz+10/26/2002+sgregorowicz9y@university.edu+(513) 704-3855+Dayton+OH+JR+SCED+1
+U00237545+Helga+Conan+04/07/2000+hconan9z@university.edu+(614) 643-1642+Columbus+OH+SR+EDU+1
+U00594070+Clarie+Bramich+11/03/2002+cbramicha0@university.edu+(972) 478-3769+Dallas+TX+GR+HUMT+3
+U00151153+Jemima+Jewson+12/27/1999+jjewsona1@university.edu+(937) 436-4054+Dayton+OH+FR+PHYT+2
+U00698270+Geoffrey+Kubicki+04/29/1998+gkubickia2@university.edu+(317) 123-9533+Indianapolis+IN+SR+COMP+1
+U00556659+Cynthea+Wraggs+11/06/1995+cwraggsa3@university.edu+(334) 180-0579+Montgomery+AL+SO+ME+4
+U00085647+Tremain+Andover+08/01/1998+tandovera4@university.edu+(304) 246-6283+Charleston+WV+JR+AFAM+2
+U00836665+Clarissa+Moyles+03/25/1998+cmoylesa5@university.edu+(812) 651-5802+Evansville+IN+JR+BUSN+2
+U00373728+Vlad+Keaton+10/22/2002+vkeatona6@university.edu+(334) 828-6134+Montgomery+AL+JR+JOUR+2
+U00520373+Jon+Rizon+10/06/2000+jrizona7@university.edu+(612) 272-0798+Minneapolis+MN+JR+MSDM+3
+U00850090+Cletis+Fairbairn+03/26/2001+cfairbairna8@university.edu+(805) 963-6987+Santa Barbara+CA+SO+BIOM+2
+U00412442+Murray+Pechan+11/12/2001+mpechana9@university.edu+(502) 993-3524+Frankfort+KY+SR+PSYC+4
+U00246500+Ruthy+Spalding+02/04/2000+rspaldingaa@university.edu+(801) 301-3596+Salt Lake City+UT+SR+BIOL+2
+U00461844+Freeman+Romand+12/31/1995+fromandab@university.edu+(310) 699-5156+Torrance+CA+GR+PTMA+5
+U00756134+Emlyn+Baptie+11/13/2000+ebaptieac@university.edu+(610) 855-6233+Reading+PA+GR+SLS+2
+U00463952+Carina+Densey+11/29/1998+cdenseyad@university.edu+(717) 950-5765+Harrisburg+PA+JR+APST+3
+U00891559+Jeralee+Kembery+06/06/2002+jkemberyae@university.edu+(617) 927-0806+Boston+MA+SO+PM+2
+U00678956+Herman+Butts+08/05/2002+hbuttsaf@university.edu+(414) 301-0918+Milwaukee+WI+FR+ME+1
+U00088628+Kimberli+Rasmus+11/04/1998+krasmusag@university.edu+(352) 233-4178+Ocala+FL+JR+MKTG+3
+U00593788+Eustace+Overall+09/17/2001+eoverallah@university.edu+(520) 513-1885+Tucson+AZ+JR+BIOL+4
+U00404869+Levon+Arnould+12/14/2000+larnouldai@university.edu+(209) 412-1032+Modesto+CA+SR+EXCH+2
+U00155745+Morris+Lorenzin+09/23/1998+mlorenzinaj@university.edu+(228) 971-2682+Gulfport+MS+FR+ME+3
+U00081136+Jacinthe+Shewon+03/15/1998+jshewonak@university.edu+(757) 963-4536+Hampton+VA+FR+ARTA+3
+U00024079+Sigmund+Pietron+05/03/1996+spietronal@university.edu+(909) 310-8382+Pomona+CA+FR+CSCI+5
+U00208515+Carmen+Feasley+04/10/1999+cfeasleyam@university.edu+(630) 601-3259+Naperville+IL+FR+RHSC+2
+U00003421+Massimo+McGuff+01/11/2001+mmcguffan@university.edu+(843) 171-2165+Beaufort+SC+FR+ACCT+2
+U00025882+Lothaire+Fisbey+04/27/1996+lfisbeyao@university.edu+(918) 310-6603+Tulsa+OK+SR+COMM+4
+U00125483+Pate+Rook+07/01/1998+prookap@university.edu+(540) 473-4404+Fredericksburg+VA+FR+PREH+3
+U00631755+Danie+Timny+03/27/1999+dtimnyaq@university.edu+(661) 973-3891+Burbank+CA+SO+BLUE+2
+U00287585+Trumann+Keeting+12/31/2002+tkeetingar@university.edu+(202) 766-1541+Washington+DC+SR+CSCI+5
+U00490675+Nissie+Divell+12/14/1995+ndivellas@university.edu+(901) 622-2676+Memphis+TN+SR+AVST+2
+U00999656+Wilburt+Belloch+07/19/2000+wbellochat@university.edu+(843) 965-4865+Beaufort+SC+SR+ENGR+2
+U00391601+Cory+Dunn+01/20/1998+cdunnau@university.edu+(907) 921-8311+Fairbanks+AK+SR+MGMT+2
+U00541125+Dyna+Windley+12/09/2002+dwindleyav@university.edu+(202) 467-6945+Washington+DC+SR+PETE+6
+U00486375+Derick+Andretti+02/21/1997+dandrettiaw@university.edu+(510) 471-2403+Oakland+CA+JR+CUAI+2
+U00958848+Caritta+Laydon+02/19/2001+claydonax@university.edu+(212) 394-5414+New York City+NY+SR+BSTA+2
+U00045695+Elyn+Gatrell+04/30/2001+egatrellay@university.edu+(205) 410-1609+Birmingham+AL+JR+CUAI+1
+U00956812+Wait+Dillway+11/28/1997+wdillwayaz@university.edu+(239) 750-2625+Naples+FL+SR+SOWK+3
+U00489113+Bernie+Dewfall+07/16/1995+bdewfallb0@university.edu+(713) 102-4993+Houston+TX+SR+ARTH+3
+U00636854+Gabriellia+Willcox+12/18/1998+gwillcoxb1@university.edu+(412) 905-4789+Pittsburgh+PA+GR+NTFD+1
+U00232802+Alfy+Andrzejewski+03/19/2002+aandrzejewskib2@university.edu+(806) 940-4459+Amarillo+TX+JR+TECH+3
+U00830182+Meier+Erratt+10/17/2001+merrattb3@university.edu+(785) 209-8782+Topeka+KS+SR+ENTC+2
+U00061254+Jenine+Cassley+12/31/1996+jcassleyb4@university.edu+(713) 576-4751+Houston+TX+SO+HDAL+2
+U00561747+Mariam+Paris+03/18/1996+mparisb5@university.edu+(334) 487-9322+Montgomery+AL+FR+SOWK+3
+U00368411+Grange+Fogarty+09/23/1997+gfogartyb6@university.edu+(612) 626-4377+Saint Paul+MN+GR+INFS+3
+U00449124+Raina+Spering+08/18/2002+rsperingb7@university.edu+(865) 116-2248+Knoxville+TN+JR+FREN+3
+U00561466+Jasmin+Arnoll+09/09/2000+jarnollb8@university.edu+(585) 930-8935+Rochester+NY+GR+BIOL+3
+U00234589+Mirabella+Sycamore+10/29/2001+msycamoreb9@university.edu+(386) 662-0192+Daytona Beach+FL+JR+LANG+3
+U00555064+Paige+Collard+10/01/1997+pcollardba@university.edu+(203) 839-7940+New Haven+CT+GR+PADM+3
+U00274885+Ginger+Despenser+01/10/2002+gdespenserbb@university.edu+(828) 119-7075+Asheville+NC+FR+ALHS+5
+U00988226+Dana+Keelan+12/18/1997+dkeelanbc@university.edu+(813) 547-0174+Tampa+FL+GR+MRCH+3
+U00929460+Zola+Moylan+11/24/2001+zmoylanbd@university.edu+(330) 246-0280+Akron+OH+SO+CDST+2
+U00317674+Chad+Nana+03/21/1996+cnanabe@university.edu+(512) 880-2539+Austin+TX+FR+PSCI+2
+U00756826+Spenser+McKeighan+09/18/2000+smckeighanbf@university.edu+(504) 257-9846+New Orleans+LA+SR+RHSC+3
+U00878289+Miguelita+McIlrath+09/17/2000+mmcilrathbg@university.edu+(502) 512-9943+Louisville+KY+GR+PETE+2
+U00940446+Gwenneth+Woollaston+06/18/2000+gwoollastonbh@university.edu+(801) 125-4224+Salt Lake City+UT+SO+MATH+3
+U00145253+Erl+Havick+01/09/1996+ehavickbi@university.edu+(209) 938-3299+Stockton+CA+GR+RELI+2
+U00235784+Osmond+Woolham+06/19/1997+owoolhambj@university.edu+(563) 387-4689+Davenport+IA+JR+PADM+3
+U00734312+Mikael+Jeanet+07/17/1998+mjeanetbk@university.edu+(251) 240-7725+Mobile+AL+SR+ENTC+4
+U00244065+Valentin+Denne+03/30/1997+vdennebl@university.edu+(801) 577-0393+Salt Lake City+UT+JR+PHSI+3
+U00176868+Shayna+Andreucci+06/12/1995+sandreuccibm@university.edu+(808) 543-7510+Honolulu+HI+GR+NTFD+3
+U00604073+Aurora+O'Loughlin+09/07/2002+aoloughlinbn@university.edu+(915) 814-8148+El Paso+TX+SR+SALM+3
+U00744645+Valentin+Chantillon+10/09/1996+vchantillonbo@university.edu+(415) 887-7542+San Francisco+CA+SO+WEBT+2
+U00971174+Gwendolin+Satchell+08/03/1999+gsatchellbp@university.edu+(214) 181-0126+Dallas+TX+FR+PHED+2
+U00346890+Dasha+Garrold+02/04/2001+dgarroldbq@university.edu+(203) 428-5807+Waterbury+CT+JR+HPSS+3
+U00720336+Joceline+Horstead+08/16/2002+jhorsteadbr@university.edu+(210) 895-4897+San Antonio+TX+SR+ENGL+3
+U00237832+Saxon+Fairburne+04/08/2001+sfairburnebs@university.edu+(281) 433-3212+Houston+TX+GR+PHYT+9
+U00813097+Reta+Polk+07/17/2001+rpolkbt@university.edu+(309) 841-0209+Bloomington+IL+FR+DHYG+3
+U00027701+Arliene+Umpleby+10/19/1995+aumplebybu@university.edu+(727) 153-2819+Clearwater+FL+SR+MATH+2
+U00363809+Elbertina+Dibson+11/13/1999+edibsonbv@university.edu+(704) 192-8253+Charlotte+NC+JR+NTFD+3
+U00117401+Lyndsie+Setterington+07/05/1999+lsetteringtonbw@university.edu+(434) 301-7784+Lynchburg+VA+SR+HSCI+2
+U00819416+Maye+De Bischop+09/04/2001+mdebischopbx@university.edu+(515) 649-9073+Des Moines+IA+SR+SOWK+2
+U00101346+Sheilah+Filyakov+10/20/1995+sfilyakovby@university.edu+(402) 871-0197+Omaha+NE+FR+WEB+1
+U00592109+Quincey+Rowen+01/26/2000+qrowenbz@university.edu+(480) 935-7442+Mesa+AZ+SR+HSC+1
+U00793790+Ilise+Franses+08/18/2002+ifransesc0@university.edu+(530) 277-7595+Sacramento+CA+FR+LANG+3
+U00374688+Logan+Turl+02/07/2000+lturlc1@university.edu+(443) 618-9223+Baltimore+MD+JR+HPSS+3
+U00270384+Quintana+Stenton+04/25/1999+qstentonc2@university.edu+(915) 820-1257+El Paso+TX+FR+SOCI+1
+U00782846+Davey+Daens+10/17/1998+ddaensc3@university.edu+(239) 283-2357+Fort Myers+FL+GR+EXCH+3
+U00938916+Ivor+Jex+10/24/1995+ijexc4@university.edu+(205) 774-1932+Birmingham+AL+FR+CJCR+3
+U00427161+Goldie+Kain+08/06/2002+gkainc5@university.edu+(571) 806-1334+Springfield+VA+FR+BSTA+1
+U00259527+Jaquenette+Abramin+08/05/1999+jabraminc6@university.edu+(808) 407-1309+Honolulu+HI+GR+SOWK+2
+U00397434+Ettore+Aleksandrov+12/21/1997+ealeksandrovc7@university.edu+(615) 586-4738+Murfreesboro+TN+JR+HIST+5
+U00750775+Jessey+Slorance+12/09/1996+jslorancec8@university.edu+(850) 332-4850+Pensacola+FL+FR+CSCI+5
+U00675120+Hildagard+Raff+04/30/1999+hraffc9@university.edu+(805) 826-5299+Santa Barbara+CA+SR+AFAM+2
+U00068680+Fabio+Mumbeson+03/13/2002+fmumbesonca@university.edu+(772) 554-3347+Fort Pierce+FL+SR+LATN+6
+U00662894+Mariette+Wratten+12/13/2001+mwrattencb@university.edu+(701) 610-7191+Grand Forks+ND+FR+PADM+2
+U00531204+Grazia+Sugden+07/09/1996+gsugdencc@university.edu+(337) 126-9519+Lake Charles+LA+SR+MATH+3
+U00837731+Heywood+Criple+11/30/2000+hcriplecd@university.edu+(915) 467-8382+El Paso+TX+SR+GREK+1
+U00930572+Immanuel+Warham+05/21/2001+iwarhamce@university.edu+(251) 898-6827+Mobile+AL+SR+HETH+2
+U00102994+Alec+Early+10/10/1998+aearlycf@university.edu+(951) 958-7585+Corona+CA+SR+EDUC+3
+U00279608+Waiter+Seawell+01/20/1997+wseawellcg@university.edu+(972) 742-2316+Dallas+TX+FR+ELED+5
+U00302047+Scotti+Edmands+04/22/2001+sedmandsch@university.edu+(508) 106-3816+Worcester+MA+SR+COMP+1
+U00206591+Hilly+Jacques+08/06/1997+hjacquesci@university.edu+(760) 209-4188+San Diego+CA+SR+COMP+6
+U00725394+Lynnette+Tadd+09/04/1999+ltaddcj@university.edu+(650) 423-5246+San Jose+CA+SR+JAPN+3
+U00687019+Nathanial+Laugharne+06/25/2001+nlaugharneck@university.edu+(630) 741-7296+Chicago+IL+JR+ASLC+2
+U00417493+Maryellen+Matschoss+06/03/1995+mmatschosscl@university.edu+(919) 943-1300+Durham+NC+SO+COM+3
+U00750819+Ewell+Simmins+07/06/1997+esimminscm@university.edu+(859) 289-0018+Lexington+KY+GR+PMSY+2
+U00228258+Tucker+McKennan+10/04/2000+tmckennancn@university.edu+(765) 626-9987+Muncie+IN+SO+BUSN+2
+U00376103+Blake+Stiegers+10/13/1999+bstiegersco@university.edu+(215) 773-3986+Philadelphia+PA+SR+PHED+1
+U00880912+Cathrine+Yegorchenkov+08/02/2000+cyegorchenkovcp@university.edu+(915) 647-7223+El Paso+TX+GR+HSC+2
+U00195430+Gusti+Elsmere+08/06/2001+gelsmerecq@university.edu+(713) 120-2098+Houston+TX+JR+ARTA+2
+U00555575+Dene+Asif+04/21/2002+dasifcr@university.edu+(915) 703-7763+El Paso+TX+FR+PSCI+2
+U00058616+Jamey+Davidsen+02/11/2001+jdavidsencs@university.edu+(763) 371-0922+Minneapolis+MN+SO+AGRI+3
+U00416740+Hadrian+Saffell+08/16/2001+hsaffellct@university.edu+(785) 838-5815+Topeka+KS+SO+MICR+2
+U00170570+Ambrosi+Jeandet+07/19/1997+ajeandetcu@university.edu+(901) 109-8665+Memphis+TN+FR+AGRI+5
+U00935431+Pancho+Pickworth+09/06/1999+ppickworthcv@university.edu+(865) 772-8893+Knoxville+TN+FR+EDCI+4
+U00543996+Ynez+Geeson+05/29/1997+ygeesoncw@university.edu+(336) 227-5739+Greensboro+NC+SO+EDUC+2
+U00176628+Blanch+Romayn+07/06/1996+bromayncx@university.edu+(816) 282-5535+Kansas City+MO+GR+CDIS+2
+U00613329+Willi+Shutt+02/18/1998+wshuttcy@university.edu+(915) 692-3247+El Paso+TX+JR+MSDM+6
+U00199898+Nate+Klima+06/08/1998+nklimacz@university.edu+(229) 846-7999+Valdosta+GA+GR+JAPN+6
+U00577444+Earle+Adolfsen+03/15/1999+eadolfsend0@university.edu+(602) 515-3080+Phoenix+AZ+SO+CSCI+2
+U00997954+Koralle+Clinch+10/16/2001+kclinchd1@university.edu+(951) 865-2773+Riverside+CA+SO+ART+2
+U00943114+Brittney+Hurlestone+04/13/2002+bhurlestoned2@university.edu+(314) 706-7908+Saint Louis+MO+JR+ANTH+3
+U00044565+Sharla+Halewood+03/04/1999+shalewoodd3@university.edu+(573) 453-4813+Columbia+MO+JR+TEAE+4
+U00637877+Binni+Clapston+08/10/1999+bclapstond4@university.edu+(281) 661-4002+Houston+TX+FR+PSCI+1
+U00548663+Nicky+Tring+10/11/1999+ntringd5@university.edu+(608) 980-9342+Madison+WI+JR+NRSE+3
+U00330551+Angus+Deas+05/26/2000+adeasd6@university.edu+(952) 435-2837+Young America+MN+GR+SRVL+4
+U00549499+Daisy+Hamblington+05/23/2000+dhamblingtond7@university.edu+(305) 642-8508+Miami Beach+FL+SR+GEOS+2
+U00763721+Demetra+Lusher+03/07/1997+dlusherd8@university.edu+(970) 131-5941+Greeley+CO+SR+GEOG+1
+U00491399+Gilbert+Thomasset+05/05/1996+gthomassetd9@university.edu+(419) 466-2607+Toledo+OH+SR+PEXS+3
+U00094187+Guillemette+Brislawn+03/05/2000+gbrislawnda@university.edu+(512) 892-2317+Austin+TX+SR+ELED+5
+U00089001+Rebe+Martineau+11/11/2002+rmartineaudb@university.edu+(843) 767-4581+Charleston+SC+SO+HIST+2
+U00604209+Farlee+Borel+03/13/1998+fboreldc@university.edu+(484) 682-1491+Reading+PA+JR+ELPA+6
+U00617248+Pyotr+Pennycock+06/02/2002+ppennycockdd@university.edu+(626) 414-0720+Pasadena+CA+SO+AVST+1
+U00817774+Hilton+Fenck+11/05/2000+hfenckde@university.edu+(704) 364-4427+Charlotte+NC+GR+CSCI+4
+U00833673+Aloin+Lujan+08/02/2000+alujandf@university.edu+(309) 437-9849+Peoria+IL+GR+RADT+2
+U00150837+Mead+Mullins+12/30/1996+mmullinsdg@university.edu+(773) 296-5382+Chicago+IL+GR+GRAD+3
+U00878165+Kev+Brislen+12/26/2001+kbrislendh@university.edu+(802) 563-4567+Montpelier+VT+GR+EDFN+4
+U00998646+Tierney+Zebedee+03/22/2001+tzebedeedi@university.edu+(510) 301-2827+Oakland+CA+SO+ECED+2
+U00629378+Pammie+Tuckett+02/09/2001+ptuckettdj@university.edu+(757) 528-7559+Virginia Beach+VA+SR+ENTC+2
+U00150950+Retha+Fetherston+05/05/1996+rfetherstondk@university.edu+(916) 161-8066+Sacramento+CA+JR+HDAL+2
+U00483585+Hebert+Owen+09/27/1995+howendl@university.edu+(601) 823-9508+Jackson+MS+SO+HSCI+3
+U00777159+Valentin+Bustin+06/30/2001+vbustindm@university.edu+(626) 437-8972+Alhambra+CA+JR+SLS+3
+U00208237+Adriaens+Boot+11/16/2001+abootdn@university.edu+(239) 343-7249+Lehigh Acres+FL+FR+SOAA+2
+U00075771+Veda+Benmore+08/26/1997+vbenmoredo@university.edu+(936) 683-7023+Huntsville+TX+JR+MICR+2
+U00588716+Nick+Hollow+11/11/2000+nhollowdp@university.edu+(316) 812-2251+Wichita+KS+SO+CPSC+4
+U00042218+Bancroft+Rosenfield+02/19/2002+brosenfielddq@university.edu+(757) 529-5393+Hampton+VA+GR+FREN+3
+U00725135+Carlynn+Sangwine+12/20/1999+csangwinedr@university.edu+(414) 217-3939+Milwaukee+WI+FR+CSCI+2
+U00730700+Cathy+Goodwill+01/03/2002+cgoodwillds@university.edu+(202) 792-3728+Washington+DC+GR+PHAR+6
+U00630496+Minette+Patifield+03/31/1996+mpatifielddt@university.edu+(562) 793-7322+Long Beach+CA+FR+STAT+5
+U00224500+Daisie+Elkin+10/12/2002+delkindu@university.edu+(803) 210-3884+Columbia+SC+SR+HDAL+2
+U00805065+Steffie+Gatheral+01/17/1998+sgatheraldv@university.edu+(210) 169-4049+San Antonio+TX+SO+INTD+3
+U00429014+Phedra+Kleeborn+09/06/1998+pkleeborn0@university.edu+920-200-0617+Green Bay+WI+JR+SRVL+2
+U00397788+Lesley+Santos+10/17/1996+lsantos1@university.edu+814-588-5954+Erie+PA+JR+ART+4
+U00537650+Xavier+Rontsch+07/03/1999+xrontsch2@university.edu+202-647-2724+Washington+DC+SO+HETH+6
+U00674969+Meggy+Ferminger+10/31/2001+mferminger3@university.edu+240-276-3983+Silver Spring+MD+JR+MSDM+2
+U00051720+Crawford+Aldcorne+09/21/1995+caldcorne4@university.edu+215-304-3910+Philadelphia+PA+FR+POLI+1
+U00766933+Maritsa+Afonso+05/17/2001+mafonso5@university.edu+508-399-4374+Newton+MA+JR+LANG+6
+U00719528+Collete+Sotworth+12/26/1996+csotworth6@university.edu+303-118-3373+Englewood+CO+GR+SURV+4
+U00902633+Hamid+Instock+08/26/1996+hinstock7@university.edu+806-107-1695+Amarillo+TX+SO+CDIS+2
+U00630305+Cori+Blowfield+06/15/1999+cblowfield8@university.edu+901-373-6528+Memphis+TN+SO+BSTA+2
+U00126359+Danya+Springtorpe+04/12/2001+dspringtorpe9@university.edu+502-401-1069+Louisville+KY+SO+BUSN+6
+U00674847+Mufinella+Tabary+01/18/1997+mtabarya@university.edu+312-995-4523+Chicago+IL+SO+EDU+5
+U00857554+Waneta+Hebborn+03/08/2000+whebbornb@university.edu+720-993-4041+Littleton+CO+SR+CSCI+4
+U00705114+Ives+Edens+12/30/1996+iedensc@university.edu+404-686-6580+Atlanta+GA+FR+MSCI+3
+U00762938+Trenton+Dhennin+03/10/1995+tdhennind@university.edu+407-675-3281+Orlando+FL+FR+INFS+6
+U00093288+Mara+Coull+07/22/2001+mcoulle@university.edu+850-635-4377+Pensacola+FL+FR+CISP+2
+U00548490+Boycie+Grog+04/29/2000+bgrogf@university.edu+614-886-5285+Columbus+OH+SO+AMBA+1
+U00633605+Barr+Hanburry+09/06/1996+bhanburryg@university.edu+508-714-0420+Worcester+MA+SR+EDAD+2
+U00982690+Drusie+Halsey+05/23/1997+dhalseyh@university.edu+949-690-8359+Orange+CA+FR+LDSP+3
+U00482920+Maxy+Janiak+07/15/2002+mjaniaki@university.edu+520-129-9946+Tucson+AZ+GR+EDU+2
+U00891436+Olin+Seacombe+08/17/1997+oseacombej@university.edu+408-613-3241+San Jose+CA+GR+CSCI+1
+U00864853+Nelly+Ianno+04/04/1995+niannok@university.edu+713-821-7073+Houston+TX+GR+EDFN+4
+U00334974+Ian+Vagges+07/04/1999+ivaggesl@university.edu+386-526-0690+Daytona Beach+FL+SR+ENVS+3
+U00285436+Livia+Mumbey+03/30/2000+lmumbeym@university.edu+602-214-1413+Phoenix+AZ+FR+POLI+1
+U00301345+Tillie+Sigert+05/07/2000+tsigertn@university.edu+256-594-9604+Huntsville+AL+GR+ELED+2
+U00384272+Jania+Vispo+01/21/1999+jvispoo@university.edu+432-833-7566+Midland+TX+GR+COMP+3
+U00522760+Daria+Mintrim+11/24/1996+dmintrimp@university.edu+202-525-7467+Washington+DC+SO+BSTA+2
+U00601612+Eliot+Tatnell+11/18/2001+etatnellq@university.edu+917-882-1282+New York City+NY+SR+ART+3
+U00929329+Marcellina+Byway+02/14/2000+mbywayr@university.edu+757-409-8959+Hampton+VA+SO+SW+2
+U00125981+Hyacinth+Giovannetti+06/06/1997+hgiovannettis@university.edu+785-282-9355+Topeka+KS+GR+JOUR+4
+U00330582+Cass+Hazle+10/14/2002+chazlet@university.edu+702-717-4366+Las Vegas+NV+GR+BSTA+6
+U00297010+Lauren+Blissitt+11/10/1998+lblissittu@university.edu+318-727-8897+Shreveport+LA+SR+PEXS+4
+U00705531+Orelee+Lenoir+05/30/1999+olenoirv@university.edu+928-777-9035+Prescott+AZ+SO+MCOM+2
+U00000250+Jonathan+Bibey+04/01/1997+jbibeyw@university.edu+816-575-1831+Independence+MO+SO+PHYS+1
+U00640227+Sancho+Bostock+10/17/1995+sbostockx@university.edu+646-632-9866+Brooklyn+NY+GR+ENVS+3
+U00281389+Gerhard+Priter+05/06/1996+gpritery@university.edu+601-563-7282+Jackson+MS+FR+CSCI+3
+U00384058+Westleigh+Wibberley+10/06/2002+wwibberleyz@university.edu+251-900-4025+Mobile+AL+GR+SRVL+2
+U00963092+Rees+Matijevic+05/17/1995+rmatijevic10@university.edu+760-126-8272+Escondido+CA+FR+RELI+2
+U00408063+Rachele+Rathborne+10/29/1995+rrathborne11@university.edu+916-400-1023+Sacramento+CA+JR+CRMJ+5
+U00398764+Moyra+McCaighey+09/27/1997+mmccaighey12@university.edu+510-479-9604+Oakland+CA+GR+ASTR+2
+U00818302+Kaycee+Dulwich+07/24/1995+kdulwich13@university.edu+901-770-0553+Memphis+TN+SR+SOWK+5
+U00673808+Tedra+Braam+04/06/2002+tbraam14@university.edu+251-822-1046+Mobile+AL+SR+PHYT+2
+U00996139+Olva+Simkovich+11/15/1995+osimkovich15@university.edu+414-235-7534+Milwaukee+WI+SR+ECED+4
+U00293398+Aime+Batiste+01/08/1999+abatiste16@university.edu+901-957-2264+Memphis+TN+FR+JRSM+2
+U00393063+Delmer+Jagels+12/25/1997+djagels17@university.edu+704-579-5213+Charlotte+NC+SR+CSCI+4
+U00266750+Araldo+Jaegar+08/03/1998+ajaegar18@university.edu+763-996-8929+Monticello+MN+JR+BLUE+1
+U00057519+Rosamond+Gewer+05/12/2002+rgewer19@university.edu+508-270-3673+Worcester+MA+GR+BADM+3
+U00189518+Tades+Bradberry+10/19/2001+tbradberry1a@university.edu+503-506-3344+Portland+OR+FR+MUSC+3
+U00354124+Celene+Behan+12/23/1995+cbehan1b@university.edu+203-437-3044+Waterbury+CT+SR+ENGR+2
+U00209851+Kora+Moyler+07/31/2001+kmoyler1c@university.edu+504-558-4920+New Orleans+LA+FR+INTD+3
+U00190526+Mick+Castanho+02/10/1998+mcastanho1d@university.edu+404-327-2945+Atlanta+GA+FR+MUS+1
+U00043809+Bidget+Willars+02/14/2001+bwillars1e@university.edu+304-859-7816+Charleston+WV+JR+ME+2
+U00634280+Chrisse+Govan+07/28/1996+cgovan1f@university.edu+850-700-4411+Pinellas Park+FL+SO+CSCI+3
+U00865285+Marne+MacCallion+12/26/1995+mmaccallion1g@university.edu+410-446-6704+Baltimore+MD+GR+INTD+3
+U00111510+Tilda+Keam+07/19/2000+tkeam1h@university.edu+704-241-0063+Charlotte+NC+SO+FREN+3
+U00263394+Agneta+Beldan+09/13/1995+abeldan1i@university.edu+806-348-2960+Amarillo+TX+SO+AVST+4
+U00334152+Bo+Orbell+07/27/1995+borbell1j@university.edu+918-227-2492+Tulsa+OK+FR+SPAN+2
+U00043833+Birk+Pilmoor+08/31/2001+bpilmoor1k@university.edu+617-778-6535+Boston+MA+SR+SCED+2
+U00717025+Hobart+McAne+09/03/2002+hmcane1l@university.edu+602-771-5469+Mesa+AZ+FR+JOUR+3
+U00429301+Stanford+Mc Carroll+12/14/1997+smccarroll1m@university.edu+520-402-2630+Tucson+AZ+SO+HIMT+6
+U00907148+Anny+Pedrol+06/05/1999+apedrol1n@university.edu+704-709-0014+Charlotte+NC+GR+EXCH+3
+U00600389+Mahmoud+Kobelt+12/02/1997+mkobelt1o@university.edu+812-270-1885+Evansville+IN+SO+PHSI+2
+U00070034+Megan+Soutar+11/08/2002+msoutar1p@university.edu+217-686-4134+Decatur+IL+SR+LANG+3
+U00277745+Adelind+Slessar+01/01/1997+aslessar1q@university.edu+301-168-4118+Silver Spring+MD+GR+EDU+3
+U00353765+Babara+Jozefczak+08/07/1998+bjozefczak1r@university.edu+361-179-1485+Corpus Christi+TX+GR+ADVR+2
+U00072819+Martha+Samsworth+08/11/2002+msamsworth1s@university.edu+386-846-4273+Daytona Beach+FL+JR+HSRV+5
+U00780099+Paola+Binch+02/04/2001+pbinch1t@university.edu+831-738-2201+Salinas+CA+JR+EDAD+2
+U00733220+Malinda+Clausen-Thue+08/24/1998+mclausenthue1u@university.edu+318-274-3174+Boston+MA+GR+HIST+4
+U00536329+Goldi+Langham+08/15/2002+glangham1v@university.edu+601-809-3409+Jackson+MS+JR+MSDM+1
+U00106192+Nicki+Delamaine+05/10/1999+ndelamaine1w@university.edu+318-460-5133+Shreveport+LA+SR+MSDM+3
+U00346635+Bren+O' Bee+09/14/2002+bobee1x@university.edu+830-590-6019+San Antonio+TX+FR+GEOS+2
+U00299053+Brit+Gleder+03/28/2002+bgleder1y@university.edu+904-469-4313+Jacksonville+FL+JR+GERM+4
+U00666291+Guillemette+Warden+07/04/1995+gwarden1z@university.edu+901-151-7013+Memphis+TN+SR+JRSM+3
+U00706337+Johnny+Jerome+08/06/2002+jjerome20@university.edu+775-760-0185+Sparks+NV+SR+ENVS+2
+U00258874+Chris+Cauldwell+03/10/1998+ccauldwell21@university.edu+208-962-8282+Boise+ID+SO+CSCI+3
+U00982835+Shea+Martensen+07/29/2002+smartensen22@university.edu+559-199-4043+Fullerton+CA+SO+STOR+2
+U00593375+Benjamen+Willcock+06/17/1996+bwillcock23@university.edu+202-842-3833+Washington+DC+FR+CSCI+2
+U00644231+Humfried+Burling+12/23/1999+hburling24@university.edu+520-563-6338+Tucson+AZ+SO+GEOG+6
+U00516313+Ianthe+Moral+12/07/1998+imoral25@university.edu+805-549-7793+Ventura+CA+JR+PADM+1
+U00312245+Emmye+Nicholl+06/10/2001+enicholl26@university.edu+423-418-1157+Chattanooga+TN+SR+ME+1
+U00891881+Gennifer+Ricold+12/01/1997+gricold27@university.edu+606-164-7157+London+KY+FR+NRSE+4
+U00778411+Edie+Bente+11/11/2001+ebente28@university.edu+678-560-1604+Duluth+GA+SO+ARTH+4
+U00378732+Karlyn+Agronski+08/21/1998+kagronski29@university.edu+754-243-6183+Fort Lauderdale+FL+SO+CPSC+2
+U00907345+Candida+Dorsett+08/20/2001+cdorsett2a@university.edu+910-352-0624+Fayetteville+NC+SR+JAPN+2
+U00708010+Pryce+Scotchmoor+08/14/1996+pscotchmoor2b@university.edu+918-910-1448+Tulsa+OK+SO+ET+2
+U00407278+Roberta+Pickup+06/09/1999+rpickup2c@university.edu+772-611-7614+Vero Beach+FL+JR+RTVF+6
+U00313765+Erhart+Venton+01/23/1988+eventon2d@university.edu+310-718-2263+Los Angeles+CA+JR+HSCI+2
+U00793758+Andreana+Harrap+06/20/2002+aharrap2e@university.edu+646-498-3799+New York City+NY+GR+CSCI+1
+U00698567+Mariquilla+Maruska+10/27/1996+mmaruska2f@university.edu+312-726-4393+Chicago+IL+JR+ARTH+3
+U00786289+Tamiko+Rosenthaler+04/13/1988+trosenthaler2g@university.edu+305-851-5129+Hollywood+FL+SR+SWRK+4
+U00074367+Elwin+Ramsdale+04/23/1995+eramsdale2h@university.edu+509-261-6679+Spokane+WA+SO+PHYT+4
+U00092162+Ethan+Winscomb+12/29/1996+ewinscomb2i@university.edu+713-648-4728+Houston+TX+SR+JOUR+5
+U00541213+Golda+Dallimare+05/06/1996+gdallimare2j@university.edu+614-581-8963+Columbus+OH+JR+EDUC+3
+U00193864+Paulie+Masters+03/11/2001+pmasters2k@university.edu+336-122-6872+Greensboro+NC+GR+POLS+3
+U00173718+Vinnie+Piotr+08/24/1999+vpiotr2l@university.edu+718-573-5467+Bronx+NY+SO+HIST+4
+U00744783+Eda+Gerrelts+10/26/1998+egerrelts2m@university.edu+917-825-0215+Brooklyn+NY+JR+SLS+4
+U00424056+Pearla+Kenan+07/29/1999+pkenan2n@university.edu+502-753-5958+Louisville+KY+GR+PMSY+1
+U00701779+Laureen+Marcinkus+02/22/1999+lmarcinkus2o@university.edu+260-144-3019+Fort Wayne+IN+SO+CSCI+2
+U00461168+Paulita+Laughrey+09/24/2001+plaughrey2p@university.edu+512-330-9379+Austin+TX+GR+ASLC+2
+U00055119+Lilias+Culverhouse+04/21/1997+lculverhouse2q@university.edu+508-231-4772+New Bedford+MA+SR+AFAM+1
+U00048703+Kearney+Brasher+06/26/2001+kbrasher2r@university.edu+330-846-2351+Warren+OH+GR+APST+2
+U00428055+Charlie+Troup+12/21/1996+ctroup2s@university.edu+570-759-5045+Scranton+PA+JR+WEB+3
+U00650722+Ofelia+Lotwich+11/14/2001+olotwich2t@university.edu+216-465-2144+Cleveland+OH+SO+MSCI+3
+U00725427+Lanae+O' Kelleher+06/16/1995+lokelleher2u@university.edu+213-336-3420+Los Angeles+CA+SO+ENTC+4
+U00003217+Clementine+Tollerton+09/04/1995+ctollerton2v@university.edu+423-139-1179+Johnson City+TN+SR+MEDA+3
+U00664776+Sterne+Seville+11/12/1988+sseville2w@university.edu+216-197-6202+Cleveland+OH+FR+GSLD+3
+U00043387+Andie+Lamke+09/22/1998+alamke2x@university.edu+502-730-0350+Louisville+KY+JR+THEA+1
+U00749920+Doretta+Candelin+08/10/1988+dcandelin2y@university.edu+540-644-4299+Roanoke+VA+SO+JRSM+2
+U00708631+Jackquelin+Emburey+09/25/1996+jemburey2z@university.edu+216-340-2787+Cleveland+OH+FR+COM+6
+U00978413+Gretchen+Ciccone+08/19/2002+gciccone30@university.edu+916-756-0997+Sacramento+CA+SO+POLS+3
+U00183929+Dino+Eyeington+06/04/1995+deyeington31@university.edu+763-203-6184+Minneapolis+MN+SR+JAPN+3
+U00698339+Genny+Watson-Brown+09/08/1996+gwatsonbrown32@university.edu+205-884-6924+Birmingham+AL+FR+HETH+3
+U00748580+Bevvy+Saines+05/02/2002+bsaines33@university.edu+512-227-4288+Austin+TX+JR+POLI+2
+U00976693+Flinn+Sifleet+11/23/1998+fsifleet34@university.edu+419-895-3126+Toledo+OH+SR+MEDA+2
+U00157075+Kerrie+Milton-White+01/14/2002+kmiltonwhite35@university.edu+806-846-1287+Amarillo+TX+FR+MUSC+3
+U00400194+Maible+Petracci+01/15/2000+mpetracci36@university.edu+213-655-0422+Van Nuys+CA+GR+MSCI+1
+U00479857+Kristoffer+Viste+03/09/1995+kviste37@university.edu+704-344-4427+Charlotte+NC+SO+HUM+2
+U00059822+Melisande+Cottisford+02/18/1986+mcottisford38@university.edu+917-639-6025+Jamaica+NY+SR+MGMT+3
+U00668543+Ola+Bracken+01/30/2001+obracken39@university.edu+713-216-7908+Houston+TX+JR+ARTH+2
+U00860647+Kali+Baudon+04/24/1996+kbaudon3a@university.edu+402-550-3955+Omaha+NE+SR+CPSC+3
+U00576604+Charity+Chugg+05/14/1997+cchugg3b@university.edu+404-946-6422+Atlanta+GA+FR+BIOM+6
+U00440263+Jarvis+Goldspink+01/28/1996+jgoldspink3c@university.edu+609-890-6020+Trenton+NJ+SO+CJCR+3
+U00094520+Jody+Cossell+03/20/2002+jcossell3d@university.edu+240-410-8401+Gaithersburg+MD+SR+NTFD+2
+U00522247+Isabelle+Pammenter+12/16/1999+ipammenter3e@university.edu+304-815-0163+Huntington+WV+JR+HETH+3
+U00462514+Donnell+Firpi+09/19/1998+dfirpi3f@university.edu+619-780-1034+San Diego+CA+SO+ME+3
+U00804189+Cornie+Phelipeaux+06/09/1996+cphelipeaux3g@university.edu+202-780-3897+Washington+DC+SR+NRSE+3
+U00578264+Keeley+Dobie+11/09/2002+kdobie3h@university.edu+415-523-9369+San Francisco+CA+JR+STOR+3
+U00330783+Mattie+Roose+04/29/1996+mroose3i@university.edu+859-865-4688+Lexington+KY+SO+SOWK+1
+U00043153+Iago+Adlam+09/07/1986+iadlam3j@university.edu+209-582-0892+Modesto+CA+JR+HSRV+4
+U00651976+Fred+Ferrier+03/08/2002+fferrier3k@university.edu+479-759-2640+Fort Smith+AR+SO+SOAA+4
+U00623890+Ewen+Boat+06/01/1998+eboat3l@university.edu+316-558-7338+Wichita+KS+SR+HIMT+3
+U00052234+Gunther+Culp+03/02/1995+gculp3m@university.edu+336-412-9931+Greensboro+NC+FR+AVST+2
+U00172033+Mordy+Servis+06/15/2002+mservis3n@university.edu+805-336-8795+San Mateo+CA+SO+PHAR+2
+U00971345+Barbabas+Muckeen+10/30/1997+bmuckeen3o@university.edu+717-408-5245+Lancaster+PA+SO+CSCI+3
+U00815658+Thedrick+Harmour+12/20/1999+tharmour3p@university.edu+571-909-7307+Springfield+VA+FR+GSLD+2
+U00069807+Germayne+Palfreeman+12/29/1995+gpalfreeman3q@university.edu+212-783-3491+Jamaica+NY+FR+SLS+3
+U00292102+Ellwood+Everington+10/25/1995+eeverington3r@university.edu+860-295-1480+Hartford+CT+SO+PHSI+2
+U00815408+Lance+Di Biasi+10/10/1996+ldibiasi3s@university.edu+208-176-2752+Boise+ID+JR+LDSP+1
+U00027897+Kerr+Kern+01/07/1996+kkern3t@university.edu+812-957-9573+Evansville+IN+SO+APST+3
+U00104363+Gerry+McGaugie+08/07/1998+gmcgaugie3u@university.edu+612-781-1566+Minneapolis+MN+FR+WEB+2
+U00713663+Gwyn+Rogge+10/25/1999+grogge3v@university.edu+202-106-7103+Washington+DC+GR+MGMT+9
+U00317038+Bunni+Cookley+04/05/2002+bcookley3w@university.edu+785-733-8693+Topeka+KS+SR+GREK+5
+U00075008+Kenyon+Knevit+01/23/2002+kknevit3x@university.edu+770-220-8052+Atlanta+GA+GR+DHYG+3
+U00600134+Jamie+Tomasian+10/04/1986+jtomasian3y@university.edu+615-661-5754+Nashville+TN+SO+CISP+3
+U00658346+Othella+Ferro+03/12/2002+oferro3z@university.edu+317-743-0920+Indianapolis+IN+FR+CSCI+2
+U00293315+Alexis+Turford+01/02/1999+aturford40@university.edu+469-732-3612+Dallas+TX+SR+COM+1
+U00221541+Zondra+Priter+05/23/2001+zpriter41@university.edu+202-867-1401+Washington+DC+FR+CHEM+3
+U00203273+Donnie+Dakhov+11/12/2000+ddakhov42@university.edu+402-994-0393+Lincoln+NE+JR+GREK+3
+U00449475+Uriel+Riply+07/09/2001+uriply43@university.edu+786-624-2365+Miami+FL+SO+NRSE+3
+U00707218+Lauren+Stannas+07/03/2000+lstannas44@university.edu+816-516-6093+Kansas City+MO+GR+ENGR+4
+U00014568+Farleigh+Teape+10/11/1999+fteape45@university.edu+386-184-7196+Daytona Beach+FL+SO+ENGL+2
+U00584845+Lauraine+Jean+03/03/1995+ljean46@university.edu+337-673-4028+Lafayette+LA+FR+PRST+1
+U00516133+Bartholemy+Juszczyk+02/13/2002+bjuszczyk47@university.edu+415-431-4691+San Francisco+CA+JR+JOUR+3
+U00807600+Riobard+Leither+06/03/2000+rleither48@university.edu+973-474-1996+Newark+NJ+FR+FREN+1
+U00134312+Tildi+Bemrose+05/02/1995+tbemrose49@university.edu+754-581-7896+Fort Lauderdale+FL+FR+TELC+3
+U00096617+Sophey+Gronno+08/21/1996+sgronno4a@university.edu+253-436-6417+Tacoma+WA+GR+BUSN+1
+U00059578+Dottie+Rodgman+10/21/1997+drodgman4b@university.edu+219-872-0892+Gary+IN+FR+BUSN+3
+U00748067+Leoline+Thal+07/18/2002+lthal4c@university.edu+609-987-1453+Trenton+NJ+FR+PSCI+1
+U00096613+Becki+Bauman+02/28/1998+bbauman4d@university.edu+850-102-9581+Panama City+FL+FR+MUSC+5
+U00269431+Elyn+Cardoo+05/17/2001+ecardoo4e@university.edu+617-529-2091+Boston+MA+FR+ADMN+2
+U00781761+Tommie+Eatttok+10/08/2002+teatttok4f@university.edu+404-527-2384+Atlanta+GA+SR+MDT+1
+U00911908+Rabi+O'Corr+08/20/1996+rocorr4g@university.edu+858-580-5951+San Diego+CA+JR+PMSY+2
+U00892639+Rachele+Ballefant+09/11/1997+rballefant4h@university.edu+864-531-6043+Anderson+SC+JR+ENVH+3
+U00401392+Jessalin+Corinton+12/05/1986+jcorinton4i@university.edu+608-995-8512+Madison+WI+SO+ALHS+3
+U00265916+Winonah+Brisson+10/20/1998+wbrisson4j@university.edu+702-879-2244+Las Vegas+NV+SR+PRST+2
+U00972101+Nita+Zavittieri+12/04/1996+nzavittieri4k@university.edu+213-732-4734+Los Angeles+CA+SR+DHYG+3
+U00996043+Germayne+Stebles+10/18/2002+gstebles4l@university.edu+509-630-1636+Spokane+WA+SO+RHSC+3
+U00142731+Tye+Gyppes+10/17/1995+tgyppes4m@university.edu+928-681-9964+Peoria+AZ+GR+ME+4
+U00301069+Beilul+Brinson+03/31/1997+bbrinson4n@university.edu+786-639-5970+Miami+FL+FR+CBAT+4
+U00805501+Judas+Boichat+11/12/2002+jboichat4o@university.edu+302-838-3604+Wilmington+DE+GR+CSCI+3
+U00941469+Laurena+Aberdeen+12/09/2002+laberdeen4p@university.edu+785-290-8047+Topeka+KS+JR+SOC+1
+U00540049+Caddric+Sanchis+12/02/1998+csanchis4q@university.edu+602-487-8352+Phoenix+AZ+JR+JAPN+1
+U00926607+Nathalia+Izakov+11/05/1995+nizakov4r@university.edu+903-941-9782+Tyler+TX+GR+SPAN+3
+U00525191+Gratia+Parlatt+04/28/2002+gparlatt4s@university.edu+559-705-0032+Fresno+CA+SR+DIGM+3
+U00114008+Siusan+Dumbrill+10/04/1986+sdumbrill4t@university.edu+405-736-5063+Oklahoma City+OK+GR+EDFN+2
+U00178455+Holly+Rowledge+07/14/1995+hrowledge4u@university.edu+813-327-0705+Tampa+FL+FR+SURV+3
+U00035681+Bayard+Mulles+12/27/1999+bmulles4v@university.edu+615-106-9031+Memphis+TN+SR+ENVS+3
+U00306120+Agneta+Dignan+10/17/1998+adignan4w@university.edu+941-143-8290+North Port+FL+JR+POLI+3
+U00711013+Tomasina+Gotthard.sf+04/27/1997+tgotthardsf4x@university.edu+304-921-4614+Huntington+WV+JR+HLSC+5
+U00645114+Adan+Hub+10/01/1995+ahub4y@university.edu+309-162-0808+Peoria+IL+GR+HUM+2
+U00006292+Panchito+Grisley+11/18/1996+pgrisley4z@university.edu+585-802-9310+Rochester+NY+JR+HIST+2
+U00996880+Cecilius+Compson+11/01/1996+ccompson50@university.edu+713-466-9059+Houston+TX+JR+CUAI+2
+U00717039+Myra+Cossell+07/08/1999+mcossell51@university.edu+303-766-2055+Denver+CO+JR+HSCI+2
+U00248105+Hilarius+Alderton+04/17/1997+halderton52@university.edu+312-452-0052+Chicago+IL+SR+GSLD+4
+U00584013+Brewer+Phin+08/22/2000+bphin53@university.edu+208-944-5531+Boise+ID+SO+MUSC+3
+U00371923+Guinevere+Maidlow+02/16/1998+gmaidlow54@university.edu+818-641-2117+Glendale+CA+GR+COMP+2
+U00824387+Devland+Rzehor+11/30/2002+drzehor55@university.edu+310-753-2110+Santa Monica+CA+JR+ANTH+4
+U00308892+Kendell+Uren+01/06/2001+kuren56@university.edu+216-753-5419+Cleveland+OH+GR+THEA+2
+U00140013+Dell+Winslett+08/11/1986+dwinslett57@university.edu+952-749-4211+Young America+MN+SO+PMSY+2
+U00400969+Tiena+Iori+10/08/2000+tiori58@university.edu+410-365-3857+Baltimore+MD+JR+CRMJ+3
+U00707636+Donn+Corser+02/14/1998+dcorser59@university.edu+404-328-0686+Atlanta+GA+SR+CITC+5
+U00807705+Melessa+Forge+07/21/1998+mforge5a@university.edu+903-343-4306+Tyler+TX+GR+JAPN+2
+U00029666+Trenton+Muffen+05/05/1999+tmuffen5b@university.edu+618-762-8243+East Saint Louis+IL+SR+LANG+3
+U00022451+Jodee+Ahmed+03/21/1999+jahmed5c@university.edu+509-280-6549+Spokane+WA+SO+GREK+3
+U00508881+Conrado+Martinovsky+07/07/1998+cmartinovsky5d@university.edu+702-803-3793+Las Vegas+NV+GR+CSCI+3
+U00124842+Davina+Heaphy+01/20/2002+dheaphy5e@university.edu+808-862-4747+Honolulu+HI+FR+PHAR+4
+U00720265+Hermione+Waddy+03/12/1996+hwaddy5f@university.edu+312-956-0142+Chicago+IL+SR+PMPR+2
+U00851518+Barbabas+Laurencot+05/09/1997+blaurencot5g@university.edu+334-969-1553+Montgomery+AL+SO+MEDA+2
+U00352181+Rockie+Capelen+01/08/1995+rcapelen5h@university.edu+916-242-7237+Sacramento+CA+FR+PADM+3
+U00774259+Thain+Launchbury+05/01/1998+tlaunchbury5i@university.edu+619-539-4026+San Diego+CA+FR+PHSI+5
+U00796161+Pavel+Arrington+03/08/1997+parrington5j@university.edu+318-352-3948+Monroe+LA+SO+PRST+2
+U00301778+Vick+Hoolaghan+02/17/1996+vhoolaghan5k@university.edu+304-900-0686+Huntington+WV+GR+MKTG+2
+U00441436+Tabby+Habbin+08/08/1998+thabbin5l@university.edu+630-963-7389+Naperville+IL+GR+ASLC+2
+U00191235+Moreen+Insall+07/12/2000+minsall5m@university.edu+480-355-4601+Phoenix+AZ+GR+SPED+2
+U00499740+Perren+Llop+07/18/1999+pllop5n@university.edu+661-281-6507+Bakersfield+CA+SO+SCED+3
+U00709441+Amitie+Deddum+12/02/1998+adeddum5o@university.edu+775-727-2693+Reno+NV+SR+LIST+1
+U00603592+Ariel+Good+05/21/2002+agood5p@university.edu+336-614-9934+Winston Salem+NC+SO+COBH+1
+U00996776+Tomlin+Ourry+07/01/1995+tourry5q@university.edu+626-929-6094+Burbank+CA+JR+HIMT+3
+U00769309+Zarah+Ricioppo+03/27/2002+zricioppo5r@university.edu+608-511-9306+Madison+WI+FR+CUAI+3
+U00037868+Adele+Ridolfi+12/22/1997+aridolfi5s@university.edu+202-811-0266+Washington+DC+JR+ALHS+3
+U00150006+Adena+Ciccottio+06/12/1997+aciccottio5t@university.edu+810-115-5058+Flint+MI+FR+ELPA+2
+U00633540+Sterling+MacCulloch+01/17/2000+smacculloch5u@university.edu+360-216-4456+Vancouver+WA+FR+ENTC+5
+U00512517+Judye+Truss+11/03/1995+jtruss5v@university.edu+972-825-4257+Dallas+TX+GR+LDSP+2
+U00634347+Filide+Pethrick+02/25/1997+fpethrick5w@university.edu+813-312-4245+Tampa+FL+GR+PETE+4
+U00103019+Addia+Purvess+01/15/2000+apurvess5x@university.edu+614-158-0193+Columbus+OH+GR+JRSM+2
+U00701387+Wiley+Fessler+03/02/1996+wfessler5y@university.edu+915-659-7158+El Paso+TX+SR+CJA+3
+U00525930+Layne+Bushby+12/02/1998+lbushby5z@university.edu+913-988-8634+Kansas City+KS+SO+THEA+2
+U00706502+Eunice+Helbeck+10/08/1998+ehelbeck60@university.edu+202-975-5202+Washington+DC+JR+RTVF+2
+U00097242+Spence+Roseman+06/19/1997+sroseman61@university.edu+210-182-1059+San Antonio+TX+FR+EXCH+5
+U00190115+Brear+Ridgway+04/20/1999+bridgway62@university.edu+757-334-5687+Norfolk+VA+JR+CITC+3
+U00793928+Neils+Canelas+09/23/2002+ncanelas63@university.edu+317-126-9959+Indianapolis+IN+JR+COBH+1
+U00130100+Evyn+Haly+02/19/1985+ehaly64@university.edu+205-821-1077+Birmingham+AL+SO+GEOS+2
+U00813564+Gabbie+Leuty+03/09/1997+gleuty65@university.edu+303-619-4235+Boulder+CO+SR+LANG+2
+U00420087+Mikael+Brittoner+02/09/2000+mbrittoner66@university.edu+504-192-4372+New Orleans+LA+SR+SRVL+3
+U00953159+Ludovika+Wooding+03/10/1998+lwooding67@university.edu+915-696-9056+El Paso+TX+FR+MRCH+2
+U00288700+Nicol+Anthoin+08/27/1999+nanthoin68@university.edu+202-753-7268+Washington+DC+SO+NTFD+3
+U00267809+Tristam+Jessep+10/23/1997+tjessep69@university.edu+561-712-7513+West Palm Beach+FL+FR+PHYS+2
+U00121551+Zuzana+Lindelof+11/18/1999+zlindelof6a@university.edu+214-554-9090+Dallas+TX+GR+SOAA+9
+U00294508+Renato+Banat+02/16/1997+rbanat6b@university.edu+786-146-1932+Hialeah+FL+GR+HDAL+2
+U00393887+Monique+Matterface+08/17/1998+mmatterface6c@university.edu+585-535-0235+Rochester+NY+JR+MRCH+2
+U00396272+Lolly+Blanchard+06/09/1997+lblanchard6d@university.edu+407-528-6909+Orlando+FL+GR+BMGT+2
+U00718556+Montgomery+Ibbs+11/20/2000+mibbs6e@university.edu+215-895-9289+Philadelphia+PA+SO+MSDM+4
+U00092715+Susette+Costard+04/04/1996+scostard6f@university.edu+619-813-9744+San Diego+CA+GR+ECON+5
+U00639002+Anna-maria+Ivanenkov+04/17/1998+aivanenkov6g@university.edu+864-767-3716+Greenville+SC+SO+SRVL+3
+U00160492+Lauralee+Dockrey+10/06/2000+ldockrey6h@university.edu+617-148-4572+Boston+MA+GR+PSY+3
+U00817027+Avery+Carnier+11/05/1995+acarnier6i@university.edu+501-986-2566+Little Rock+AR+FR+HSRV+2
+U00719756+Heriberto+Castree+06/29/1998+hcastree6j@university.edu+408-545-4201+San Jose+CA+JR+COUN+1
+U00773594+Hanny+Beddall+07/20/1985+hbeddall6k@university.edu+386-796-6388+Daytona Beach+FL+GR+CSCI+4
+U00762816+Giacomo+Tales+03/25/1996+gtales6l@university.edu+214-171-8616+Dallas+TX+GR+CSCI+3
+U00881079+Nonie+Joselevitz+03/21/1996+njoselevitz6m@university.edu+253-452-0567+Tacoma+WA+GR+JRSM+3
+U00698841+Krystalle+Cammiemile+04/28/1999+kcammiemile6n@university.edu+202-603-3343+Washington+DC+SR+PUBR+2
+U00981199+Bear+Mabbot+02/20/2000+bmabbot6o@university.edu+515-409-3197+Des Moines+IA+SR+TELC+3
+U00852789+Juieta+Weddell+01/21/2000+jweddell6p@university.edu+971-901-6026+Salem+OR+SR+EXCH+4
+U00376734+Inna+Mawditt+12/25/1998+imawditt6q@university.edu+806-818-7059+Lubbock+TX+GR+COL+2
+U00951312+Ethel+Dyshart+12/04/1996+edyshart6r@university.edu+602-659-5395+Chandler+AZ+SO+CJA+3
+U00643322+Darla+Anthiftle+08/10/2000+danthiftle6s@university.edu+404-890-2638+Atlanta+GA+SR+SCED+4
+U00045422+Hephzibah+Doldon+11/14/1999+hdoldon6t@university.edu+208-504-6068+Boise+ID+SR+SPAN+3
+U00598452+Tyrone+Lanceley+12/17/1996+tlanceley6u@university.edu+218-671-2390+Duluth+MN+JR+COL+4
+U00970973+Shurwood+MacKinnon+08/03/1997+smackinnon6v@university.edu+971-413-7323+Salem+OR+SR+SOWK+6
+U00543068+Verney+Spedding+06/24/1998+vspedding6w@university.edu+412-487-7946+Pittsburgh+PA+SO+ALHE+2
+U00555265+Morlee+Skepper+06/20/1995+mskepper6x@university.edu+302-160-5062+Wilmington+DE+SR+CSCI+2
+U00331503+Sephira+Wason+01/10/1995+swason6y@university.edu+203-338-2593+Waterbury+CT+SR+SW+2
+U00486428+Udale+McCory+09/27/1995+umccory6z@university.edu+915-510-5156+El Paso+TX+FR+COMM+2
+U00854269+Phyllis+Kennelly+12/13/1998+pkennelly70@university.edu+757-292-6059+Richmond+VA+SO+LANG+4
+U00960024+Pooh+Calvey+09/22/1995+pcalvey71@university.edu+256-771-4587+Huntsville+AL+FR+GEOL+1
+U00148054+Nerita+Cleever+07/09/1995+ncleever72@university.edu+205-576-4930+Birmingham+AL+GR+BLUE+4
+U00793929+Rozanne+Swetman+05/25/1997+rswetman73@university.edu+228-306-9112+Biloxi+MS+SR+AGRI+5
+U00167477+Petronilla+Ambrogi+01/08/1998+pambrogi74@university.edu+205-468-6227+Birmingham+AL+FR+TEAS+6
+U00106464+Pierre+Saffill+09/02/2002+psaffill75@university.edu+404-802-4791+Atlanta+GA+SR+ENVS+3
+U00039673+Keely+Skinn+07/25/2000+kskinn76@university.edu+626-289-2142+Alhambra+CA+JR+SLS+2
+U00131481+Nance+Reddecliffe+12/03/2002+nreddecliffe77@university.edu+209-573-8747+Stockton+CA+SR+BUSN+4
+U00096202+Kandace+Mitchely+11/28/2002+kmitchely78@university.edu+804-586-1355+Richmond+VA+GR+MDT+2
+U00870101+Joly+Heaysman+04/26/1999+jheaysman79@university.edu+212-812-8680+Jamaica+NY+JR+CSCI+3
+U00503566+Sayers+Garrold+07/05/2000+sgarrold7a@university.edu+410-721-0389+Baltimore+MD+SO+DIGM+1
+U00998213+Lynnea+Rubens+09/04/1998+lrubens7b@university.edu+201-203-9641+Jersey City+NJ+FR+PM+2
+U00218149+Natalya+Jaukovic+03/26/1998+njaukovic7c@university.edu+971-865-2537+Salem+OR+SR+HPSS+2
+U00146563+Paxton+Portam+09/07/2002+pportam7d@university.edu+714-359-2869+Brea+CA+FR+COM+2
+U00207385+Edik+Galland+08/09/2000+egalland7e@university.edu+806-425-7315+Amarillo+TX+SR+JOUR+4
+U00729913+Andriette+Skone+06/09/1996+askone7f@university.edu+256-377-6470+Huntsville+AL+SO+ME+4
+U00149252+Lindsey+Gittens+10/25/1999+lgittens7g@university.edu+646-981-5142+Brooklyn+NY+SO+COBH+5
+U00829658+Clotilda+Cristobal+08/24/1998+ccristobal7h@university.edu+904-761-1446+Jacksonville+FL+JR+TECH+3
+U00460472+Gaelan+Gheeorghie+04/30/1998+ggheeorghie7i@university.edu+337-953-1596+Lafayette+LA+JR+WEB+3
+U00065312+Loydie+Trathan+12/30/1999+ltrathan7j@university.edu+212-558-3378+New York City+NY+SO+GRAD+4
+U00196289+Julie+Kira+10/03/2000+jkira7k@university.edu+661-537-7340+Palmdale+CA+GR+COMP+6
+U00909580+Cordy+Asquith+04/10/2000+casquith7l@university.edu+405-610-2375+Oklahoma City+OK+FR+DIGM+1
+U00485887+Pete+Stockill+07/07/2001+pstockill7m@university.edu+228-891-5087+Gulfport+MS+GR+SRVL+5
+U00096942+Juan+Arrow+01/30/1995+jarrow7n@university.edu+817-465-4217+Fort Worth+TX+GR+NTFD+5
+U00422795+Kalila+McGerr+06/15/1999+kmcgerr7o@university.edu+706-488-5234+Augusta+GA+SR+ARTH+2
+U00485783+Carson+Avory+06/24/1997+cavory7p@university.edu+904-807-3653+Jacksonville+FL+GR+STOR+3
+U00284473+Nobie+Impson+07/06/1999+nimpson7q@university.edu+973-151-8287+Jersey City+NJ+GR+EDUC+2
+U00469716+Darcy+Damarell+01/24/2001+ddamarell7r@university.edu+203-807-8025+Bridgeport+CT+FR+PREH+4
+U00445073+Melantha+Barling+08/27/1997+mbarling7s@university.edu+719-432-9933+Colorado Springs+CO+SR+HUMT+2
+U00587803+Claudio+Poacher+12/31/1996+cpoacher7t@university.edu+704-389-9612+Charlotte+NC+JR+EXCH+4
+U00977622+Dudley+Powlesland+01/18/1998+dpowlesland7u@university.edu+210-944-0121+San Antonio+TX+SR+ANTH+3
+U00559688+Nicko+Hennington+11/21/1996+nhennington7v@university.edu+813-469-9375+Clearwater+FL+FR+CSCI+3
+U00753441+Kanya+Ollenbuttel+01/07/2001+kollenbuttel7w@university.edu+503-654-0513+Salem+OR+FR+PETE+3
+U00732119+Britt+Creavan+05/19/2002+bcreavan7x@university.edu+808-415-9874+Honolulu+HI+SR+EXCH+3
+U00184944+Lanna+Shackell+05/28/1996+lshackell7y@university.edu+757-368-5407+Virginia Beach+VA+FR+HUMT+2
+U00942338+Garland+Abazi+03/06/2002+gabazi7z@university.edu+915-506-4967+El Paso+TX+SR+ECE+6
+U00158487+Toddy+Ecob+06/08/1998+tecob80@university.edu+806-810-3871+Lubbock+TX+GR+MGMT+3
+U00228835+Frasco+Haimes+01/22/1985+fhaimes81@university.edu+785-751-1363+Topeka+KS+GR+ECE+2
+U00315379+Joye+Worters+08/26/1999+jworters82@university.edu+718-650-4770+Brooklyn+NY+GR+MATH+6
+U00631951+Austina+Peckitt+03/11/2001+apeckitt83@university.edu+712-158-1397+Omaha+NE+GR+SOWK+2
+U00003305+Avram+Bussy+10/29/2002+abussy84@university.edu+816-846-7693+Kansas City+MO+SO+RHSC+4
+U00418724+Francoise+Reisen+05/06/1995+freisen85@university.edu+586-125-6290+Detroit+MI+GR+CSCI+3
+U00990130+Neda+Glaisner+05/26/2000+nglaisner86@university.edu+904-797-9959+Jacksonville+FL+FR+BIOL+1
+U00568150+Agata+Mather+09/07/1996+amather87@university.edu+707-686-3072+Santa Rosa+CA+GR+ECED+3
+U00041830+Karl+Rolin+10/06/1995+krolin88@university.edu+402-742-1245+Lincoln+NE+JR+CSCI+2
+U00722503+Normie+Medford+02/26/1996+nmedford89@university.edu+214-131-0085+Garland+TX+SO+GEOS+4
+U00910783+Taylor+Laurencot+07/24/2001+tlaurencot8a@university.edu+630-975-8402+Aurora+IL+FR+POLS+5
+U00541401+Lilah+Firebrace+11/24/2002+lfirebrace8b@university.edu+651-624-6091+Saint Paul+MN+SO+RADT+2
+U00318363+Whittaker+Gyford+02/10/2002+wgyford8c@university.edu+310-667-5434+Santa Monica+CA+SO+AFAM+3
+U00967447+Catharine+Marsland+08/07/2000+cmarsland8d@university.edu+518-579-2836+Albany+NY+GR+MRCH+5
+U00244380+Tades+Mower+01/31/1999+tmower8e@university.edu+713-324-7478+Houston+TX+GR+COMP+3
+U00987107+Almeda+Laborda+05/07/1999+alaborda8f@university.edu+847-441-1899+Schaumburg+IL+JR+ASTR+3
+U00297749+Noelle+Baiss+11/18/1998+nbaiss8g@university.edu+917-634-8451+Jamaica+NY+SO+SURV+5
+U00067943+Link+LLelweln+05/17/1998+lllelweln8h@university.edu+205-248-4494+Birmingham+AL+JR+ELPA+2
+U00201744+Layney+Mulvey+01/02/1997+lmulvey8i@university.edu+407-822-1694+Orlando+FL+GR+CRMJ+2
+U00426713+Debra+Mollett+10/20/1997+dmollett8j@university.edu+563-811-9950+Davenport+IA+JR+PSY+2
+U00037172+Lari+Freebury+09/19/1998+lfreebury8k@university.edu+404-607-2931+Atlanta+GA+FR+BSTA+2
+U00957066+Tasha+Borth+05/12/1996+tborth8l@university.edu+704-107-2801+Charlotte+NC+FR+TELC+6
+U00377127+Temple+Crady+03/01/1996+tcrady8m@university.edu+915-716-9239+El Paso+TX+SR+ECON+2
+U00395050+Keriann+Chorlton+06/03/1985+kchorlton8n@university.edu+323-468-5073+Los Angeles+CA+GR+LDSP+3
+U00226726+Amity+Treswell+08/28/1997+atreswell8o@university.edu+806-792-6565+Lubbock+TX+SO+INTD+5
+U00118383+Lisette+Mardle+12/26/2002+lmardle8p@university.edu+405-915-9542+Oklahoma City+OK+GR+PRST+3
+U00763574+Domingo+Ohlsen+09/02/1999+dohlsen8q@university.edu+212-999-5304+Jamaica+NY+GR+NRSE+1
+U00001400+Eugenio+Pocklington+10/25/2002+epocklington8r@university.edu+901-932-5473+Memphis+TN+SR+LATN+1
+U00765212+Erin+Whitmore+03/05/2002+ewhitmore8s@university.edu+713-884-6820+Houston+TX+SR+HUMT+2
+U00960356+Jere+Eaddy+06/28/1997+jeaddy8t@university.edu+504-414-0877+Metairie+LA+SO+HIMT+3
+U00461465+Domeniga+Swine+06/06/1998+dswine8u@university.edu+815-127-5487+Joliet+IL+SO+ALHE+4
+U00010923+Aridatha+Seamans+04/12/1996+aseamans8v@university.edu+409-236-1952+Beaumont+TX+FR+PADM+3
+U00536149+Euphemia+Buttrum+09/07/1998+ebuttrum8w@university.edu+401-326-2720+Providence+RI+SO+ENVS+3
+U00963599+Johny+Pibsworth+10/19/1998+jpibsworth8x@university.edu+517-366-8090+Lansing+MI+GR+DHYG+1
+U00583576+Em+Butner+09/30/1999+ebutner8y@university.edu+805-928-3358+Santa Barbara+CA+FR+PREH+2
+U00380737+Gerrard+Kennerley+12/28/1999+gkennerley8z@university.edu+402-564-3030+Lincoln+NE+SO+TEAE+1
+U00010838+Clementius+Damrell+12/20/1998+cdamrell90@university.edu+806-463-4820+Amarillo+TX+JR+LANG+4
+U00720626+Auberon+Janjic+08/27/2000+ajanjic91@university.edu+903-258-7655+Dallas+TX+JR+STAT+2
+U00345622+Way+Swindells+06/28/2002+wswindells92@university.edu+334-790-5668+Montgomery+AL+SO+CPSC+3
+U00788290+Cinda+Miebes+04/28/1998+cmiebes93@university.edu+516-885-2971+New Hyde Park+NY+JR+CHEM+1
+U00729714+Flory+Keming+12/15/1996+fkeming94@university.edu+816-197-2061+Kansas City+MO+SR+HETH+4
+U00163963+Isidora+Crommett+10/03/1996+icrommett95@university.edu+856-903-7645+Camden+NJ+JR+ARTH+3
+U00438705+Gasper+Lamperd+09/05/1997+glamperd96@university.edu+717-336-7135+Harrisburg+PA+SR+LANG+2
+U00178424+Arlina+Gooderidge+12/26/1998+agooderidge97@university.edu+415-610-6867+San Francisco+CA+SR+COMP+4
+U00124841+Domini+Koeppe+11/21/1996+dkoeppe98@university.edu+-727-6020+Pittsburgh+PA+SO+PETE+3
+U00543399+Julissa+Gringley+06/22/1999+jgringley99@university.edu+719-772-7405+Colorado Springs+CO+SR+CSCI+6
+U00162459+Richardo+Tyrone+10/06/2000+rtyrone9a@university.edu+432-666-5664+Midland+TX+SR+TELC+2
+U00121503+Kai+Thornebarrow+08/15/1996+kthornebarrow9b@university.edu+419-201-7764+Toledo+OH+JR+CUAI+3
+U00303259+Yvonne+Morratt+01/11/2002+ymorratt9c@university.edu+518-423-4379+Albany+NY+JR+RHSC+2
+U00902911+Mufinella+Hallowell+04/28/1999+mhallowell9d@university.edu+202-359-7775+Washington+DC+GR+CRMJ+3
+U00098010+Florentia+Sporner+05/11/1997+fsporner9e@university.edu+952-989-5211+Young America+MN+GR+AGRI+2
+U00453094+Elden+Barnwell+01/03/2002+ebarnwell9f@university.edu+860-724-8493+Hartford+CT+GR+GERM+3
+U00442150+Hasty+Wardrop+04/23/1998+hwardrop9g@university.edu+785-328-2530+Topeka+KS+FR+PTMA+3
+U00994847+Rochell+Faulkener+09/27/1996+rfaulkener9h@university.edu+918-785-1438+Tulsa+OK+GR+HSCI+7
+U00824024+Virgilio+Jentges+11/15/2000+vjentges9i@university.edu+316-959-7850+Wichita+KS+GR+PMPR+2
+U00561625+Jobi+Owttrim+03/20/1999+jowttrim9j@university.edu+404-631-7537+Atlanta+GA+SO+BSTA+2
+U00193569+Ginger+MacGill+01/13/2001+gmacgill9k@university.edu+304-737-6581+Morgantown+WV+GR+HSC+2
+U00162937+Tess+Leall+04/22/2001+tleall9l@university.edu+469-319-1419+Dallas+TX+SR+CISP+2
+U00109824+Billi+Leaves+10/10/1997+bleaves9m@university.edu+956-866-2328+Laredo+TX+JR+SCED+3
+U00516580+Zed+Fowgies+07/31/2000+zfowgies9n@university.edu+253-793-1215+Tacoma+WA+SR+CUAI+2
+U00456982+Nicolas+Gerling+11/26/1996+ngerling9o@university.edu+913-814-2946+Shawnee Mission+KS+GR+BLUE+3
+U00514745+Brod+Tewes+11/05/1995+btewes9p@university.edu+251-942-3254+Mobile+AL+SO+DIGM+2
+U00008273+Evonne+Pudner+12/11/1996+epudner9q@university.edu+309-447-7818+Peoria+IL+SO+POLI+3
+U00814438+Jenilee+Tokell+10/20/2001+jtokell9r@university.edu+916-744-9264+Sacramento+CA+SR+COL+4
+U00953930+Brannon+Slaughter+03/05/1997+bslaughter9s@university.edu+518-724-5088+Albany+NY+SR+GEOS+3
+U00919362+Stefan+Castelluzzi+11/26/2000+scastelluzzi9t@university.edu+405-146-6273+Oklahoma City+OK+SO+BMGT+2
+U00423448+Herc+Springham+06/27/1997+hspringham9u@university.edu+806-716-7390+Amarillo+TX+GR+CSCI+2
+U00071345+Wilmar+Rothert+04/15/1995+wrothert9v@university.edu+202-736-0226+Washington+DC+SO+MRCH+2
+U00459366+Donnajean+Franzoli+03/18/1996+dfranzoli9w@university.edu+806-119-9483+Amarillo+TX+GR+PMPR+3
+U00859440+Domingo+Pavek+09/07/1995+dpavek9x@university.edu+209-135-8253+Modesto+CA+FR+NRSE+1
+U00165516+Wolf+Schenfisch+06/06/2002+wschenfisch9y@university.edu+206-535-3296+Seattle+WA+GR+NRSE+3
+U00998806+Nisse+Glassard+09/16/1998+nglassard9z@university.edu+212-620-5343+Jamaica+NY+JR+SOCI+3
+U00051168+Christopher+Vaar+02/18/1996+cvaara0@university.edu+917-893-4130+Jamaica+NY+SR+HIST+2
+U00655214+Juli+Eusden+02/03/1997+jeusdena1@university.edu+347-927-1876+New York City+NY+SO+BLUE+2
+U00909446+Jeannine+Backhouse+12/10/1998+jbackhousea2@university.edu+510-145-4127+Oakland+CA+FR+SOAA+3
+U00629850+Dynah+Soltan+04/10/1996+dsoltana3@university.edu+239-899-4164+Cape Coral+FL+SO+FREN+5
+U00413293+Ramona+Woffinden+04/14/2002+rwoffindena4@university.edu+563-683-7200+Davenport+IA+SO+EDU+2
+U00405445+Colene+Pendell+06/28/2002+cpendella5@university.edu+817-135-8880+Arlington+TX+SR+WEBT+3
+U00469594+Bink+Rawlence+07/04/1998+brawlencea6@university.edu+704-432-9757+Charlotte+NC+JR+ENTC+4
+U00327671+Stirling+Reubbens+08/13/1998+sreubbensa7@university.edu+540-958-4038+Fredericksburg+VA+SR+PSYC+3
+U00228795+Carmine+Fibbit+05/01/1996+cfibbita8@university.edu+443-312-2937+Baltimore+MD+SR+CSCI+2
+U00870115+Caresse+Dunphy+07/14/1997+cdunphya9@university.edu+330-471-2769+Canton+OH+SR+SRVL+2
+U00106626+Orelie+Candlish+07/21/1996+ocandlishaa@university.edu+210-316-5716+San Antonio+TX+SO+BADM+2
+U00301639+Ricoriki+O'Neill+08/06/1999+roneillab@university.edu+419-185-9671+Toledo+OH+FR+MICR+1
+U00397432+Trip+Josefsen+08/20/1998+tjosefsenac@university.edu+515-347-7506+Des Moines+IA+SO+HSRV+2
+U00715298+Yul+Muckley+05/30/1997+ymuckleyad@university.edu+303-628-2953+Littleton+CO+SO+ET+3
+U00821205+Ripley+Ferrea+07/24/1995+rferreaae@university.edu+215-209-1972+Philadelphia+PA+GR+BUSN+5
+U00950654+Rubie+Pettisall+02/19/2000+rpettisallaf@university.edu+319-854-0071+Cedar Rapids+IA+SR+AVST+2
+U00033370+Reese+Jobin+07/29/1997+rjobinag@university.edu+314-824-1878+Saint Louis+MO+SR+MRCH+1
+U00499661+Welby+Gommery+11/01/1995+wgommeryah@university.edu+512-871-9365+Austin+TX+SO+ARTH+4
+U00142217+Broderic+Bootman+12/19/1999+bbootmanai@university.edu+260-835-7396+Fort Wayne+IN+JR+HSRV+1
+U00537813+Ramonda+Chancelier+09/15/2000+rchancelieraj@university.edu+518-258-0112+Albany+NY+JR+BUSN+2
+U00035909+Merci+Nigh+06/28/2001+mnighak@university.edu+617-603-5431+Boston+MA+JR+MGMT+6
+U00766902+Dael+Bryden+02/21/1998+dbrydenal@university.edu+707-129-8400+Santa Rosa+CA+JR+ENGR+3
+U00581197+Ashby+Elner+09/11/2002+aelneram@university.edu+916-723-2321+Sacramento+CA+SO+COMP+2
+U00088480+Blair+Clemonts+02/08/1998+bclemontsan@university.edu+302-178-0795+Wilmington+DE+JR+SLS+3
+U00550179+Herb+Carlone+04/04/2000+hcarloneao@university.edu+765-887-1514+Muncie+IN+GR+DIGM+3
+U00862401+Parsifal+Gliddon+10/30/1996+pgliddonap@university.edu+661-534-7058+Bakersfield+CA+SR+SWRK+1
+U00288756+Lanna+Corselles+12/20/2000+lcorsellesaq@university.edu+571-719-0958+Arlington+VA+SO+CPSC+3
+U00628603+Delores+Brack+11/04/1985+dbrackar@university.edu+425-383-4741+Bellevue+WA+SO+CDST+2
+U00759391+Bobbie+Lisett+05/10/2000+blisettas@university.edu+757-687-7997+Suffolk+VA+GR+GSLD+3
+U00174611+Ortensia+Simoncelli+03/24/1995+osimoncelliat@university.edu+407-758-6835+Winter Haven+FL+JR+MICR+3
+U00145386+Rowe+Elderton+08/05/1999+reldertonau@university.edu+314-225-1939+Saint Louis+MO+SR+ACCT+2
+U00415672+Godfry+Martignon+07/07/1995+gmartignonav@university.edu+585-741-0514+Rochester+NY+SR+STOR+3
+U00506948+Wake+Howlings+01/06/2000+whowlingsaw@university.edu+718-706-9602+New York City+NY+FR+ADVR+2
+U00951521+Aili+Paulmann+09/13/2000+apaulmannax@university.edu+202-878-5207+Washington+DC+FR+MDT+2
+U00062615+Jo-ann+Boriston+10/26/1999+jboristonay@university.edu+480-139-5352+Tempe+AZ+SR+CISP+2
+U00442656+Nicolea+Karlicek+10/11/1995+nkarlicekaz@university.edu+916-403-1685+Sacramento+CA+SO+BUSN+2
+U00701661+Beryl+Fahy+10/17/1999+bfahyb0@university.edu+585-550-0970+Rochester+NY+FR+ELPA+2
+U00437242+Renata+Hayselden+08/29/1996+rhayseldenb1@university.edu+205-901-6571+Birmingham+AL+GR+ECED+7
+U00292594+Fred+McGloughlin+08/30/2002+fmcgloughlinb2@university.edu+307-583-9970+Cheyenne+WY+SO+STOR+2
+U00258650+Raimundo+Pleasance+09/21/1999+rpleasanceb3@university.edu+701-891-2013+Grand Forks+ND+SR+STOR+5
+U00823350+Kandy+Duferie+12/23/1999+kduferieb4@university.edu+941-243-0889+Port Charlotte+FL+FR+CSCI+2
+U00777461+Sarge+Coalbran+03/20/2000+scoalbranb5@university.edu+303-842-3764+Boulder+CO+GR+BIOC+2
+U00190131+Farica+Fern+02/15/1997+ffernb6@university.edu+508-257-1504+Newton+MA+JR+CSCI+3
+U00147994+Petra+Caswill+10/05/1995+pcaswillb7@university.edu+318-288-2539+Shreveport+LA+FR+MDT+3
+U00022420+Nicolette+Faltin+09/12/1995+nfaltinb8@university.edu+608-487-2708+Madison+WI+FR+HPSS+2
+U00770813+Poul+Drover+04/19/1999+pdroverb9@university.edu+936-154-2604+Conroe+TX+FR+CSCI+3
+U00793540+Krisha+Andrew+09/27/1997+kandrewba@university.edu+913-387-1714+Shawnee Mission+KS+GR+RADT+2
+U00622818+Marcelia+Cabane+12/18/1998+mcabanebb@university.edu+443-527-9588+Baltimore+MD+FR+CJA+3
+U00940112+Antony+Palek+05/04/2002+apalekbc@university.edu+720-938-6808+Littleton+CO+SR+PTMA+3
+U00777420+Erma+Bulfit+03/13/2002+ebulfitbd@university.edu+786-617-7071+Hialeah+FL+GR+WEBT+3
+U00440848+Jasper+Gland+11/21/1999+jglandbe@university.edu+202-529-9484+Washington+DC+JR+APST+6
+U00780529+Essie+Morffew+09/11/1995+emorffewbf@university.edu+808-414-4208+Honolulu+HI+FR+GRAD+2
+U00933725+Novelia+Ballingal+11/07/1997+nballingalbg@university.edu+361-623-5023+Corpus Christi+TX+FR+DHYG+3
+U00301154+Shayna+Heibel+07/21/1995+sheibelbh@university.edu+713-458-0589+Houston+TX+FR+ECE+3
+U00623348+Fawn+Brabbins+11/23/2001+fbrabbinsbi@university.edu+916-126-8458+Sacramento+CA+GR+SOCI+6
+U00194890+April+Euston+01/12/1998+aeustonbj@university.edu+914-770-6593+Yonkers+NY+GR+SURV+2
+U00375072+Katey+Canner+12/07/1985+kcannerbk@university.edu+312-170-6410+Chicago+IL+JR+PTMA+3
+U00628818+Yvonne+Ortas+09/30/1997+yortasbl@university.edu+512-206-7348+Austin+TX+FR+ASLC+2
+U00504291+Valaree+Yell+04/09/1996+vyellbm@university.edu+239-878-0621+Fort Myers+FL+JR+WEBT+3
+U00071438+Jaquelin+Sapir+12/11/2000+jsapirbn@university.edu+336-275-6348+Winston Salem+NC+SO+HUMT+3
+U00648534+Jaclyn+Linnett+03/05/1995+jlinnettbo@university.edu+574-424-4813+South Bend+IN+FR+ALHS+2
+U00262118+Carmella+Karmel+05/21/2000+ckarmelbp@university.edu+303-539-8512+Englewood+CO+FR+CSCI+2
+U00260451+Lon+Housley+04/12/2000+lhousleybq@university.edu+808-973-4457+Honolulu+HI+SR+HSCI+2
+U00207057+Christophorus+Pawson+07/22/2000+cpawsonbr@university.edu+757-281-5183+Norfolk+VA+JR+CSCI+2
+U00474120+Orrin+Bafford+04/22/1995+obaffordbs@university.edu+937-144-4315+Dayton+OH+FR+PETE+2
+U00787561+Dionne+Melluish+07/06/1998+dmelluishbt@university.edu+402-156-8043+Omaha+NE+SO+SURV+3
+U00035839+Ericha+Sumpton+08/13/1985+esumptonbu@university.edu+330-810-3834+Akron+OH+FR+PSY+1
+U00584320+Adrian+Farland+12/01/1998+afarlandbv@university.edu+606-982-3829+London+KY+SR+HUM+2
+U00148771+Hilary+Pee+10/04/2000+hpeebw@university.edu+202-429-6461+Washington+DC+SR+PM+6
+U00113664+Mirabelle+Setterfield+05/06/1996+msetterfieldbx@university.edu+202-143-9653+Washington+DC+JR+ANTH+3
+U00495188+Owen+Kettlestringes+11/05/1996+okettlestringesby@university.edu+561-450-9153+Lake Worth+FL+FR+CSCI+3
+U00628283+Sean+Callacher+05/19/2002+scallacherbz@university.edu+941-354-0764+Sarasota+FL+SR+BUSN+1
+U00017108+Darline+Restill+09/07/1997+drestillc0@university.edu+601-884-8572+Jackson+MS+FR+ECON+2
+U00452743+Jessy+Takos+09/16/2000+jtakosc1@university.edu+505-260-2404+Albuquerque+NM+GR+INFS+3
+U00560068+Von+Bothram+04/08/1984+vbothramc2@university.edu+502-608-6060+Louisville+KY+FR+ANTH+2
+U00550506+Sunny+Dumke+01/20/1996+sdumkec3@university.edu+646-388-8189+New York City+NY+SO+LDSP+3
+U00852539+Kelli+Maken+09/26/1995+kmakenc4@university.edu+318-587-5627+Boston+MA+GR+EDUC+2
+U00247477+Sheryl+Sodo+06/09/1998+ssodoc5@university.edu+212-951-7894+Brooklyn+NY+JR+COMM+2
+U00280331+Durante+Allwell+12/29/2002+dallwellc6@university.edu+754-935-8839+Pompano Beach+FL+SO+ECON+3
+U00656480+Florette+Lamping+05/06/1995+flampingc7@university.edu+904-667-3380+Jacksonville+FL+SO+PTMA+4
+U00702582+Dudley+Noods+11/06/2002+dnoodsc8@university.edu+202-772-3491+Washington+DC+SO+HUMT+2
+U00700883+Cedric+Quinnell+09/28/2002+cquinnellc9@university.edu+952-701-4184+Maple Plain+MN+SO+CRMJ+3
+U00781484+Franky+Caville+11/18/1999+fcavilleca@university.edu+904-313-9685+Jacksonville+FL+FR+DIGM+3
+U00249144+Yoko+Dulling+02/13/1999+ydullingcb@university.edu+432-169-4486+Odessa+TX+SO+CSCI+2
+U00032963+Devon+O'Downe+02/14/1999+dodownecc@university.edu+253-353-5405+Tacoma+WA+SO+HETH+3
+U00427654+Clark+Hursthouse+09/20/1996+chursthousecd@university.edu+318-823-3643+Shreveport+LA+JR+SALM+3
+U00240363+Darby+Ketley+10/28/1999+dketleyce@university.edu+479-215-1869+Fort Smith+AR+JR+EXCH+4
+U00974247+Atlante+Arnowicz+06/04/2000+aarnowiczcf@university.edu+608-792-8585+Madison+WI+FR+HSRV+2
+U00690262+Phillida+Sadler+09/11/2002+psadlercg@university.edu+254-207-4685+Waco+TX+JR+CUAI+4
+U00227696+Quint+Avramovic+10/25/2000+qavramovicch@university.edu+410-504-0857+Baltimore+MD+SR+CSCI+2
+U00318218+Andrea+Langer+06/12/2002+alangerci@university.edu+718-407-8476+Bronx+NY+FR+MGMT+2
+U00126994+Mahmud+Rays+12/08/2000+mrayscj@university.edu+229-282-6676+Valdosta+GA+JR+COBH+2
+U00072585+Riki+Sirett+09/16/1995+rsirettck@university.edu+702-243-9730+Las Vegas+NV+GR+PHYT+3
+U00396719+Brien+Alexsandrovich+12/13/1996+balexsandrovichcl@university.edu+973-358-3609+Paterson+NJ+GR+INTD+3
+U00634137+Joceline+Coverdill+03/13/2001+jcoverdillcm@university.edu+727-433-9626+Clearwater+FL+SO+MEDA+2
+U00913593+Wally+Rosendahl+02/01/1995+wrosendahlcn@university.edu+205-125-5295+Birmingham+AL+FR+DIGM+2
+U00359004+Cosimo+Jinkinson+01/17/1997+cjinkinsonco@university.edu+650-163-5524+Palo Alto+CA+SO+JAPN+1
+U00289711+Moses+Cockayne+05/22/1995+mcockaynecp@university.edu+713-131-2719+Houston+TX+SR+APST+5
+U00362650+Allis+Winslett+12/06/2002+awinslettcq@university.edu+609-483-9033+Trenton+NJ+FR+PSYC+3
+U00383567+Edithe+Shellcross+04/06/1996+eshellcrosscr@university.edu+312-378-1671+Chicago+IL+SR+PMPR+3
+U00378483+Culver+Dowson+11/25/1997+cdowsoncs@university.edu+907-628-8840+Fairbanks+AK+SO+POLS+2
+U00481276+Shane+Domenc+05/13/1997+sdomencct@university.edu+713-755-7380+Houston+TX+SR+TELC+1
+U00588047+Eloise+Dobrovsky+08/29/1996+edobrovskycu@university.edu+915-126-2541+El Paso+TX+JR+ET+2
+U00710991+Correna+Badsworth+10/22/2000+cbadsworthcv@university.edu+804-314-7660+Richmond+VA+SO+RTVF+4
+U00509893+Dag+Figliovanni+06/17/1998+dfigliovannicw@university.edu+702-856-7521+Santa Barbara+CA+SO+HPSS+4
+U00074351+Konstanze+McShane+10/01/1998+kmcshanecx@university.edu+623-439-2907+Phoenix+AZ+JR+BIOL+3
+U00067779+Walt+Kilborn+12/30/1984+wkilborncy@university.edu+619-467-9032+San Diego+CA+SO+COBH+2
+U00411185+Marlin+Leadley+03/18/1996+mleadleycz@university.edu+410-514-5118+Baltimore+MD+SO+PEXS+3
+U00886306+August+MacInerney+10/22/1998+amacinerneyd0@university.edu+517-945-6486+Lansing+MI+SO+WEBT+3
+U00979824+Verge+Bernon+05/11/2002+vbernond1@university.edu+718-998-5466+Brooklyn+NY+GR+PM+1
+U00867996+Spenser+Heffernon+10/06/1998+sheffernond2@university.edu+559-241-2889+Fresno+CA+GR+ME+6
+U00613343+Justinn+Doulton+02/01/1996+jdoultond3@university.edu+775-248-1615+Carson City+NV+JR+SALM+1
+U00568705+Rebekkah+Gilli+07/09/1999+rgillid4@university.edu+512-742-1571+Austin+TX+JR+GRAD+2
+U00773723+Finley+Fulep+07/18/1998+ffulepd5@university.edu+954-388-0869+Fort Lauderdale+FL+JR+ART+3
+U00251596+Crin+Steutly+07/19/1995+csteutlyd6@university.edu+702-379-2797+Las Vegas+NV+GR+FNCE+1
+U00102086+Pepita+Malbon+10/22/1999+pmalbond7@university.edu+501-996-9483+North Little Rock+AR+SO+ADVR+3
+U00765840+Kirstyn+Pinching+05/15/1998+kpinchingd8@university.edu+602-403-7650+Phoenix+AZ+SO+FREN+2
+U00304597+Egan+Woodger+07/24/1997+ewoodgerd9@university.edu+234-699-8625+Akron+OH+SR+AVST+1
+U00557901+Holly-anne+Merwe+04/01/1997+hmerweda@university.edu+816-814-0269+Kansas City+MO+GR+COL+1
+U00450122+Brina+Habbal+01/04/1996+bhabbaldb@university.edu+405-418-4205+Oklahoma City+OK+JR+MSCI+2
+U00649700+Karee+Paydon+06/06/1995+kpaydondc@university.edu+754-104-7505+Pompano Beach+FL+SR+SLS+2
+U00084008+Wadsworth+Eldershaw+01/09/2002+weldershawdd@university.edu+314-629-3701+Saint Louis+MO+SO+AFAM+2
+U00377860+Katharyn+Golling+07/13/2001+kgollingde@university.edu+804-219-0028+Richmond+VA+SO+PSY+2
+U00504093+Elyn+Monahan+04/23/2000+emonahandf@university.edu+601-530-6878+Jackson+MS+JR+COMP+3
+U00823448+Stephen+Widd+08/01/1977+swidddg@university.edu+760-470-0121+San Diego+CA+GR+GEOG+3
+U00681699+Nissie+Safont+04/21/1997+nsafontdh@university.edu+215-254-9354+Philadelphia+PA+GR+MDT+5
+U00831972+Tricia+Owbridge+06/18/1997+towbridgedi@university.edu+760-209-7050+Escondido+CA+GR+CDIS+2
+U00098483+Leone+McLuckie+09/09/1996+lmcluckiedj@university.edu+916-810-6605+Sacramento+CA+FR+TECH+2
+U00109197+Lorinda+Neenan+04/07/2002+lneenandk@university.edu+314-263-7704+Saint Louis+MO+SR+ASLC+2
+U00000075+Rodrique+Hinkes+03/30/1997+rhinkesdl@university.edu+801-541-6239+Salt Lake City+UT+SR+GEOS+3
+U00559113+Patty+Jeanon+12/23/1998+pjeanondm@university.edu+202-484-2948+Washington+DC+FR+SALM+3
+U00221869+Chryste+Cummings+12/16/1996+ccummingsdn@university.edu+505-408-6141+Albuquerque+NM+SO+CISP+6
+U00530083+Roy+Ravenshaw+01/12/2000+rravenshawdo@university.edu+336-271-4171+Winston Salem+NC+FR+CITC+4
+U00156768+Thomasin+Le Friec+10/05/1998+tlefriecdp@university.edu+917-523-8077+Bronx+NY+JR+SOCI+1
+U00185058+Marcy+Hanniger+09/05/1997+mhannigerdq@university.edu+234-565-2469+Canton+OH+JR+EDAD+3
+U00631553+Rancell+Gebhard+12/31/2001+rgebharddr@university.edu+318-667-2997+Shreveport+LA+JR+ENVH+1
+U00890805+Shina+Kither+02/15/1995+skitherds@university.edu+630-975-5803+Chicago+IL+JR+MUS+2
+U00457610+Dunn+Ledford+11/05/1996+dledforddt@university.edu+972-907-1265+Denton+TX+SR+SPAN+4
+U00586352+Timothy+Rayson+06/06/2002+tray-sondu@university.edu+304-979-7738+Charleston+WV+SO+CSCI+3
+U00376919+Quintina+Crickmoor+03/04/2002+qcrick.moordv@university.edu+409-495-0821+Beaumont+TX+FR+DIGM+2

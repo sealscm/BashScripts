@@ -1,0 +1,2001 @@
+id,first_name,last_name,dob,email,phone,city,state,standing,major
+A00185971,Ali,Vedntyev,07/18/2001,avedntyev0@university.edu,713-740-1877,Houston,TX,SO,PHSI
+A00939086,Knox,Micallef,12/17/1998,kmicallef1@university.edu,917-271-2752,Brooklyn,NY,GR,ENTC
+A00166576,Arv,Camerello,12/25/1999,acamerello2@university.edu,571-482-5319,Vienna,VA,SR,STAT
+A00806467,Toni,MacLardie,12/15/1999,tmaclardie3@university.edu,417-665-7977,Springfield,MO,FR,BIOL
+A00442619,Thia,Mepham,02/16/2001,tmepham4@university.edu,915-972-6043,El Paso,TX,SO,HIMT
+A00187199,Shirl,Rushmer,05/22/2000,srushmer5@university.edu,210-392-2025,San Antonio,TX,SR,LATN
+A00035399,Tersina,Pozzi,08/17/1998,tpozzi6@university.edu,915-581-3863,El Paso,TX,JR,INTD
+A00655514,Sandye,Richmond,01/31/2000,srichmond7@university.edu,425-787-2842,Seattle,WA,GR,COBH
+A00000944,Kalle,Cray,09/16/1997,kcray8@university.edu,727-787-6506,Saint Petersburg,FL,SR,TELC
+A00610289,Nertie,Giorgeschi,06/27/1999,ngiorgeschi9@university.edu,718-834-2305,Staten Island,NY,SO,EDUC
+A00987263,Bobbette,Brissard,03/03/2001,bbrissarda@university.edu,502-280-8180,Louisville,KY,FR,EDCI
+A00287176,Debee,Benoi,12/15/2000,dbenoib@university.edu,509-905-5722,Spokane,WA,FR,JRSM
+A00130527,Padget,McJarrow,09/09/2000,pmcjarrowc@university.edu,615-730-3067,Nashville,TN,GR,PBRL
+A00387525,Durant,Boyett,12/15/2002,dboyettd@university.edu,407-213-2815,Orlando,FL,SR,BADM
+A00882571,Justis,Rosie,02/04/2002,jrosiee@university.edu,714-351-5234,Los Angeles,CA,SO,FREN
+A00585501,Brittne,Cossons,07/14/1997,bcossonsf@university.edu,406-605-5069,Bozeman,MT,SR,EPID
+A00591650,Dall,Corrin,11/26/1999,dcorring@university.edu,312-297-7845,Chicago,IL,JR,MUSC
+A00804368,Neale,Hirtzmann,02/20/2000,nhirtzmannh@university.edu,281-182-0066,Houston,TX,FR,APST
+A00809092,Juliana,Crosher,05/31/1996,jcrosheri@university.edu,404-266-1219,Atlanta,GA,JR,JOUR
+A00512134,Binnie,Adamovich,12/13/1995,badamovichj@university.edu,907-431-7318,Anchorage,AK,JR,PMPR
+A00696497,Audra,Janicki,10/08/2002,ajanickik@university.edu,203-987-8260,Norwalk,CT,GR,GREK
+A00629025,Budd,Bernade,11/18/2000,bbernadel@university.edu,918-973-7193,Tulsa,OK,SO,TEAE
+A00940598,Chico,Pavinese,03/01/2000,cpavinesem@university.edu,951-324-5493,San Bernardino,CA,FR,MDT
+A00234657,Emili,Ellor,12/21/2000,eellorn@university.edu,801-657-1341,Salt Lake City,UT,SR,CISP
+A00585183,Estelle,Berford,06/16/1995,eberfordo@university.edu,574-585-2138,South Bend,IN,FR,JAPN
+A00245561,Addie,Magner,09/20/1995,amagnerp@university.edu,602-513-7818,Phoenix,AZ,SR,BMGT
+A00263349,Teddi,Damarell,10/08/1998,tdamarellq@university.edu,716-452-6518,Buffalo,NY,FR,HETH
+A00647286,Gerek,Huthart,02/25/1998,ghuthartr@university.edu,763-410-5627,Minneapolis,MN,SO,BSTA
+A00803774,Darren,Beany,09/05/1998,dbeanys@university.edu,267-276-6408,Levittown,PA,SO,HIST
+A00975084,Opal,Hayes,09/05/2001,ohayest@university.edu,330-259-2186,Youngstown,OH,GR,RADT
+A00448862,Rorke,Corteis,11/15/1995,rcorteisu@university.edu,412-950-7132,Pittsburgh,PA,JR,CEE
+A00786729,Iorgos,Danks,05/22/1997,idanksv@university.edu,317-395-3427,Indianapolis,IN,SO,ME
+A00199968,Calv,Girault,05/04/1991,cgiraultw@university.edu,714-321-3143,Irvine,CA,SO,SURV
+A00125132,Carver,Wiggington,07/30/1995,cwiggingtonx@university.edu,256-330-7417,Gadsden,AL,GR,MUSC
+A00953757,Alysia,Deyes,05/22/2001,adeyesy@university.edu,718-497-7237,Staten Island,NY,JR,COMM
+A00243999,Garrard,Rheubottom,11/25/2000,grheubottomz@university.edu,361-108-6883,Corpus Christi,TX,GR,HSC
+A00758342,Iseabal,Haulkham,07/02/2001,ihaulkham10@university.edu,859-757-4168,Lexington,KY,SO,ASTR
+A00928864,Ange,Laird-Craig,11/09/2002,alairdcraig11@university.edu,804-984-0847,Richmond,VA,SR,BIOL
+A00663990,Dwayne,Plain,10/29/2000,dplain12@university.edu,918-666-7240,Tulsa,OK,SR,ECON
+A00866926,Lisha,Leyre,12/26/1997,lleyre13@university.edu,402-355-9822,Lincoln,NE,FR,CJCR
+A00614642,Fifi,Forrestall,02/12/1995,fforrestall14@university.edu,812-722-0546,Terre Haute,IN,JR,TELC
+A00816217,Mischa,Treleven,05/29/2001,mtreleven15@university.edu,484-256-0649,Valley Forge,PA,JR,BUSN
+A00904378,Sayre,Carleman,12/11/1996,scarleman16@university.edu,616-171-0505,Grand Rapids,MI,SR,UNIV
+A00236484,Harri,Blaxlande,09/27/2001,hblaxlande17@university.edu,225-252-7190,Baton Rouge,LA,SO,PHSI
+A00149316,Clive,Duding,12/29/1995,cduding18@university.edu,915-944-2762,El Paso,TX,SO,AMBA
+A00027021,Ron,Molloy,02/06/1998,rmolloy19@university.edu,602-315-7334,Phoenix,AZ,SO,ADMN
+A00920344,Sauveur,Pontefract,07/20/1998,spontefract1a@university.edu,202-737-2279,Washington,DC,FR,PBRL
+A00604025,Isak,Blackmuir,02/05/2000,iblackmuir1b@university.edu,504-816-4418,New Orleans,LA,SO,SWRK
+A00271657,Lief,Breckenridge,12/20/1999,lbreckenridge1c@university.edu,225-660-8743,Baton Rouge,LA,FR,HETH
+A00949777,Ephrem,Pursehouse,11/16/1999,epursehouse1d@university.edu,626-658-4626,Los Angeles,CA,FR,ET
+A00092117,Rowena,Richford,09/07/1996,rrichford1e@university.edu,915-521-1277,El Paso,TX,JR,CITC
+A00434325,Amery,Spilsbury,11/27/1999,aspilsbury1f@university.edu,303-132-3388,Denver,CO,JR,LIST
+A00562483,Faydra,Habbeshaw,01/10/1996,fhabbeshaw1g@university.edu,206-414-1107,Tacoma,WA,SR,EPID
+A00635148,Darb,Bromage,12/25/2001,dbromage1h@university.edu,786-270-3882,Miami,FL,GR,SOAA
+A00798299,Gearalt,Purser,06/05/1999,gpurser1i@university.edu,619-979-7238,San Diego,CA,SR,LEAD
+A00997126,Nanny,Kelway,07/26/1995,nkelway1j@university.edu,651-470-0952,Saint Paul,MN,JR,HIST
+A00428564,Carree,Pollok,04/27/2000,cpollok1k@university.edu,404-829-8060,Atlanta,GA,JR,MICR
+A00787810,Livvie,Hospital,12/15/2001,lhospital1l@university.edu,202-513-0938,Washington,DC,GR,ACCT
+A00798318,Dayle,Wallworth,12/24/2000,dwallworth1m@university.edu,901-625-8396,Memphis,TN,SO,GREK
+A00457957,Marylin,Broggetti,08/09/1998,mbroggetti1n@university.edu,682-822-6753,Fort Worth,TX,SO,FNCE
+A00141686,Darline,Dawtrey,09/30/1992,ddawtrey1o@university.edu,916-284-8999,Sacramento,CA,SO,BIOL
+A00253299,Morgen,Mucci,11/06/1995,mmucci1p@university.edu,713-632-4076,Houston,TX,JR,BIOC
+A00903531,Bekki,Carlet,02/28/2002,bcarlet1q@university.edu,404-202-7788,Atlanta,GA,FR,JAPN
+A00258866,Van,Cuel,08/02/2001,vcuel1r@university.edu,251-930-9043,Mobile,AL,JR,PSY
+A00234132,Felipe,Mound,05/08/2000,fmound1s@university.edu,214-864-0261,Dallas,TX,GR,STOR
+A00253829,Ario,Chesson,04/06/1995,achesson1t@university.edu,505-973-0032,Albuquerque,NM,SR,ENVH
+A00758854,Wyatt,Leas,06/10/2002,wleas1u@university.edu,317-988-7737,Indianapolis,IN,FR,CRMJ
+A00026249,Farlay,Smeaton,08/12/1998,fsmeaton1v@university.edu,202-795-9994,Washington,DC,SR,COUN
+A00906689,Loree,Stains,12/30/1995,lstains1w@university.edu,216-235-4539,Cleveland,OH,SR,POLI
+A00643541,Barthel,Stud,01/28/1995,bstud1x@university.edu,845-379-5762,White Plains,NY,FR,PMGT
+A00466144,Lia,Layson,04/14/1999,llayson1y@university.edu,214-813-8205,Garland,TX,SR,GRAD
+A00630335,Meaghan,Ramsted,08/28/1995,mramsted1z@university.edu,248-464-8673,Troy,MI,SR,WEB
+A00192610,Melinda,Schrader,11/15/1996,mschrader20@university.edu,404-739-1549,Atlanta,GA,FR,PHYT
+A00484747,Josie,Poyser,05/25/1998,jpoyser21@university.edu,912-891-8119,Macon,GA,GR,PBRL
+A00669995,Merwin,Haburne,12/04/1995,mhaburne22@university.edu,407-847-7078,Orlando,FL,GR,LANG
+A00840740,Ada,Eddowes,05/18/1997,aeddowes23@university.edu,336-767-5979,Greensboro,NC,SO,COM
+A00327580,Amalita,Yegorov,03/08/2002,ayegorov24@university.edu,205-277-0741,Birmingham,AL,JR,PMGT
+A00613531,Anjanette,MacTrustam,07/20/2002,amactrustam25@university.edu,812-503-2634,Evansville,IN,JR,LDSP
+A00778254,Janek,Dolbey,02/19/2001,jdolbey26@university.edu,209-693-5063,Fresno,CA,SR,INTD
+A00193399,Saw,Dallender,12/25/1998,sdallender27@university.edu,251-335-4410,Mobile,AL,SR,HUMT
+A00564821,Carena,Kender,07/23/1995,ckender28@university.edu,202-155-8157,Washington,DC,JR,PMGT
+A00674505,Gretna,Stickney,07/23/1996,gstickney29@university.edu,865-976-2901,Knoxville,TN,JR,PADM
+A00117511,Eda,Blethyn,04/30/1995,eblethyn2a@university.edu,734-664-6070,Detroit,MI,JR,SOWK
+A00998433,Hardy,Coare,05/01/1996,hcoare2b@university.edu,706-916-5594,Augusta,GA,FR,MGMT
+A00670257,Des,Bensen,10/29/1997,dbensen2c@university.edu,412-945-0919,Pittsburgh,PA,JR,MSCI
+A00300228,Aldous,Khidr,07/29/2000,akhidr2d@university.edu,407-430-7723,Orlando,FL,SR,TEAE
+A00844817,Walther,Shingles,07/25/1997,wshingles2e@university.edu,212-376-0099,New York City,NY,SO,TEAS
+A00134342,Janeen,Costall,09/22/1998,jcostall2f@university.edu,682-282-1807,Fort Worth,TX,GR,INFS
+A00953339,Norene,Carous,05/06/2000,ncarous2g@university.edu,502-493-3822,Migrate,KY,FR,BIOC
+A00435389,Stanly,Danjoie,11/11/1999,sdanjoie2h@university.edu,713-569-0849,Houston,TX,JR,NTFD
+A00210086,Car,Bowman,09/14/2001,cbowman2i@university.edu,202-745-7361,Washington,DC,SO,SURV
+A00808867,Morgan,Giovannacci,03/04/2000,mgiovannacci2j@university.edu,502-650-1545,Louisville,KY,JR,BIOC
+A00092761,Blinnie,Ratcliff,09/17/1998,bratcliff2k@university.edu,812-193-5286,Evansville,IN,SO,POLS
+A00110822,Rhonda,Stoneman,11/14/1995,rstoneman2l@university.edu,408-318-6047,San Jose,CA,FR,EDUC
+A00294401,Dori,Lacoste,08/24/1998,dlacoste2m@university.edu,704-532-3388,Charlotte,NC,SO,BLUE
+A00152412,Isac,Spurdon,08/30/2001,ispurdon2n@university.edu,509-292-1048,Spokane,WA,FR,GEOS
+A00822752,Courtenay,Cammish,11/03/1996,ccammish2o@university.edu,502-708-5030,Louisville,KY,JR,BIOC
+A00828356,Pieter,Domleo,03/23/1996,pdomleo2p@university.edu,707-143-6728,Santa Rosa,CA,SO,ASTR
+A00864320,Willey,Guidera,01/18/1997,wguidera2q@university.edu,205-530-3851,Tuscaloosa,AL,FR,CSCI
+A00788172,Murray,Kondrachenko,03/30/1995,mkondrachenko2r@university.edu,915-401-7407,El Paso,TX,FR,STOR
+A00631259,Darleen,Lindenboim,04/13/1996,dlindenboim2s@university.edu,330-908-9131,Akron,OH,SR,CBAT
+A00194301,Leela,Shovell,09/28/2002,lshovell2t@university.edu,307-746-9448,Cheyenne,WY,SO,HPSS
+A00463769,Audry,Alyokhin,04/28/1996,aalyokhin2u@university.edu,318-622-6905,Shreveport,LA,GR,SOAA
+A00169595,Ellswerth,Kevern,09/01/2001,ekevern2v@university.edu,312-142-1878,Chicago,IL,JR,CISP
+A00649685,Darcie,Haste,04/16/2002,dhaste2w@university.edu,763-221-0482,Maple Plain,MN,GR,MEDA
+A00490896,Roarke,Khidr,01/19/1998,rkhidr2x@university.edu,217-880-6339,Springfield,IL,JR,FNCE
+A00150934,Kalie,Gibbonson,07/24/1995,kgibbonson2y@university.edu,240-588-6433,Bowie,MD,JR,BADM
+A00378911,Venita,Welsh,02/11/1995,vwelsh2z@university.edu,417-286-4680,Springfield,MO,JR,ASLC
+A00901748,Jarid,Grabham,06/02/1996,jgrabham30@university.edu,570-360-6518,Wilkes Barre,PA,SO,BUSN
+A00989235,Elaine,Taunton,10/12/2002,etaunton31@university.edu,847-162-1061,Evanston,IL,SR,SOAA
+A00388040,Winifield,Caudray,08/04/1995,wcaudray32@university.edu,208-930-8248,Boise,ID,GR,EDAD
+A00173270,Darelle,McConnel,02/05/1995,dmcconnel33@university.edu,704-978-7655,Charlotte,NC,GR,CRMJ
+A00977938,Virgina,Dreini,07/30/2002,vdreini34@university.edu,812-482-3302,Evansville,IN,FR,CITC
+A00210400,Ursola,Hoyland,09/19/1995,uhoyland35@university.edu,619-300-8690,San Diego,CA,SO,COBH
+A00196140,Jerald,Kilford,09/15/1997,jkilford36@university.edu,909-869-1386,San Bernardino,CA,FR,DHYG
+A00608830,Cornela,Haffard,10/10/1997,chaffard37@university.edu,512-276-4957,Austin,TX,JR,PHAR
+A00971286,Worthington,Gariff,03/12/1999,wgariff38@university.edu,727-807-4738,Saint Petersburg,FL,FR,EDU
+A00963524,Ivy,Wanderschek,12/13/1995,iwanderschek39@university.edu,501-151-1171,Little Rock,AR,SR,ECON
+A00386227,Linzy,Thews,02/24/2002,lthews3a@university.edu,702-405-6321,Las Vegas,NV,SO,PUBR
+A00345791,Imogen,Burnie,11/23/2002,iburnie3b@university.edu,215-690-7019,Philadelphia,PA,SR,BMGT
+A00157456,Jessie,Shrubb,07/24/2002,jshrubb3c@university.edu,240-609-7728,Gaithersburg,MD,GR,PSYC
+A00413535,Rogers,Rashleigh,02/01/1996,rrashleigh3d@university.edu,217-366-9721,Decatur,IL,SO,MRCH
+A00215531,North,Kayes,03/17/1995,nkayes3e@university.edu,916-367-0381,Sacramento,CA,FR,ARTA
+A00711261,Arabela,Beavington,08/17/1997,abeavington3f@university.edu,719-609-5353,Colorado Springs,CO,GR,PREH
+A00409707,Todd,Peyes,08/01/1997,tpeyes3g@university.edu,678-122-4216,Gainesville,GA,SR,MALS
+A00431172,Panchito,Rudd,10/30/2001,prudd3h@university.edu,864-981-5829,Spartanburg,SC,SO,RELI
+A00160441,Luce,Wrought,04/29/2002,lwrought3i@university.edu,317-899-9220,Indianapolis,IN,SO,MICR
+A00322320,Winnifred,Knappe,11/01/1996,wknappe3j@university.edu,304-261-1976,Charleston,WV,FR,BIOL
+A00438216,Nada,Symcoxe,03/19/1995,nsymcoxe3k@university.edu,850-380-4403,Tallahassee,FL,SO,ENVH
+A00547018,Thaxter,Laws,09/05/1974,tlaws3l@university.edu,208-598-5967,Idaho Falls,ID,GR,AGRI
+A00548058,Carla,Bony,08/10/2000,cbony3m@university.edu,805-326-3028,Van Nuys,CA,FR,AVST
+A00555265,Malvina,Barringer,01/04/1997,mbarringer3n@university.edu,413-976-7664,Springfield,MA,GR,ALHS
+A00815325,Marieann,Looker,09/02/2001,mlooker3o@university.edu,408-411-1696,San Jose,CA,FR,PHIL
+A00406912,Nikolaos,Skirvin,10/29/2000,nskirvin3p@university.edu,734-592-6011,Dearborn,MI,SO,STOR
+A00520070,Skippie,Bodycombe,04/16/1999,sbodycombe3q@university.edu,512-984-4796,Austin,TX,SO,LANG
+A00801430,Ronny,Karolczyk,08/27/1999,rkarolczyk3r@university.edu,918-483-1355,Tulsa,OK,SR,PMSY
+A00925254,Kennie,Winkless,09/19/1996,kwinkless3s@university.edu,407-502-7810,Orlando,FL,SO,NRSE
+A00333922,Gabbie,Malacrida,06/21/1999,gmalacrida3t@university.edu,607-130-1352,Elmira,NY,JR,SOCI
+A00132848,Dani,McKelvey,12/03/1999,dmckelvey3u@university.edu,915-217-0330,El Paso,TX,FR,ACCT
+A00704972,Domenic,Double,09/23/2001,ddouble3v@university.edu,907-407-2987,Anchorage,AK,FR,COM
+A00191571,Fabiano,Willcox,12/20/1996,fwillcox3w@university.edu,626-131-6505,Pasadena,CA,SR,PSYC
+A00855643,Pat,Plenderleith,03/03/1996,pplenderleith3x@university.edu,636-924-4515,Saint Louis,MO,SR,ENGR
+A00927418,Conan,Keatch,07/29/1998,ckeatch3y@university.edu,210-860-0256,San Antonio,TX,JR,DIGM
+A00229882,Dixie,Urvoy,05/25/2000,durvoy3z@university.edu,716-656-0670,Buffalo,NY,GR,MATH
+A00936080,Merle,Blackall,02/23/1997,mblackall40@university.edu,202-747-0645,Washington,DC,FR,DIGM
+A00406977,Ashby,Gisbye,03/06/2002,agisbye41@university.edu,763-889-8491,Monticello,MN,GR,MKTG
+A00322428,Orazio,Guarin,10/23/2002,oguarin42@university.edu,816-576-6046,Saint Joseph,MO,JR,HSCI
+A00677254,Charis,Goschalk,02/12/2000,cgoschalk43@university.edu,225-139-9916,Baton Rouge,LA,JR,TELC
+A00192062,Winny,Jodrelle,06/11/2000,wjodrelle44@university.edu,210-220-6699,San Antonio,TX,FR,PMPR
+A00765256,Franny,Behrendsen,08/03/1995,fbehrendsen45@university.edu,772-124-9881,Fort Pierce,FL,GR,EDUC
+A00422155,Terrance,Norrington,09/17/2002,tnorrington46@university.edu,504-276-4237,New Orleans,LA,SR,TECH
+A00422980,Roland,Loveday,10/09/1997,rloveday47@university.edu,860-825-1238,Hartford,CT,JR,RTVF
+A00038041,Mata,Kidstoun,10/24/2002,mkidstoun48@university.edu,619-776-0556,San Diego,CA,GR,MRCH
+A00848512,Jens,Robertelli,09/30/2001,jrobertelli49@university.edu,571-511-5577,Springfield,VA,FR,INTD
+A00399339,Lodovico,Tumilson,05/03/1997,ltumilson4a@university.edu,512-566-9745,Austin,TX,JR,PHIL
+A00364938,Alena,Ownsworth,01/28/2001,aownsworth4b@university.edu,843-711-5236,Charleston,SC,GR,PTMA
+A00730855,Georgi,Agron,07/06/2002,gagron4c@university.edu,713-881-0098,Houston,TX,SR,PHED
+A00307923,Agatha,Tumayan,06/10/1996,atumayan4d@university.edu,317-502-9583,Indianapolis,IN,SR,CUAI
+A00176728,Garwood,Rafe,06/07/2000,grafe4e@university.edu,518-406-7985,Albany,NY,FR,PHED
+A00035381,Lynna,Bilham,03/03/1997,lbilham4f@university.edu,210-892-5473,San Antonio,TX,SO,MUS
+A00922644,Esma,Faas,12/19/2001,efaas4g@university.edu,806-950-3151,Amarillo,TX,JR,PMSY
+A00002770,Audy,Lounds,04/22/2002,alounds4h@university.edu,904-708-6716,Saint Augustine,FL,GR,INFS
+A00193024,Gustaf,Di Gregorio,09/16/2002,gdigregorio4i@university.edu,412-491-8672,Pittsburgh,PA,GR,CEE
+A00839893,Joe,Senchenko,02/07/1996,jsenchenko4j@university.edu,212-843-4307,New York City,NY,SR,GREK
+A00325318,Gene,Jostan,10/02/2002,gjostan4k@university.edu,316-949-1142,Wichita,KS,SO,ANTH
+A00136811,Nolana,Took,02/03/2000,ntook4l@university.edu,317-690-1379,Indianapolis,IN,JR,BADM
+A00587571,Lorianne,Gurley,10/07/1997,lgurley4m@university.edu,919-826-6648,Raleigh,NC,FR,HLSC
+A00586890,Corella,Strodder,09/26/1999,cstrodder4n@university.edu,973-191-2563,Newark,NJ,FR,ARTH
+A00762806,Tobin,Tripon,08/21/1999,ttripon4o@university.edu,772-515-2658,Vero Beach,FL,FR,ASLC
+A00764224,Denis,Westmoreland,06/03/1995,dwestmoreland4p@university.edu,330-496-5981,Akron,OH,JR,TELC
+A00080485,Debra,Ricioppo,05/23/1997,dricioppo4q@university.edu,516-103-8473,Jamaica,NY,SR,MALS
+A00706804,Cesya,Becken,06/08/1995,cbecken4r@university.edu,727-299-7097,Saint Petersburg,FL,SR,GREK
+A00787182,Antons,Titterton,03/29/1999,atitterton4s@university.edu,202-911-7678,Washington,DC,SR,PSY
+A00513599,Lorne,Holworth,06/16/1997,lholworth4t@university.edu,704-600-0909,Charlotte,NC,FR,ENGR
+A00677409,Amye,Grayne,01/13/1997,agrayne4u@university.edu,614-512-3592,Columbus,OH,JR,SURV
+A00071751,Lindsey,Whistlecroft,02/08/2002,lwhistlecroft4v@university.edu,317-763-7701,Indianapolis,IN,FR,ENVS
+A00573298,Stanleigh,Hulmes,08/09/1998,shulmes4w@university.edu,518-314-1642,Albany,NY,JR,AFAM
+A00571269,Christoph,Antyukhin,04/27/2002,cantyukhin4x@university.edu,480-754-0086,Phoenix,AZ,FR,DIGM
+A00613576,Maitilde,Nafzger,08/12/1997,mnafzger4y@university.edu,909-904-4403,San Bernardino,CA,SR,BIOL
+A00273088,Gae,Girardoni,10/13/1996,ggirardoni4z@university.edu,720-842-9248,Littleton,CO,GR,NTFD
+A00382643,Garvin,Callinan,09/27/2002,gcallinan50@university.edu,410-985-8615,Ridgely,MD,SR,BUSN
+A00332919,Agnola,Robillard,07/15/1998,arobillard51@university.edu,907-283-3967,Juneau,AK,SR,AGRI
+A00382419,Brucie,Dimmer,08/09/2000,bdimmer52@university.edu,216-265-1089,Cleveland,OH,SR,INFS
+A00489101,Claudianus,Montgomery,05/15/1998,cmontgomery@university.edu,407-686-0002,Orlando,FL,SO,SRVL
+A00682424,Franny,Brinkworth,06/02/1997,fbrinkworth54@university.edu,206-736-2868,Seattle,WA,FR,DIGM
+A00569706,Shayne,Sara,12/25/1995,ssara55@university.edu,570-758-5695,Wilkes Barre,PA,SO,LEAD
+A00327646,Freedman,Cremins,12/11/2000,fcremins56@university.edu,937-644-1989,Dayton,OH,SO,JRSM
+A00825890,Sonnie,Klulik,11/09/1996,sklulik57@university.edu,281-234-6264,Houston,TX,SO,FNCE
+A00699879,Ranice,Henbury,04/21/1997,rhenbury58@university.edu,936-408-8590,Huntsville,TX,SR,ASTL
+A00638689,Lib,Randle,04/17/2001,lrandle59@university.edu,757-915-9740,Suffolk,VA,GR,PTMA
+A00770483,Courtenay,Gaitley,03/01/1998,cgaitley5a@university.edu,941-904-6904,Sarasota,FL,SO,RADT
+A00703250,Malory,O'Carran,07/24/1997,mocarran5b@university.edu,202-637-9152,Washington,DC,JR,RADT
+A00511008,Dori,Burditt,05/24/2002,dburditt5c@university.edu,432-268-7873,Odessa,TX,SO,DANC
+A00505389,Salomone,Monkton,07/05/2000,smonkton5d@university.edu,205-723-8818,Birmingham,AL,GR,ME
+A00965025,Joe,Levens,11/15/1999,jlevens5e@university.edu,205-325-8845,Birmingham,AL,JR,PRST
+A00142691,Carmine,Issacoff,01/06/1996,cissacoff5f@university.edu,414-153-6742,Milwaukee,WI,FR,MSDM
+A00983735,Kimberley,Goulbourn,08/24/2000,kgoulbourn5g@university.edu,952-722-9830,Maple Plain,MN,FR,PSYC
+A00837827,Blinny,Meace,03/18/2001,bmeace5h@university.edu,806-740-8565,Amarillo,TX,GR,ASLC
+A00847672,Ozzy,Peeters,09/26/1996,opeeters5i@university.edu,405-132-7304,Oklahoma City,OK,GR,PMGT
+A00520907,Mordecai,Lendrem,05/24/1997,mlendrem5j@university.edu,812-845-8771,Evansville,IN,JR,CJA
+A00548562,Dorree,Stroban,05/03/2000,dstroban5k@university.edu,919-237-1662,Raleigh,NC,JR,COMM
+A00026833,Sayer,Absolom,11/28/2002,sabsolom5l@university.edu,203-919-1523,Norwalk,CT,SR,HSCI
+A00211774,Jeffy,Fincher,11/16/2001,jfincher5m@university.edu,916-334-8879,Sacramento,CA,GR,BLUE
+A00003408,Court,Bogeys,06/06/2000,cbogeys5n@university.edu,504-526-5131,New Orleans,LA,SR,NRSE
+A00696904,Ashely,Hexam,07/28/2002,ahexam5o@university.edu,405-930-4890,Oklahoma City,OK,SR,AMBA
+A00360600,Mireille,Overel,03/02/2000,moverel5p@university.edu,303-720-6560,Aurora,CO,GR,INTD
+A00293859,Rivkah,Kordes,07/17/1993,rkordes5q@university.edu,513-463-3667,Cincinnati,OH,SR,SOWK
+A00887587,Maye,Elliston,03/08/1997,melliston5r@university.edu,214-500-8685,Garland,TX,GR,CUAI
+A00143082,Talyah,Richardson,06/26/1998,trichardson5s@university.edu,425-685-5857,Everett,WA,JR,HUMT
+A00826168,Vasili,Leuty,01/26/1998,vleuty5t@university.edu,605-448-4178,Sioux Falls,SD,SR,PSYC
+A00296898,Shir,Danjoie,12/06/2000,sdanjoie5u@university.edu,310-375-0166,Santa Monica,CA,GR,SRVL
+A00931755,Steffen,Labell,08/04/1999,slabell5v@university.edu,352-744-8242,Spring Hill,FL,SR,PHAR
+A00380374,Bonnee,Bartolomeoni,05/22/1995,bbartolomeoni5w@university.edu,615-463-2935,Nashville,TN,GR,PBRL
+A00036079,Ginnie,Ivashechkin,12/12/1995,givashechkin5x@university.edu,303-691-2939,Aurora,CO,SR,FNCE
+A00052358,Ottilie,Swift,08/01/2002,oswift5y@university.edu,407-242-6349,Orlando,FL,SO,ALHS
+A00322905,Lauren,Dranfield,06/27/1998,ldranfield5z@university.edu,937-853-8507,Dayton,OH,SO,PHYS
+A00994854,Yasmin,Baccus,09/06/2000,ybaccus60@university.edu,714-940-2404,Santa Ana,CA,SO,WEBT
+A00431114,Lorry,Giamitti,01/14/2002,lgiamitti61@university.edu,212-921-4903,New York City,NY,JR,RELI
+A00834179,Rianon,Drummond,02/25/1998,rdrummond62@university.edu,801-362-8202,Salt Lake City,UT,SR,SW
+A00683531,Carmina,Brunesco,03/25/1999,cbrunesco63@university.edu,816-408-2222,Kansas City,MO,FR,COBH
+A00138900,Elsbeth,Dallaghan,07/23/2001,edallaghan64@university.edu,203-236-5494,Danbury,CT,FR,AVST
+A00997689,Ciro,Lillyman,01/28/2002,clillyman65@university.edu,605-765-7203,Sioux Falls,SD,FR,CJCR
+A00576227,Teresa,Herion,11/28/1998,therion66@university.edu,419-525-0326,Toledo,OH,FR,ASTL
+A00474291,Bridie,Bracknall,01/06/1996,bbracknall67@university.edu,561-706-8965,Palm Bay,FL,FR,BIOC
+A00378626,Delora,Laverenz,01/27/2002,dlaverenz68@university.edu,615-714-6096,Nashville,TN,SR,CRMJ
+A00590648,Cordi,Edginton,04/01/2001,cedginton69@university.edu,816-376-4577,Kansas City,MO,FR,CPSC
+A00753817,Gwenora,Hylands,09/16/2002,ghylands6a@university.edu,210-891-7357,San Antonio,TX,FR,HSRV
+A00710936,Gray,Pywell,09/21/1999,gpywell6b@university.edu,719-432-2798,Colorado Springs,CO,GR,HLSC
+A00406284,Lorelle,Fairley,01/27/2001,lfairley6c@university.edu,727-768-9512,Saint Petersburg,FL,FR,ALHS
+A00735262,Winnie,Hallede,02/07/1997,whallede6d@university.edu,207-621-9441,Portland,ME,JR,ADMN
+A00578209,Brig,Redwin,10/18/1999,bredwin6e@university.edu,702-216-8788,North Las Vegas,NV,SR,HSC
+A00031186,Marcel,Wychard,06/28/2002,mwychard6f@university.edu,414-502-3669,Milwaukee,WI,JR,DIGM
+A00761573,Andra,Anglim,05/19/2002,aanglim6g@university.edu,214-290-4742,Dallas,TX,GR,PSCI
+A00629771,Bran,Laker,09/18/2000,blaker6h@university.edu,405-877-5812,Oklahoma City,OK,GR,MGMT
+A00344365,Nissy,Riggert,05/02/2000,nriggert6i@university.edu,941-672-8570,Bradenton,FL,SO,RHSC
+A00319384,Jason,Mohring,04/19/2002,jmohring6j@university.edu,336-263-4535,High Point,NC,JR,PETE
+A00264128,Munroe,Dundredge,03/20/1998,mdundredge6k@university.edu,405-822-2729,Edmond,OK,FR,TEAS
+A00847607,Benedikta,Thistleton,10/12/1996,bthistleton6l@university.edu,325-604-8054,San Angelo,TX,JR,BIOC
+A00426120,Doralia,Hayhoe,08/28/1999,dhayhoe6m@university.edu,214-156-0850,Dallas,TX,JR,AGRI
+A00271490,Cordey,Lempel,08/25/1996,clempel6n@university.edu,316-159-2018,Wichita,KS,SR,MEDA
+A00711879,Sauveur,Gorger,09/09/1997,sgorger6o@university.edu,601-385-2201,Jackson,MS,JR,HUM
+A00013682,Charmaine,Spering,09/20/1996,cspering6p@university.edu,832-824-2487,Houston,TX,SO,MUS
+A00734273,Blake,Hartigan,04/20/2002,bhartigan6q@university.edu,260-706-9853,Fort Wayne,IN,SR,MALS
+A00974660,Jozef,Wragge,04/09/2001,jwragge6r@university.edu,915-770-6409,El Paso,TX,FR,SOWK
+A00757992,Sapphire,Issakov,07/01/1998,sissakov6s@university.edu,718-610-9653,Brooklyn,NY,GR,TEAE
+A00881018,Evin,Clynman,01/02/1995,eclynman6t@university.edu,314-312-6647,Saint Louis,MO,GR,ADMN
+A00709027,Gus,Gatty,03/04/1998,ggatty6u@university.edu,816-159-0569,Saint Joseph,MO,SR,APST
+A00726028,Antonella,Espasa,09/02/1997,aespasa6v@university.edu,813-781-2497,Zephyrhills,FL,SR,DHYG
+A00357384,Curtis,Slater,01/02/1997,cslater6w@university.edu,713-865-7116,Houston,TX,SR,HSRV
+A00833613,Clemmy,Parcall,11/12/1998,cparcall6x@university.edu,845-304-7909,White Plains,NY,JR,ELED
+A00851512,Thalia,Stiggles,10/09/2000,tstiggles6y@university.edu,225-556-1490,Baton Rouge,LA,GR,SLS
+A00311863,Lynne,Scotland,06/12/1995,lscotland6z@university.edu,913-607-8709,Shawnee Mission,KS,GR,HUM
+A00597714,Celeste,Conquest,07/03/2000,cconquest70@university.edu,704-381-7261,Charlotte,NC,JR,BIOM
+A00072349,Wyndham,Reckus,07/09/2001,wreckus71@university.edu,208-770-6737,Boise,ID,SR,PSCI
+A00408351,Sabine,Juan,02/26/2001,sjuan72@university.edu,850-918-9204,Pensacola,FL,SR,LIST
+A00332405,Rosemarie,Valero,06/01/1997,rvalero73@university.edu,970-443-6871,Greeley,CO,JR,CDST
+A00536329,Quint,Brockton,04/10/2000,qbrockton74@university.edu,509-690-7993,Spokane,WA,FR,ASTL
+A00334290,Jarred,Cowdrey,06/28/1997,jcowdrey75@university.edu,612-928-4992,Minneapolis,MN,JR,CISP
+A00624748,Elnora,Orht,11/18/1999,eorht76@university.edu,864-217-1788,Greenville,SC,FR,SWRK
+A00301693,Bendick,Moncreiffe,12/23/2000,bmoncreiffe77@university.edu,817-344-7217,Fort Worth,TX,SR,MRCH
+A00427771,Devi,Siemens,11/29/2002,dsiemens78@university.edu,508-414-5004,Worcester,MA,FR,HIMT
+A00923916,Donny,Posten,01/07/1996,dposten79@university.edu,775-635-1704,Reno,NV,GR,ENGL
+A00717273,Simonne,Eustice,03/05/1995,seustice7a@university.edu,952-909-9584,Maple Plain,MN,GR,ANTH
+A00588532,Clare,Plumridge,09/26/1998,cplumridge7b@university.edu,785-258-4432,Topeka,KS,SO,MEDA
+A00580916,Flossi,Gluyus,02/28/2000,fgluyus7c@university.edu,626-156-9769,Los Angeles,CA,SR,ADVR
+A00636198,Nefen,Scrannage,11/16/1999,nscrannage7d@university.edu,713-107-7123,Houston,TX,GR,ME
+A00805901,Rosy,Cranstoun,11/03/2001,rcranstoun7e@university.edu,864-207-5049,Greenville,SC,GR,THEA
+A00260574,Amalie,Dearan,09/05/2001,adearan7f@university.edu,719-833-4832,Colorado Springs,CO,JR,EDAD
+A00060148,Harmonie,Paszek,04/02/2002,hpaszek7g@university.edu,517-423-7927,Lansing,MI,JR,FNCE
+A00573801,Dolf,Dunnet,01/31/1999,ddunnet7h@university.edu,212-759-3226,New York City,NY,FR,COBH
+A00853234,Christean,Blagden,08/29/1995,cblagden7i@university.edu,305-524-4732,Miami,FL,JR,ADMN
+A00562001,Annalee,Moohan,04/09/2002,amoohan7j@university.edu,619-615-0546,San Diego,CA,GR,NTFD
+A00777424,Meggie,Calbert,05/28/1995,mcalbert7k@university.edu,469-841-0542,Garland,TX,SR,PHIL
+A00727183,Wallis,O'Sharry,05/04/1999,wosharry7l@university.edu,772-238-4495,Fort Pierce,FL,SR,ALHE
+A00401408,Laurens,Dellit,10/21/1995,ldellit7m@university.edu,915-237-3636,El Paso,TX,GR,SCED
+A00226904,Marcellus,Fullstone,06/12/2002,mfullstone7n@university.edu,719-227-0759,Colorado Springs,CO,FR,BIOM
+A00344936,Kit,Staniford,07/31/2001,kstaniford7o@university.edu,619-532-5652,San Diego,CA,SO,JOUR
+A00054437,Joellyn,Balasini,01/05/1996,jbalasini7p@university.edu,434-577-3843,Charlottesville,VA,SO,BIOM
+A00548804,Jacky,Hinstock,12/06/1995,jhinstock7q@university.edu,334-576-6232,Montgomery,AL,GR,ELED
+A00508442,Malvin,MacMoyer,08/13/2001,mmacmoyer7r@university.edu,512-789-3636,Austin,TX,SO,FNCE
+A00655624,Laural,O'Howbane,03/03/2000,lohowbane7s@university.edu,682-182-7544,Fort Worth,TX,SO,AGRI
+A00321733,Solly,Fetherstonhaugh,07/12/2002,sfetherstonhaugh7t@university.edu,941-818-3859,Sarasota,FL,JR,TEAE
+A00770234,Cirillo,Landis,07/27/1999,clandis7u@university.edu,818-244-8597,Los Angeles,CA,GR,SW
+A00610992,El,Mordey,08/20/1997,emordey7v@university.edu,361-791-9573,Corpus Christi,TX,FR,RELI
+A00882414,Theresita,Balazin,04/12/1995,tbalazin7w@university.edu,602-943-9278,Phoenix,AZ,FR,POLS
+A00311464,Janessa,Rintoul,05/19/1996,jrintoul7x@university.edu,210-433-5431,San Antonio,TX,SO,PHYT
+A00205398,Haywood,Cressar,12/20/2000,hcressar7y@university.edu,210-529-6083,San Antonio,TX,GR,PRST
+A00669077,Franklyn,McLleese,10/17/2000,fmclleese7z@university.edu,720-134-4297,Aurora,CO,JR,PADM
+A00374903,Harper,Barus,12/17/2000,hbarus80@university.edu,203-604-1781,Norwalk,CT,JR,GEOS
+A00052455,Coreen,Ealam,08/15/1999,cealam81@university.edu,860-271-7308,Hartford,CT,GR,PHYT
+A00301663,Gaylene,Fetters,07/05/1997,gfetters82@university.edu,517-219-4546,Lansing,MI,SO,PHIL
+A00330146,Nigel,Proske,11/01/1999,nproske83@university.edu,816-621-0471,Kansas City,KS,JR,PHED
+A00979998,Ninetta,Canet,09/10/2000,ncanet84@university.edu,954-433-6001,Hollywood,FL,SO,PSCI
+A00259711,Franzen,Colleton,08/14/2002,fcolleton85@university.edu,316-416-1605,Wichita,KS,FR,CSCI
+A00404573,Marcellus,Vasyuchov,09/17/1995,mvasyuchov86@university.edu,720-272-2593,Denver,CO,FR,UNIV
+A00190348,Tedie,Portingale,12/03/2000,tportingale87@university.edu,704-942-8395,Charlotte,NC,SR,PHYS
+A00956256,Doti,Getcliff,11/25/2001,dgetcliff88@university.edu,605-948-0671,Sioux Falls,SD,GR,ECED
+A00230721,Rutger,Whelpton,06/16/1989,rwhelpton89@university.edu,917-241-2383,New York City,NY,GR,MEDA
+A00237244,Yasmeen,Glastonbury,10/27/1997,yglastonbury8a@university.edu,520-187-7206,Tucson,AZ,GR,MRCH
+A00165920,Mina,Habard,05/06/1999,mhabard8b@university.edu,941-921-7926,Naples,FL,GR,DIGM
+A00719150,Glenda,Loder,07/24/1999,gloder8c@university.edu,602-650-3521,Phoenix,AZ,SR,MUS
+A00969345,Bibbye,Boswood,12/16/1999,bboswood8d@university.edu,619-862-4237,San Diego,CA,SR,ASTR
+A00847711,Rania,Pawson,04/06/1998,rpawson8e@university.edu,334-857-7849,Montgomery,AL,GR,GEOG
+A00793746,Ruprecht,Chominski,12/03/1997,rchominski8f@university.edu,303-641-7148,Denver,CO,FR,MKTG
+A00847550,Faulkner,Orrom,09/26/1996,forrom8g@university.edu,760-368-0132,Escondido,CA,SO,GEOL
+A00244820,Gardy,Blagdon,11/22/1999,gblagdon8h@university.edu,317-507-6791,Indianapolis,IN,GR,PRST
+A00653584,Dodi,Batcock,02/09/1999,dbatcock8i@university.edu,202-990-4651,Washington,DC,SO,EDFN
+A00816728,Cosetta,Serrell,04/05/1995,cserrell8j@university.edu,907-809-4547,Fairbanks,AK,JR,ECE
+A00732850,Bartlet,Lowfill,04/15/2001,blowfill8k@university.edu,203-149-0041,Hartford,CT,GR,EDUC
+A00673968,Ulric,Salack,11/21/1998,usalack8l@university.edu,407-868-8869,Orlando,FL,GR,MGMT
+A00514002,Blisse,Halfhyde,06/02/1995,bhalfhyde8m@university.edu,716-896-7248,Buffalo,NY,SR,POLS
+A00391652,Bald,O'Leahy,04/28/1999,boleahy8n@university.edu,361-826-0187,Corpus Christi,TX,SO,INFS
+A00604666,Clayson,Hoodless,11/06/2002,choodless8o@university.edu,202-121-8797,Washington,DC,SR,ARTA
+A00233321,Jorgan,Hexham,03/05/1999,jhexham8p@university.edu,907-311-9321,Anchorage,AK,SR,ENGR
+A00708554,Ursola,Bakhrushin,04/01/1998,ubakhrushin8q@university.edu,607-982-0349,Elmira,NY,FR,RADT
+A00947542,Josey,Iliff,03/22/1996,jiliff8r@university.edu,915-205-1923,El Paso,TX,SO,PTMA
+A00768615,Nancy,Kopmann,09/19/1995,nkopmann8s@university.edu,612-739-5349,Saint Paul,MN,JR,MUS
+A00577695,Deonne,Polland,01/23/2000,dpolland8t@university.edu,805-546-3649,Oxnard,CA,JR,UHON
+A00323425,Guenevere,Dobson,04/12/1999,gdobson8u@university.edu,318-990-4547,Shreveport,LA,SR,HUMT
+A00052824,Calley,Lademann,08/04/2000,clademann8v@university.edu,505-371-2819,Las Cruces,NM,SO,AGRI
+A00106705,Nonnah,Jemmison,04/13/1997,njemmison8w@university.edu,843-481-0021,Beaufort,SC,GR,SRVL
+A00491642,Wenona,Barsby,08/09/2001,wbarsby8x@university.edu,212-623-0018,New York City,NY,SR,MALS
+A00897325,Joan,Aitchinson,05/29/1999,jaitchinson8y@university.edu,202-409-6565,Washington,DC,SO,HUMT
+A00990631,Johnathan,Stode,05/27/2001,jstode8z@university.edu,408-595-7043,San Jose,CA,JR,COMM
+A00006100,Sig,Nelles,07/13/2000,snelles90@university.edu,405-178-8390,Oklahoma City,OK,JR,JAPN
+A00618441,Northrop,Drain,11/23/2001,ndrain91@university.edu,304-787-1161,Huntington,WV,SO,EPID
+A00041683,Mill,Rosendahl,04/25/2002,mrosendahl92@university.edu,203-583-7710,Stamford,CT,FR,STAT
+A00888540,Ophelie,Hriinchenko,02/19/2002,ohriinchenko93@university.edu,978-908-8657,Boston,MA,SR,POLS
+A00934867,Valeda,Corradengo,08/16/1998,vcorradengo94@university.edu,203-198-0275,New Haven,CT,GR,COL
+A00617686,Leelah,Hars,05/31/1997,lhars95@university.edu,972-418-7952,Mesquite,TX,JR,BIOL
+A00866854,Juan,Dallaghan,01/19/2002,jdallaghan96@university.edu,801-368-9144,Provo,UT,FR,CJCR
+A00599503,Mathias,Haquard,10/04/1995,mhaquard97@university.edu,404-856-6241,Atlanta,GA,FR,TECH
+A00644992,Rafaela,Akker,08/29/2000,rakker98@university.edu,754-889-0571,Fort Lauderdale,FL,JR,HETH
+A00260633,Brooke,Ackerley,01/24/1997,backerley99@university.edu,626-162-4011,Corona,CA,GR,EDUC
+A00995356,Goldia,Coleborn,08/27/2002,gcoleborn9a@university.edu,412-456-6785,Pittsburgh,PA,SO,HPSS
+A00613409,Angy,Studman,09/13/1995,astudman9b@university.edu,612-780-9594,Minneapolis,MN,FR,HUMT
+A00143934,Chiquia,Mifflin,12/08/2002,cmifflin9c@university.edu,702-861-9972,Henderson,NV,FR,PMSY
+A00184686,Enrichetta,Gosnall,07/25/1999,egosnall9d@university.edu,267-594-0796,Philadelphia,PA,SO,ARTA
+A00080369,Maye,Winter,10/18/2002,mwinter9e@university.edu,562-161-0085,Long Beach,CA,SR,SURV
+A00443928,Janis,Werlock,04/16/1998,jwerlock9f@university.edu,616-384-4374,Grand Rapids,MI,JR,HUMT
+A00870796,Maybelle,Hastin,10/08/1997,mhastin9g@university.edu,732-848-8447,New Brunswick,NJ,FR,PREH
+A00978381,Maribel,Gallelli,05/28/1999,mgallelli9h@university.edu,734-763-7185,Ann Arbor,MI,SR,HUM
+A00145276,Iona,Vedenyakin,09/28/1997,ivedenyakin9i@university.edu,917-950-1279,New York City,NY,SO,TECH
+A00461027,Demetrius,Tilte,08/06/1999,dtilte9j@university.edu,202-177-6675,Washington,DC,GR,HPSS
+A00773328,Lorna,Hawthorn,09/18/2001,lhawthorn9k@university.edu,206-433-8767,Seattle,WA,SR,POLI
+A00696708,Domenico,Feldfisher,05/24/1999,dfeldfisher9l@university.edu,607-372-2435,Elmira,NY,GR,SPAN
+A00719915,Marta,Billingsley,09/22/1997,mbillingsley9m@university.edu,561-678-5968,Palm Bay,FL,SR,NTFD
+A00718066,Fannie,Rilston,03/31/2002,frilston9n@university.edu,508-474-8692,Cambridge,MA,FR,COUN
+A00163908,Osbourn,Yerby,04/01/2001,oyerby9o@university.edu,727-577-1217,Clearwater,FL,GR,ADMN
+A00976512,Chrystel,Willmetts,08/02/1997,cwillmetts9p@university.edu,816-765-9670,Kansas City,MO,FR,HPSS
+A00842663,Leyla,McIllroy,01/20/2002,lmcillroy9q@university.edu,619-851-5080,San Diego,CA,SR,PSCI
+A00550371,Wyatan,Butterley,08/02/2000,wbutterley9r@university.edu,202-981-9030,Washington,DC,GR,CRMJ
+A00659922,Sybil,Carrack,10/25/1999,scarrack9s@university.edu,407-502-1800,Orlando,FL,SR,SPED
+A00001616,Sigvard,Hasluck,02/25/2002,shasluck9t@university.edu,617-880-7974,Boston,MA,GR,STOR
+A00795015,Georgeta,Klazenga,04/05/2001,gklazenga9u@university.edu,803-596-6453,Columbia,SC,SR,LDSP
+A00548081,Kailey,Conibere,06/10/1996,kconibere9v@university.edu,301-746-1551,Silver Spring,MD,FR,EDCI
+A00396795,Zarah,Panas,07/03/1997,zpanas9w@university.edu,214-318-6069,Dallas,TX,FR,DHYG
+A00983064,Eveline,Stodd,06/20/1996,estodd9x@university.edu,215-548-7777,Philadelphia,PA,FR,ENVH
+A00957892,Eduardo,Birkhead,03/19/1997,ebirkhead9y@university.edu,214-420-4025,Dallas,TX,SO,HUMT
+A00769433,Yale,Shadfourth,01/23/1998,yshadfourth9z@university.edu,408-643-6159,San Jose,CA,SR,ANTH
+A00892440,Juieta,Larret,12/13/1997,jlarreta0@university.edu,215-703-9562,Philadelphia,PA,FR,WEBT
+A00839198,Paula,Monteith,01/25/1995,pmonteitha1@university.edu,571-782-5063,Springfield,VA,SR,ECON
+A00498170,Willow,Sabate,10/13/2002,wsabatea2@university.edu,903-646-1260,Longview,TX,JR,POLI
+A00914225,Ruthy,Kilcullen,08/08/2001,rkilcullena3@university.edu,661-700-7556,Palmdale,CA,SR,COBH
+A00481240,Calla,Towsey,07/04/1995,ctowseya4@university.edu,318-387-8653,Monroe,LA,JR,MUS
+A00161585,Fabe,Troman,04/15/2002,ftromana5@university.edu,251-561-0568,Mobile,AL,SR,EDU
+A00864584,Pammi,Cornborough,11/01/1997,pcornborougha6@university.edu,202-151-1011,Washington,DC,FR,SOC
+A00170513,Brigit,Spatarul,03/11/1997,bspatarula7@university.edu,210-380-1385,San Antonio,TX,SO,MSCI
+A00414076,Tabbie,Basezzi,10/19/1996,tbasezzia8@university.edu,214-338-6852,Irving,TX,JR,DIGM
+A00229642,Carine,Ghidetti,06/10/1998,cghidettia9@university.edu,281-233-7580,Houston,TX,SO,COL
+A00861870,Muriel,Gyde,12/23/2002,mgydeaa@university.edu,847-223-5653,Palatine,IL,FR,MSCI
+A00204400,Caye,Edscer,07/31/1997,cedscerab@university.edu,203-455-1637,Danbury,CT,GR,HSMP
+A00396095,Devan,Dewen,09/11/2000,ddewenac@university.edu,770-380-2470,Lawrenceville,GA,GR,LDSP
+A00861349,Rossie,Dally,01/17/1996,rdallyad@university.edu,616-284-4177,Grand Rapids,MI,JR,CJCR
+A00776495,Suzette,Mirrlees,08/13/2000,smirrleesae@university.edu,817-647-9488,Irving,TX,SO,COBH
+A00436634,Chancey,Hambers,01/17/2002,chambersaf@university.edu,562-333-1286,San Francisco,CA,JR,SPAN
+A00233868,Ode,Titterington,12/07/1998,otitteringtonag@university.edu,901-146-1788,Memphis,TN,SR,CDST
+A00095788,Willa,Keaton,10/24/1995,wkeatonah@university.edu,714-305-8410,Orange,CA,SR,TEAS
+A00624276,Rolfe,Gabbatiss,10/28/1995,rgabbatissai@university.edu,713-439-8084,Houston,TX,JR,BMGT
+A00409740,Madella,Lamartine,02/15/1996,mlamartineaj@university.edu,860-906-5057,Hartford,CT,FR,ECED
+A00224820,Lamar,Swancott,10/18/2002,lswancottak@university.edu,904-162-1035,Jacksonville,FL,GR,MDT
+A00576287,Dewey,Rudgard,12/13/2000,drudgardal@university.edu,410-884-1073,Baltimore,MD,SR,HIST
+A00593674,Cicely,Tedder,11/07/2000,ctedderam@university.edu,706-122-2140,Athens,GA,SO,MUSC
+A00277996,Leonid,Reddel,07/18/2000,lreddelan@university.edu,806-748-6851,Lubbock,TX,SR,SOC
+A00502348,Dav,Gadd,03/11/1997,dgaddao@university.edu,718-452-3126,Brooklyn,NY,GR,STOR
+A00220532,Fae,Huxton,05/16/2000,fhuxtonap@university.edu,925-454-1296,Hayward,CA,FR,TEAS
+A00276610,Frants,Heaseman,11/04/1996,fheasemanaq@university.edu,760-351-1614,San Bernardino,CA,FR,PHED
+A00468062,Waldemar,Bonifazio,07/09/2000,wbonifazioar@university.edu,661-373-1264,Bakersfield,CA,FR,SRVL
+A00483643,Dirk,Sandbatch,07/02/2001,dsandbatchas@university.edu,208-361-5913,Boise,ID,FR,TECH
+A00797182,Mauricio,Ballam,08/25/2000,mballamat@university.edu,623-586-7217,Phoenix,AZ,SO,CJA
+A00244140,Morse,Hassey,06/01/2002,mhasseyau@university.edu,952-688-6408,Minneapolis,MN,SO,BIOL
+A00426795,Brena,Incogna,09/26/1998,bincognaav@university.edu,303-788-1324,Denver,CO,SR,EDUC
+A00798213,Basile,Treversh,11/27/1996,btrevershaw@university.edu,919-824-9674,Raleigh,NC,GR,ACCT
+A00955047,Fairfax,Weth,08/17/1996,fwethax@university.edu,559-510-9882,Fresno,CA,FR,SCED
+A00283939,Arluene,Middas,06/28/2001,amiddasay@university.edu,239-402-2471,Lehigh Acres,FL,FR,PSYC
+A00479050,Boone,Fleming,10/25/2002,bflemingaz@university.edu,360-627-2588,Vancouver,WA,SR,HPSS
+A00323244,Lottie,Winstanley,12/12/1999,lwinstanleyb0@university.edu,215-643-4831,Philadelphia,PA,FR,RADT
+A00355464,Shepard,Clewarth,12/29/1999,sclewarthb1@university.edu,540-261-1054,Roanoke,VA,JR,PM
+A00645942,Hollyanne,Sultana,07/02/1999,hsultanab2@university.edu,904-678-0702,Jacksonville,FL,FR,PEXS
+A00221909,Broddie,Lawly,04/09/2000,blawlyb3@university.edu,901-261-6469,Memphis,TN,SO,WEB
+A00606323,Dorree,Mosco,08/24/2000,dmoscob4@university.edu,540-363-8022,Roanoke,VA,SR,RADT
+A00413864,Leena,Bushel,11/13/1998,lbushelb5@university.edu,901-245-8352,Memphis,TN,JR,ENGL
+A00249515,Tallia,Abells,11/01/2001,tabellsb6@university.edu,804-852-6021,Richmond,VA,JR,PREH
+A00876755,Yalonda,Farnsworth,05/10/1999,yfarnsworthb7@university.edu,907-182-5642,Anchorage,AK,GR,ASTR
+A00248949,Catie,Alliston,02/01/2002,callistonb8@university.edu,646-305-6415,New York City,NY,SR,ELED
+A00951025,Arlene,Antcliffe,04/21/2000,aantcliffeb9@university.edu,561-324-9153,Boynton Beach,FL,SR,HSMP
+A00333884,Marylee,Chang,08/17/2001,mchangba@university.edu,510-801-7279,Irvine,CA,SO,ENTC
+A00710928,Killie,Noad,07/02/2001,knoadbb@university.edu,702-905-3583,North Las Vegas,NV,GR,HETH
+A00012544,Lu,Pridie,08/29/1996,lpridiebc@university.edu,432-975-9573,Midland,TX,SR,ALHS
+A00631365,Murray,Fairn,07/19/1995,mfairnbd@university.edu,937-931-9963,Dayton,OH,SO,ARTA
+A00786891,Leonid,Whiscard,12/13/1995,lwhiscardbe@university.edu,718-931-6219,New York City,NY,SO,EPID
+A00894575,Lilith,Corradetti,10/01/2001,lcorradettibf@university.edu,336-325-5518,Greensboro,NC,SO,INFS
+A00185007,Ashby,Freestone,03/21/1995,afreestonebg@university.edu,281-758-6894,Houston,TX,SO,MUSC
+A00698489,Christiano,Jeacock,10/13/1995,cjeacockbh@university.edu,215-345-5110,Philadelphia,PA,JR,ALHE
+A00461199,Phillipp,Pestell,03/18/2002,ppestellbi@university.edu,202-654-2267,Washington,DC,SO,CDST
+A00007568,John,Coxhead,05/02/1991,jcoxheadbj@university.edu,502-653-9657,Louisville,KY,SR,GREK
+A00437408,Charley,Scrinage,04/20/2000,cscrinagebk@university.edu,419-218-0608,Toledo,OH,SR,LANG
+A00363353,Blair,Marguerite,12/09/2002,bmargueritebl@university.edu,562-341-6511,Los Angeles,CA,SR,POLI
+A00437990,Fernando,Savile,07/31/2000,fsavilebm@university.edu,859-221-4871,Lexington,KY,JR,STOR
+A00320402,Hadria,Whiston,06/19/1998,hwhistonbn@university.edu,847-265-0639,Chicago,IL,SR,ADVR
+A00739039,Therine,Le Friec,02/17/1995,tlefriecbo@university.edu,937-967-7853,Dayton,OH,GR,WEBT
+A00830645,Jolene,Shimman,01/16/2001,jshimmanbp@university.edu,480-590-1830,Apache Junction,AZ,JR,DIGM
+A00234761,Christina,Cordy,05/19/1996,ccordybq@university.edu,773-898-5502,Chicago,IL,JR,BIOM
+A00799139,Vite,Ingold,10/05/1995,vingoldbr@university.edu,313-728-1621,Detroit,MI,SR,PMSY
+A00311142,Heda,March,02/14/2002,hmarchbs@university.edu,513-161-4964,Cincinnati,OH,JR,GEOS
+A00342414,Mischa,Feaks,12/07/1996,mfeaksbt@university.edu,916-234-7767,Sacramento,CA,SO,PREH
+A00749466,Garvey,Allingham,02/15/1995,gallinghambu@university.edu,907-220-6480,Anchorage,AK,FR,BADM
+A00523761,Stanley,Warmisham,12/01/1999,swarmishambv@university.edu,540-310-4252,Fredericksburg,VA,GR,UNIV
+A00048204,Hurleigh,Gutowska,03/14/2001,hgutowskabw@university.edu,314-855-4236,Saint Louis,MO,GR,MDT
+A00199787,Lilllie,Thynne,10/05/1998,lthynnebx@university.edu,816-808-0134,Kansas City,MO,SO,PUBR
+A00160036,Shadow,Lavender,02/13/1996,slavenderby@university.edu,512-241-9023,Austin,TX,FR,HPSS
+A00513575,Rhianon,Blanchet,02/25/1997,rblanchetbz@university.edu,518-562-8282,Schenectady,NY,SR,GEOL
+A00567404,Parrnell,Benedidick,04/26/2002,pbenedidickc0@university.edu,405-716-4841,Oklahoma City,OK,GR,HSCI
+A00467752,Ring,Apps,09/18/1996,rappsc1@university.edu,248-485-2017,Troy,MI,SR,AGRI
+A00879269,Vin,Brewitt,03/10/1997,vbrewittc2@university.edu,408-695-2119,San Jose,CA,FR,PMGT
+A00536919,Victor,McAleese,02/03/1999,vmcaleesec3@university.edu,623-631-1492,Phoenix,AZ,GR,ENGR
+A00350235,Ellsworth,Bogges,09/21/1995,eboggesc4@university.edu,919-632-7689,Raleigh,NC,SR,INTD
+A00416388,Dacia,Murrells,07/23/1998,dmurrellsc5@university.edu,304-308-9076,Huntington,WV,FR,GREK
+A00330814,Correy,Barson,12/20/2000,cbarsonc6@university.edu,505-103-6352,Albuquerque,NM,SR,INFS
+A00613851,Guillaume,Tesmond,07/19/2000,gtesmondc7@university.edu,909-244-5272,San Bernardino,CA,JR,BLUE
+A00051049,Angil,Radford,07/27/1997,aradfordc8@university.edu,312-247-3525,Chicago,IL,FR,UNIV
+A00325995,Padraic,Nodes,12/27/1995,pnodesc9@university.edu,504-643-9004,New Orleans,LA,FR,ACCT
+A00575508,Bronny,Spilisy,08/21/1997,bspilisyca@university.edu,315-251-6968,Syracuse,NY,GR,CITC
+A00627634,Lilah,Grigoroni,05/07/1998,lgrigoronicb@university.edu,828-287-8743,Asheville,NC,GR,SLS
+A00342294,Pincas,Fisby,06/15/1995,pfisbycc@university.edu,318-676-2785,Monroe,LA,FR,GERM
+A00987847,Erwin,Vauter,12/25/1995,evautercd@university.edu,864-449-4458,Greenville,SC,JR,CRMJ
+A00550232,Quintina,Tevlin,10/12/1995,qtevlince@university.edu,254-530-0883,Waco,TX,SO,PETE
+A00211696,Kariotta,Tate,11/22/2002,ktatecf@university.edu,727-162-2072,Clearwater,FL,FR,SW
+A00904852,Ring,Liddard,02/04/1995,rliddardcg@university.edu,901-537-2950,Memphis,TN,SR,PHSI
+A00719219,Sunny,Gianelli,01/28/2000,sgianellich@university.edu,734-538-5351,Ann Arbor,MI,SR,INTD
+A00947793,Shurwood,McRuvie,05/08/1999,smcruvieci@university.edu,562-287-0289,Whittier,CA,JR,TEAE
+A00233384,Colette,Ambrogioli,11/17/1997,cambrogiolicj@university.edu,260-389-1365,Fort Wayne,IN,SO,RELI
+A00858023,Randy,Blackhurst,07/28/2000,rblackhurstck@university.edu,720-582-0772,Denver,CO,SO,ACCT
+A00526882,Bertram,Bienvenu,05/20/2002,bbienvenucl@university.edu,202-794-7246,Washington,DC,GR,COM
+A00159926,Vaughan,Vellacott,10/25/2002,vvellacottcm@university.edu,734-599-1826,Ann Arbor,MI,GR,SCED
+A00806908,Odelinda,Pettyfar,07/04/1995,opettyfarcn@university.edu,330-710-7440,Youngstown,OH,FR,HSRV
+A00897820,Tonia,Chess,01/10/2000,tchessco@university.edu,804-145-2669,Richmond,VA,SR,UNIV
+A00195668,Albie,Naptine,10/22/2001,anaptinecp@university.edu,917-766-9582,Brooklyn,NY,JR,PRST
+A00541039,Anette,Moakes,10/20/1999,amoakescq@university.edu,763-227-9068,Maple Plain,MN,SO,MSDM
+A00744302,Wilma,Brettor,11/07/2002,wbrettorcr@university.edu,205-273-4073,Birmingham,AL,SO,THEA
+A00850552,Tildie,Offill,09/16/2002,toffillcs@university.edu,901-590-0525,Memphis,TN,FR,EDFN
+A00039237,Milton,Carpe,06/10/2001,mcarpect@university.edu,616-602-9378,Grand Rapids,MI,JR,HLSC
+A00426319,Lemmy,Lujan,06/17/1995,llujancu@university.edu,206-537-9624,Seattle,WA,SO,GEOL
+A00506349,Betteann,Giacometti,12/27/1998,bgiacometticv@university.edu,304-101-8554,Huntington,WV,FR,MICR
+A00343116,Markus,Jakoub,01/11/1997,mjakoubcw@university.edu,213-328-1497,Los Angeles,CA,JR,SLS
+A00315113,Pearla,Aumerle,08/26/1998,paumerlecx@university.edu,404-796-1394,Atlanta,GA,JR,PM
+A00210080,Roddy,Vicar,12/03/1995,rvicarcy@university.edu,501-468-2851,Little Rock,AR,SO,RHSC
+A00398162,Cherey,Nairy,04/16/1997,cnairycz@university.edu,904-825-6481,Jacksonville,FL,SO,ASTL
+A00073556,Stanton,Franzel,05/20/1999,sfranzeld0@university.edu,865-266-3955,Knoxville,TN,FR,WEB
+A00248811,Roberta,Jerrim,04/08/2002,rjerrimd1@university.edu,202-391-9353,Washington,DC,FR,MALS
+A00394440,Torr,Stowte,12/31/1998,tstowted2@university.edu,714-572-9335,Anaheim,CA,GR,SW
+A00804287,Karoly,Orriss,01/03/1998,korrissd3@university.edu,323-282-6792,Pasadena,CA,SO,PEXS
+A00053308,Sara,Patise,08/19/2002,spatised4@university.edu,603-760-4760,Portsmouth,NH,GR,CITC
+A00090614,Manfred,Blazy,04/11/1998,mblazyd5@university.edu,754-851-5455,Fort Lauderdale,FL,SR,ECON
+A00230452,Hayden,Ridewood,08/25/1995,hridewoodd6@university.edu,703-407-5724,Alexandria,VA,SR,TEAE
+A00273157,Netta,Tummasutti,07/14/1999,ntummasuttid7@university.edu,305-696-2879,Naples,FL,FR,PBRL
+A00341178,Rriocard,Lamden,10/20/1998,rlamdend8@university.edu,843-715-1687,Charleston,SC,SR,HSMP
+A00116581,Leona,Romaint,03/27/2001,lromaintd9@university.edu,305-845-6412,Hialeah,FL,JR,JAPN
+A00448943,Theodor,Wimpenny,12/13/2000,twimpennyda@university.edu,408-742-4515,San Jose,CA,SR,ASTL
+A00909630,Rebeka,Florence,02/14/1995,rflorencedb@university.edu,915-819-0753,El Paso,TX,JR,ARTH
+A00572271,Myles,Pitblado,02/25/2002,mpitbladodc@university.edu,512-698-6871,Austin,TX,SO,LANG
+A00546858,Ezekiel,Radenhurst,12/18/2001,eradenhurstdd@university.edu,504-777-8769,New Orleans,LA,SR,MUSC
+A00714323,Terencio,Artharg,12/27/2001,tarthargde@university.edu,217-612-7189,Springfield,IL,GR,POLI
+A00216896,Gratiana,Timmins,02/21/2001,gtimminsdf@university.edu,325-987-6803,Abilene,TX,SO,BSTA
+A00367705,Leif,Didball,11/26/1999,ldidballdg@university.edu,832-157-7877,Spring,TX,JR,MCOM
+A00965873,Tremain,Colyer,12/06/1998,tcolyerdh@university.edu,213-951-5549,Los Angeles,CA,GR,RADT
+A00009566,Ramonda,Matherson,10/24/1995,rmathersondi@university.edu,843-105-2373,Charleston,SC,JR,ASTL
+A00571044,Bil,Gerwood,12/18/2001,bgerwooddj@university.edu,330-731-8249,Youngstown,OH,JR,PUBR
+A00919378,Opaline,Connachan,02/19/2001,oconnachandk@university.edu,760-346-6889,San Diego,CA,SR,SCED
+A00029194,Carole,Robarts,03/30/1996,crobartsdl@university.edu,713-774-2771,Houston,TX,JR,HETH
+A00180956,Briney,Jeckell,10/21/2000,bjeckelldm@university.edu,770-800-9602,Atlanta,GA,GR,COBH
+A00931213,Vallie,Stubs,11/14/1997,vstubsdn@university.edu,323-607-5975,Los Angeles,CA,SO,ANTH
+A00587659,Maxine,Scotchmor,04/05/1999,mscotchmordo@university.edu,785-707-3449,Topeka,KS,FR,SURV
+A00395737,Aime,Hastewell,09/22/1995,ahastewelldp@university.edu,215-947-0039,Philadelphia,PA,FR,MCOM
+A00551078,Cathleen,Dankersley,10/07/1998,cdankersleydq@university.edu,309-294-2934,Bloomington,IL,FR,PHYT
+A00562967,Mycah,Pegg,02/24/1999,mpeggdr@university.edu,571-427-5698,Arlington,VA,GR,MKTG
+A00531769,Sloan,O'Dulchonta,09/17/1997,sodulchontads@university.edu,210-158-5389,San Antonio,TX,SR,BSTA
+A00184308,Ellswerth,Harbron,08/21/1997,eharbrondt@university.edu,407-549-1421,Orlando,FL,FR,GREK
+A00084419,Rosamund,Lievesley,11/26/2000,rlievesleydu@university.edu,901-557-1868,Memphis,TN,SO,COBH
+A00978326,Pris,Challinor,02/21/2002,pchallinordv@university.edu,816-688-8155,Kansas City,MO,SR,FNCE
+A00033873,Janaye,Ciardo,06/28/1998,jciardodw@university.edu,719-558-7773,Colorado Springs,CO,JR,SPAN
+A00487051,Luke,Pirazzi,06/19/1996,lpirazzidx@university.edu,254-603-2520,Waco,TX,JR,MATH
+A00190497,Reggi,Hearnes,11/15/2002,rhearnesdy@university.edu,559-523-5265,Fresno,CA,SO,COMP
+A00416058,Briano,Maggiore,11/28/2001,bmaggioredz@university.edu,646-850-9822,New York City,NY,GR,LIST
+A00822493,Bertie,Rutter,11/02/1997,bruttere0@university.edu,803-592-0779,Aiken,SC,FR,MEDA
+A00779491,Wolfgang,Battista,01/02/1987,wbattistae1@university.edu,862-445-7292,Paterson,NJ,GR,STAT
+A00382508,Terry,Cassel,07/27/1995,tcassele2@university.edu,504-375-1018,New Orleans,LA,GR,PHYT
+A00453333,Sharon,Cleife,05/30/2002,scleifee3@university.edu,727-617-7554,Clearwater,FL,JR,HETH
+A00787284,Clyve,Ninnotti,11/10/1998,cninnottie4@university.edu,404-507-6241,Atlanta,GA,JR,ET
+A00279936,Brittney,McKearnen,08/04/1999,bmckearnene5@university.edu,520-184-0642,Tucson,AZ,SR,ARTH
+A00721991,Vanya,Sorro,09/14/2000,vsorroe6@university.edu,314-137-2693,Saint Louis,MO,SR,CISP
+A00406933,Chas,Fendley,12/20/1995,cfendleye7@university.edu,615-201-5131,Nashville,TN,JR,RHSC
+A00503810,Dayle,Aronowicz,11/19/1997,daronowicze8@university.edu,203-276-0882,Bridgeport,CT,JR,ELED
+A00309137,Joe,Sherme,01/19/2000,jshermee9@university.edu,412-679-2761,Pittsburgh,PA,SO,PSY
+A00622746,Eberhard,Donat,12/18/1997,edonatea@university.edu,914-493-7335,White Plains,NY,FR,CJCR
+A00534427,Brigit,Hair,12/02/2002,bhaireb@university.edu,623-354-4981,Phoenix,AZ,SO,ASTL
+A00859962,Gallagher,Brealey,11/20/1997,gbrealeyec@university.edu,816-956-1399,Kansas City,KS,GR,HDAL
+A00865034,Caye,Polak,12/06/1995,cpolaked@university.edu,864-905-3568,Spartanburg,SC,JR,CDST
+A00553800,Wolfgang,Yetton,02/25/1995,wyettonee@university.edu,253-739-7653,Tacoma,WA,FR,GEOS
+A00139038,Obed,Durante,06/23/1995,oduranteef@university.edu,402-410-5575,Omaha,NE,FR,PHSI
+A00618601,Efrem,Darinton,12/15/1997,edarintoneg@university.edu,714-634-3587,Newport Beach,CA,FR,ASLC
+A00567195,Nerte,Sharer,02/19/2000,nsharereh@university.edu,415-390-6719,San Francisco,CA,SR,EDCI
+A00077879,Ly,Tebboth,01/23/2002,ltebbothei@university.edu,504-968-5703,New Orleans,LA,FR,ADMN
+A00147299,Megan,McIlory,01/27/1999,mmciloryej@university.edu,661-247-8403,Burbank,CA,JR,CJCR
+A00462813,Domeniga,Lease,05/17/1999,dleaseek@university.edu,712-661-6671,Sioux City,IA,SR,SWRK
+A00720366,Charlotta,Solman,08/12/1998,csolmanel@university.edu,209-382-5614,Stockton,CA,SO,ENVH
+A00815389,Ewell,Ellings,05/01/1998,eellingsem@university.edu,405-825-6794,Oklahoma City,OK,JR,PBRL
+A00116549,Arel,Chrstine,08/23/1997,achrstineen@university.edu,509-408-4990,Spokane,WA,SR,JOUR
+A00741763,Calvin,Seine,07/09/1999,cseineeo@university.edu,713-751-1949,Houston,TX,JR,CITC
+A00447665,Elisabet,Clohissy,11/25/1999,eclohissyep@university.edu,814-876-0030,Erie,PA,SR,DHYG
+A00641429,Fernande,Izhakov,12/21/1997,fizhakoveq@university.edu,704-628-8956,Charlotte,NC,FR,EDFN
+A00968544,Caralie,Barfield,07/23/2002,cbarfielder@university.edu,912-282-5107,Savannah,GA,JR,MSDM
+A00679856,Adler,Lindroos,01/19/1995,alindrooses@university.edu,702-780-6703,Las Vegas,NV,SR,CISP
+A00078009,Keely,Jiruch,07/28/1997,kjiruchet@university.edu,713-823-2952,Houston,TX,SO,MSCI
+A00444148,Nahum,Carlisso,09/07/1997,ncarlissoeu@university.edu,972-900-4099,Dallas,TX,SR,JAPN
+A00138157,Ina,Goschalk,11/11/2001,igoschalkev@university.edu,213-837-5060,Los Angeles,CA,FR,MDT
+A00679891,Livia,Dallin,07/13/1999,ldallinew@university.edu,205-522-1208,Tuscaloosa,AL,FR,MALS
+A00071487,Salmon,Heymes,08/22/2001,sheymesex@university.edu,937-815-4994,Dayton,OH,FR,RADT
+A00360203,Corrinne,Hellyer,11/22/1999,chellyerey@university.edu,361-869-4785,Corpus Christi,TX,JR,ANTH
+A00054739,Harli,Stayt,03/20/1998,hstaytez@university.edu,937-489-5978,Dayton,OH,SR,PMGT
+A00519594,Oby,Norledge,01/16/1998,onorledgef0@university.edu,412-249-2745,Pittsburgh,PA,GR,PHYT
+A00218661,Piotr,Bonass,02/23/2001,pbonassf1@university.edu,304-665-5781,Morgantown,WV,FR,MKTG
+A00646607,Grata,Veale,12/23/1999,gvealef2@university.edu,812-642-3194,Jeffersonville,IN,JR,PHYS
+A00196692,Iago,Izkovitz,02/02/1997,iizkovitzf3@university.edu,480-638-9105,Mesa,AZ,JR,GREK
+A00530707,Allie,Brazer,10/27/1999,abrazerf4@university.edu,785-583-8485,Topeka,KS,GR,ENVH
+A00670558,Dolph,Pasquale,02/05/1999,dpasqualef5@university.edu,910-463-4017,Wilmington,NC,SO,THEA
+A00028693,Carlyn,Burdin,10/05/2001,cburdinf6@university.edu,602-415-2716,Phoenix,AZ,FR,MRCH
+A00779363,Carlin,Gregoratti,04/12/1997,cgregorattif7@university.edu,313-610-4734,Detroit,MI,FR,NRSE
+A00244571,Saree,Tenant,08/20/2001,stenantf8@university.edu,808-602-0068,Honolulu,HI,SO,AMBA
+A00382863,Etty,Allewell,03/28/1998,eallewellf9@university.edu,765-647-9676,Lafayette,IN,JR,ACCT
+A00720363,Manfred,Hazelhurst,11/24/1998,mhazelhurstfa@university.edu,407-116-0968,Orlando,FL,GR,MRCH
+A00866413,Arabel,Krimmer,11/26/2001,akrimmerfb@university.edu,312-525-4728,Chicago,IL,SO,ELPA
+A00093944,Archibold,Stiven,10/25/1996,astivenfc@university.edu,616-184-1017,Grand Rapids,MI,JR,DANC
+A00203753,Vasily,Huygens,05/15/1998,vhuygensfd@university.edu,202-948-3986,Washington,DC,SO,ELED
+A00545162,Saundra,Hort,01/30/2000,shortfe@university.edu,682-709-8995,Fort Worth,TX,JR,MEDA
+A00382207,Leland,Pennazzi,07/24/2002,lpennazziff@university.edu,407-311-6735,Winter Haven,FL,SO,PHYS
+A00117770,Vernon,Skyner,10/13/1995,vskynerfg@university.edu,309-414-1781,Carol Stream,IL,SR,EDU
+A00060913,Jorry,Rockall,12/30/2001,jrockallfh@university.edu,918-442-1159,Tulsa,OK,FR,MATH
+A00077285,Susette,Windas,06/09/2000,swindasfi@university.edu,808-163-1603,Honolulu,HI,GR,PSYC
+A00564741,Anica,Braime,01/21/1998,abraimefj@university.edu,954-492-6271,Miami,FL,FR,MGMT
+A00633091,Serene,Childs,02/21/1999,schildsfk@university.edu,212-152-6465,New York City,NY,JR,LDSP
+A00304656,Wernher,Drydale,11/15/1997,wdrydalefl@university.edu,817-620-0693,Fort Worth,TX,GR,ECED
+A00542122,Nataniel,Wagenen,03/26/1998,nwagenenfm@university.edu,813-206-1196,Tampa,FL,FR,ECED
+A00529200,Dorie,Andriessen,06/13/1995,dandriessenfn@university.edu,253-169-1678,Olympia,WA,FR,BIOC
+A00306704,Belinda,Dahlborg,07/07/1996,bdahlborgfo@university.edu,850-625-6997,Tallahassee,FL,SO,HLSC
+A00253128,Marleen,Daws,06/18/2000,mdawsfp@university.edu,240-619-2798,Frederick,MD,JR,LANG
+A00760132,Merlina,Letty,12/01/1997,mlettyfq@university.edu,515-396-6152,Des Moines,IA,GR,RTVF
+A00282104,Ross,Coling,03/04/1999,rcolingfr@university.edu,217-157-1501,Decatur,IL,GR,TEAS
+A00045246,Ravid,Kemmett,06/28/1997,rkemmettfs@university.edu,856-314-5859,Camden,NJ,GR,ACCT
+A00686821,Dicky,Doornbos,11/25/2001,ddoornbosft@university.edu,804-907-6857,Richmond,VA,FR,ENGR
+A00396267,Ruy,Bolus,12/25/1995,rbolusfu@university.edu,212-378-6911,New York City,NY,SO,ENVH
+A00648945,Arabel,Alder,10/24/1998,aalderfv@university.edu,513-247-1484,Cincinnati,OH,SR,COMP
+A00653685,Cindra,Popov,04/20/1997,cpopovfw@university.edu,678-979-2772,Lawrenceville,GA,SR,SW
+A00336995,Hazel,Mathelin,12/13/1995,hmathelinfx@university.edu,203-573-1853,Fairfield,CT,FR,COM
+A00899814,Candie,Schollick,11/12/1999,cschollickfy@university.edu,646-252-9108,Brooklyn,NY,GR,COBH
+A00320570,Abba,Shutte,11/25/2000,ashuttefz@university.edu,910-441-9815,Wilmington,NC,JR,EPID
+A00928008,Lothario,Facher,11/04/2001,lfacherg0@university.edu,757-965-0832,Hampton,VA,GR,RADT
+A00825764,Robinetta,Greenleaf,06/29/1998,rgreenleafg1@university.edu,703-449-7332,Silver Spring,MD,SR,SWRK
+A00066982,Waneta,Sivills,10/05/1996,wsivillsg2@university.edu,941-390-2056,Sarasota,FL,JR,ENVS
+A00151585,Wandie,Lapides,09/09/1995,wlapidesg3@university.edu,515-749-2166,Des Moines,IA,SR,ENGL
+A00551080,Laurie,Cristol,07/23/2002,lcristolg4@university.edu,520-433-2865,Tucson,AZ,SR,TEAS
+A00443849,Olin,Rebeiro,04/28/1996,orebeirog5@university.edu,805-290-4900,Santa Barbara,CA,SR,AGRI
+A00008576,Trix,Kienle,09/08/1999,tkienleg6@university.edu,434-149-5188,Durham,NC,SR,SOC
+A00783528,Spencer,Wolford,09/13/1997,swolfordg7@university.edu,617-656-9155,Boston,MA,SO,UNIV
+A00797701,Ermina,Phlippsen,01/28/2001,ephlippseng8@university.edu,214-750-8357,Arlington,TX,FR,ET
+A00303626,Berti,MacCurlye,07/17/1997,bmaccurlyeg9@university.edu,501-160-0113,North Little Rock,AR,SR,GEOS
+A00088386,Ignaz,Burner,05/03/1999,iburnerga@university.edu,646-225-2067,New York City,NY,SR,HUMT
+A00519744,Tammi,Chellenham,07/22/1997,tchellenhamgb@university.edu,917-824-8637,New York City,NY,SR,PHYT
+A00728460,Sherman,O'Farrell,05/12/1995,sofarrellgc@university.edu,480-387-7529,Chandler,AZ,JR,PADM
+A00527558,Garvey,Fagg,09/18/2002,gfagggd@university.edu,718-288-9858,Jamaica,NY,JR,HDAL
+A00378596,Gus,Laviste,02/21/2000,glavistege@university.edu,505-350-2227,Albuquerque,NM,SR,SALM
+A00153264,Gwyneth,Bartholin,09/13/1998,gbartholingf@university.edu,863-220-8018,Lakeland,FL,GR,PSY
+A00953962,Pippa,Merle,06/23/2001,pmerlegg@university.edu,330-944-5877,Warren,OH,GR,PHED
+A00941704,Ibrahim,Philpots,08/04/1998,iphilpotsgh@university.edu,410-358-0736,Baltimore,MD,SR,ECON
+A00984210,Estrellita,Jeens,01/10/1996,ejeensgi@university.edu,786-567-5724,Miami,FL,GR,PTMA
+A00908684,Jarrid,Braemer,06/15/2000,jbraemergj@university.edu,415-708-9448,San Rafael,CA,JR,RADT
+A00445355,Mano,Chaundy,06/04/1995,mchaundygk@university.edu,318-853-6693,Shreveport,LA,GR,SOWK
+A00681684,Dannel,Wycliff,09/12/1998,dwycliffgl@university.edu,408-681-9535,San Jose,CA,JR,BADM
+A00539944,Emilia,Beavors,08/25/1988,ebeavorsgm@university.edu,812-854-7125,Evansville,IN,JR,BIOM
+A00011941,Parnell,Pidon,02/12/2002,ppidongn@university.edu,843-139-4865,Charleston,SC,GR,UNIV
+A00422628,Yul,Wanstall,12/04/1998,ywanstallgo@university.edu,512-117-4974,Austin,TX,JR,SW
+A00740834,Cristine,Vasilevich,12/20/2000,cvasilevichgp@university.edu,217-634-2710,Springfield,IL,FR,FNCE
+A00041882,Silvie,Giffin,08/26/2000,sgiffingq@university.edu,989-635-5254,Saginaw,MI,SO,CEE
+A00272551,Brent,Picardo,09/30/1995,bpicardogr@university.edu,989-412-3135,Saginaw,MI,JR,MKTG
+A00123833,Aubert,Sweedy,02/21/1997,asweedygs@university.edu,972-377-7126,Garland,TX,SO,HUM
+A00505928,Errol,Colbourne,04/10/2000,ecolbournegt@university.edu,917-823-7116,Bronx,NY,GR,ECON
+A00889685,Wenda,Seyffert,02/08/1999,wseyffertgu@university.edu,407-567-3918,Orlando,FL,FR,BIOL
+A00309684,Nicolette,Duckers,08/30/2000,nduckersgv@university.edu,914-843-8464,White Plains,NY,SR,HDAL
+A00909680,Petronella,Vell,08/14/1999,pvellgw@university.edu,208-996-0580,Boise,ID,SR,MGMT
+A00259216,Ethelind,Bentley,07/25/2000,ebentleygx@university.edu,760-727-6047,Escondido,CA,FR,NTFD
+A00792588,Grazia,Local,01/11/1998,glocalgy@university.edu,650-662-1130,Redwood City,CA,SO,ECED
+A00330763,Thaine,Bradock,08/17/1997,tbradockgz@university.edu,504-440-7080,New Orleans,LA,GR,GEOS
+A00914488,Poul,Harsum,07/09/2000,pharsumh0@university.edu,260-660-5693,Fort Wayne,IN,SR,AVST
+A00152903,Frederica,Conry,09/23/1998,fconryh1@university.edu,512-353-1979,Austin,TX,SO,DANC
+A00400935,Manya,Spilstead,01/24/1998,mspilsteadh2@university.edu,405-298-5432,Oklahoma City,OK,SR,PADM
+A00075587,Sidonia,Priscott,08/13/2002,spriscotth3@university.edu,915-535-3263,El Paso,TX,JR,EDCI
+A00825131,Marissa,Surplice,04/03/2001,msurpliceh4@university.edu,330-828-5133,Warren,OH,SO,CHEM
+A00195362,Dew,Mila,04/29/2000,dmilah5@university.edu,702-891-9627,Las Vegas,NV,FR,SOC
+A00153080,Kane,Olivetti,06/22/1995,kolivettih6@university.edu,502-510-0111,Louisville,KY,SR,MRCH
+A00775817,Tara,McCambridge,12/14/1998,tmccambridgeh7@university.edu,210-115-8474,San Antonio,TX,FR,HUMT
+A00949777,Solly,Adami,09/14/1996,sadamih8@university.edu,202-557-6678,Washington,DC,JR,SPED
+A00083292,Ebenezer,Twells,12/31/1995,etwellsh9@university.edu,571-103-4730,Vienna,VA,GR,PETE
+A00945376,Rahel,Santino,01/12/1996,rsantinoha@university.edu,520-869-3467,Tucson,AZ,GR,RHSC
+A00727863,Livia,Telford,03/25/1998,ltelfordhb@university.edu,202-192-0235,Washington,DC,FR,MGMT
+A00944022,Hillie,Jaquest,05/15/2000,hjaquesthc@university.edu,757-851-2144,Chesapeake,VA,SR,NTFD
+A00933630,Kristel,Sysland,06/18/2001,ksyslandhd@university.edu,512-995-2027,Austin,TX,SO,SOAA
+A00367364,Selby,Cawston,10/19/1999,scawstonhe@university.edu,412-976-0080,Pittsburgh,PA,JR,MRCH
+A00631612,Arvin,Hannigane,10/31/2002,ahanniganehf@university.edu,719-900-7135,Colorado Springs,CO,JR,SOAA
+A00266517,Burl,Ronayne,02/28/2000,bronaynehg@university.edu,505-931-1631,Albuquerque,NM,FR,EDCI
+A00145058,Chicky,Simmig,05/05/2002,csimmighh@university.edu,813-315-3522,Tampa,FL,FR,EXCH
+A00296429,Killy,Habbema,03/26/2001,khabbemahi@university.edu,216-566-3971,Cleveland,OH,JR,CSCI
+A00048303,Quintilla,Bugbird,03/23/1995,qbugbirdhj@university.edu,239-857-4767,Naples,FL,SO,UHON
+A00958307,Ange,Rosenkranc,09/05/1999,arosenkranchk@university.edu,318-734-9775,Shreveport,LA,JR,HDAL
+A00730540,Katalin,Bahia,07/05/2001,kbahiahl@university.edu,765-853-2122,Muncie,IN,SR,ENVH
+A00356714,Torie,Bracchi,08/05/2001,tbracchihm@university.edu,706-936-6164,Columbus,GA,FR,ART
+A00178229,Leonid,Phelp,02/12/1998,lphelphn@university.edu,954-238-1578,Boca Raton,FL,FR,SCED
+A00440530,Sayres,Chilcott,12/23/1998,schilcottho@university.edu,916-776-3652,Sacramento,CA,SR,PSY
+A00674823,Natale,Hurch,10/08/1996,nhurchhp@university.edu,860-579-1544,Hartford,CT,SR,GERM
+A00853474,Otes,Ewart,08/26/1999,oewarthq@university.edu,818-181-0505,Burbank,CA,GR,ENGL
+A00821276,Crista,Emmatt,11/23/1997,cemmatthr@university.edu,217-512-0094,Springfield,IL,SR,MUS
+A00999100,Euell,Rois,06/03/2002,eroishs@university.edu,810-227-7950,Flint,MI,JR,ENGR
+A00469736,Haley,Tiddeman,05/29/2000,htiddemanht@university.edu,239-419-8637,Naples,FL,GR,HUMT
+A00115511,Fanchon,Worthing,05/15/1997,fworthinghu@university.edu,407-122-2633,Orlando,FL,SO,PSYC
+A00277685,Roderick,Embleton,03/05/1999,rembletonhv@university.edu,513-529-0460,Cincinnati,OH,SR,LATN
+A00329845,Romola,Fuggle,09/10/2002,rfugglehw@university.edu,760-396-1030,Carlsbad,CA,GR,COMM
+A00246290,Florella,MacEveley,03/16/2001,fmaceveleyhx@university.edu,408-695-2209,San Jose,CA,FR,DIGM
+A00044796,Fidelia,Jurgenson,03/07/1995,fjurgensonhy@university.edu,304-213-6119,Huntington,WV,SR,ANTH
+A00882085,Tish,Gooley,09/02/1998,tgooleyhz@university.edu,509-503-1260,Yakima,WA,SR,CBAT
+A00186762,Randolph,Matteoni,11/14/2002,rmatteonii0@university.edu,520-147-5015,Tucson,AZ,GR,GERM
+A00107498,Hermine,Jope,12/25/2001,hjopei1@university.edu,410-638-4247,Baltimore,MD,JR,AMBA
+A00519638,Forest,Whittleton,04/19/1999,fwhittletoni2@university.edu,304-666-4909,Charleston,WV,JR,MUSC
+A00938007,Glendon,Littrick,06/13/1995,glittricki3@university.edu,213-822-0199,Los Angeles,CA,FR,HLSC
+A00039692,Wilbur,Ville,07/13/2000,wvillei4@university.edu,626-961-6012,Pasadena,CA,SO,HSRV
+A00987194,Kalle,Dunlap,03/11/1996,kdunlapi5@university.edu,520-462-7888,Tucson,AZ,GR,SOCI
+A00942946,Sergio,Dermot,10/25/1995,sdermoti6@university.edu,513-580-3651,Cincinnati,OH,FR,LIST
+A00535415,Osborn,Filippazzo,05/27/1998,ofilippazzoi7@university.edu,847-169-8644,Palatine,IL,FR,SCED
+A00555044,Louis,Feathersby,04/25/1997,lfeathersbyi8@university.edu,269-707-6524,Kalamazoo,MI,SR,CJCR
+A00584417,Vivienne,Liddard,08/14/1995,vliddardi9@university.edu,234-661-3692,Akron,OH,FR,MSCI
+A00350196,Irena,Greville,04/26/2000,igrevilleia@university.edu,573-217-6786,Columbia,MO,JR,MSCI
+A00208106,Tedi,Sheddan,02/09/1995,tsheddanib@university.edu,407-118-7815,Kissimmee,FL,SR,THEA
+A00016206,Meridith,Chasteney,03/29/1998,mchasteneyic@university.edu,760-392-3631,Huntington Beach,CA,SR,CJCR
+A00995323,Vladimir,Boots,07/05/2002,vbootsid@university.edu,309-186-1635,Peoria,IL,GR,RELI
+A00111622,Nollie,Durie,02/21/1996,ndurieie@university.edu,610-186-0736,Reading,PA,GR,BIOC
+A00577060,Keene,Scay,03/13/1995,kscayif@university.edu,253-443-3658,Tacoma,WA,SO,JOUR
+A00402531,Cornell,Bithell,08/10/1996,cbithellig@university.edu,801-152-7335,Salt Lake City,UT,SR,TEAE
+A00183741,Nata,Sorley,12/14/2000,nsorleyih@university.edu,202-727-8783,Washington,DC,GR,AFAM
+A00756078,Lisle,Tortoishell,08/20/1998,ltortoishellii@university.edu,713-828-3963,Spring,TX,JR,EXCH
+A00814411,Bennie,Davidowsky,06/03/1998,bdavidowskyij@university.edu,513-656-9483,Cincinnati,OH,GR,SPAN
+A00675936,Erastus,Luxon,05/25/1997,eluxonik@university.edu,501-663-5497,Hot Springs National Park,AR,GR,GSLD
+A00196474,Eimile,Louys,04/19/2000,elouysil@university.edu,281-438-6130,Spring,TX,GR,EXCH
+A00242496,John,Sandal,02/06/1999,jsandalim@university.edu,216-712-3512,Cleveland,OH,SR,EDCI
+A00586470,Rickey,Terbrugge,06/29/2000,rterbruggein@university.edu,630-397-2542,Aurora,IL,FR,WEBT
+A00717454,Kippie,Feldstern,01/23/2002,kfeldsternio@university.edu,321-856-3957,Melbourne,FL,GR,PADM
+A00249420,Felita,Galletly,02/13/1995,fgalletlyip@university.edu,330-604-6913,Akron,OH,FR,RTVF
+A00686300,Mozes,Impson,03/16/1999,mimpsoniq@university.edu,425-173-5735,Seattle,WA,SO,GEOL
+A00522812,Jaime,Shoebotham,09/01/1997,jshoebothamir@university.edu,816-987-6709,Independence,MO,SO,EDAD
+A00325777,Bessy,Allom,08/28/1999,ballomis@university.edu,615-834-4346,Nashville,TN,JR,ARTA
+A00502308,Fancie,Fountian,06/24/1996,ffountianit@university.edu,505-184-0880,Santa Fe,NM,SR,STOR
+A00312623,Hazel,Boorman,05/05/2001,hboormaniu@university.edu,864-407-8820,Anderson,SC,GR,DANC
+A00855874,Idelle,Moakler,02/05/1986,imoakleriv@university.edu,814-830-8161,Erie,PA,JR,UNIV
+A00208480,Olvan,Ayto,12/03/2000,oaytoiw@university.edu,405-639-5970,Oklahoma City,OK,SO,CUAI
+A00424838,Ethelin,Nyssens,08/09/1999,enyssensix@university.edu,559-323-8259,Fresno,CA,JR,ACCT
+A00313674,Krispin,Yukhnevich,01/05/1997,kyukhnevichiy@university.edu,410-299-2156,Baltimore,MD,FR,DHYG
+A00568892,Kylynn,Bunstone,12/26/1995,kbunstoneiz@university.edu,770-804-4211,Marietta,GA,GR,ARTH
+A00423672,Janie,Eberlein,12/15/2001,jeberleinj0@university.edu,510-629-5623,Berkeley,CA,FR,TEAS
+A00337645,Davita,Sieur,11/08/1999,dsieurj1@university.edu,808-312-4039,Honolulu,HI,JR,STAT
+A00371938,Charmion,Dreger,07/13/1996,cdregerj2@university.edu,304-347-4451,Charleston,WV,SO,CSCI
+A00665611,Sigrid,Kasper,09/06/1999,skasperj3@university.edu,336-348-9796,Greensboro,NC,GR,ET
+A00442449,Packston,Nozzolii,03/03/1998,pnozzoliij4@university.edu,714-137-6350,San Jose,CA,GR,BIOL
+A00465613,Ted,Dmitrievski,07/03/2000,tdmitrievskij5@university.edu,804-393-4675,Richmond,VA,GR,LIST
+A00693898,Crawford,Szreter,02/04/1996,cszreterj6@university.edu,951-960-1007,Corona,CA,JR,CSCI
+A00812323,Charles,McGettigan,01/12/1998,cmcgettiganj7@university.edu,512-280-1213,Austin,TX,JR,THEA
+A00235294,Lilias,Reidie,05/18/1999,lreidiej8@university.edu,716-170-6695,Buffalo,NY,JR,EXCH
+A00564203,Shelley,Rolstone,01/05/1997,srolstonej9@university.edu,909-166-4412,Pomona,CA,JR,CHEM
+A00051462,Crystie,Rosenblum,11/07/1997,crosenblumja@university.edu,713-107-9556,Houston,TX,GR,BMGT
+A00209365,Ramsay,Maryska,12/01/1997,rmaryskajb@university.edu,702-316-1553,Las Vegas,NV,GR,EDU
+A00302591,Derward,Gurko,10/14/2001,dgurkojc@university.edu,910-186-5158,Fayetteville,NC,JR,DIGM
+A00889293,Reed,Beetham,10/19/2002,rbeethamjd@university.edu,414-462-6921,Milwaukee,WI,JR,SPAN
+A00497844,Dean,Coopper,03/21/1998,dcoopperje@university.edu,205-760-7512,Birmingham,AL,SR,ARTH
+A00744671,Alex,Couldwell,01/09/1995,acouldwelljf@university.edu,626-586-4098,Alhambra,CA,GR,ECE
+A00482845,Chrissy,Martinelli,02/28/1997,cmartinellijg@university.edu,303-507-2114,Englewood,CO,SR,CEE
+A00779458,Gwynne,Stanbro,05/28/1997,gstanbrojh@university.edu,518-276-7077,Albany,NY,FR,MUS
+A00984370,Cleopatra,Lovewell,11/27/2000,clovewellji@university.edu,803-216-3770,Columbia,SC,SO,PHSI
+A00117689,Juliana,Adnet,05/04/1995,jadnetjj@university.edu,775-868-1624,Reno,NV,SO,ENVH
+A00221652,Hildy,Magson,09/13/1995,hmagsonjk@university.edu,309-787-1377,Peoria,IL,SR,CHEM
+A00415703,Davide,Ahmad,02/07/1999,dahmadjl@university.edu,317-736-3616,Indianapolis,IN,SO,EPID
+A00055548,Alyssa,Bowers,05/26/1995,abowersjm@university.edu,813-475-3153,Tampa,FL,SR,GEOS
+A00876000,Alair,Pitceathly,02/03/2000,apitceathlyjn@university.edu,508-615-8072,Worcester,MA,GR,SALM
+A00142050,Sheffy,Romaine,06/04/2000,sromainejo@university.edu,916-404-8124,Sacramento,CA,FR,PMGT
+A00088538,Archie,Redgewell,07/01/2001,aredgewelljp@university.edu,972-178-6275,Dallas,TX,JR,RTVF
+A00963200,Wernher,Hobson,07/08/1998,whobsonjq@university.edu,847-263-3230,Evanston,IL,SR,WEB
+A00190753,Silvie,Kalkofen,07/05/1997,skalkofenjr@university.edu,509-138-6382,Spokane,WA,SR,GRAD
+A00189300,Mikey,Elnor,09/22/2001,melnorjs@university.edu,510-117-8912,Oakland,CA,GR,CJA
+A00730266,Ive,Donlon,03/22/2002,idonlonjt@university.edu,361-927-6085,Corpus Christi,TX,GR,FREN
+A00972553,Shandy,Itscowics,11/05/1997,sitscowicsju@university.edu,801-834-6772,Salt Lake City,UT,SR,NTFD
+A00628497,Kenton,Kepp,02/22/1997,kkeppjv@university.edu,757-306-9709,Richmond,VA,FR,LATN
+A00709020,Katlin,Sawrey,01/01/1997,ksawreyjw@university.edu,617-235-1098,Boston,MA,JR,BSTA
+A00072994,Christi,Boniface,02/28/1996,cbonifacejx@university.edu,714-818-8384,San Jose,CA,FR,SPAN
+A00938462,Joella,McKilroe,02/03/2000,jmckilroejy@university.edu,480-304-4860,Scottsdale,AZ,FR,CHEM
+A00092778,Prentiss,Van Niekerk,07/17/1998,pvanniekerkjz@university.edu,678-198-7951,Atlanta,GA,GR,JAPN
+A00862952,Hakim,Munks,03/26/1998,hmunksk0@university.edu,786-139-1976,Miami,FL,SR,RELI
+A00040564,Zeb,Hastings,02/11/2000,zhastingsk1@university.edu,504-682-9666,New Orleans,LA,SO,MUSC
+A00691830,Nicky,Strotone,09/11/1995,nstrotonek2@university.edu,571-940-0213,Falls Church,VA,SO,WEBT
+A00621274,Gallard,Fasson,05/15/1997,gfassonk3@university.edu,713-795-9537,Houston,TX,FR,GEOG
+A00042932,Henryetta,Pulbrook,11/13/1998,hpulbrookk4@university.edu,615-129-4100,Nashville,TN,SO,ALHE
+A00279870,Rowen,Zollner,06/03/1996,rzollnerk5@university.edu,860-661-9926,West Hartford,CT,JR,DANC
+A00215491,Perry,Ferrone,10/14/1999,pferronek6@university.edu,901-149-5081,Memphis,TN,SR,PM
+A00345433,Ingram,Logsdail,08/31/1996,ilogsdailk7@university.edu,202-376-3264,Washington,DC,FR,MDT
+A00963479,Laney,Kingsbury,03/26/2002,lkingsburyk8@university.edu,512-467-4507,Austin,TX,FR,PSYC
+A00880417,Philippe,Rotherforth,04/22/2000,protherforthk9@university.edu,812-522-8764,Bloomington,IN,FR,MCOM
+A00182819,Emory,De Giovanni,05/29/1998,edegiovannika@university.edu,603-194-8940,Manchester,NH,FR,GERM
+A00459976,Doro,Kinchington,07/11/1995,dkinchingtonkb@university.edu,717-685-2286,Harrisburg,PA,SR,CEE
+A00290742,Linet,Feldon,07/17/1997,lfeldonkc@university.edu,213-312-6007,Los Angeles,CA,JR,RELI
+A00330063,Freemon,Cullrford,06/20/1996,fcullrfordkd@university.edu,912-355-4321,Macon,GA,JR,GRAD
+A00900698,Garnet,Daulby,03/15/1995,gdaulbyke@university.edu,707-206-9784,Santa Rosa,CA,SR,COM
+A00925527,Pia,Pauly,05/10/1999,ppaulykf@university.edu,518-909-3646,Albany,NY,GR,GERM
+A00406193,Desmond,Matteini,02/15/1998,dmatteinikg@university.edu,704-438-9712,Charlotte,NC,SR,PMGT
+A00471823,Alysa,Matousek,01/01/2002,amatousekkh@university.edu,407-238-8899,Orlando,FL,GR,HSCI
+A00561064,Tudor,Curd,10/26/1998,tcurdki@university.edu,832-501-5361,Houston,TX,SO,CUAI
+A00163101,Alfredo,Chaimson,07/25/1995,achaimsonkj@university.edu,330-515-5171,Akron,OH,JR,EXCH
+A00119699,Tabbitha,Greep,11/01/1999,tgreepkk@university.edu,970-857-5188,Grand Junction,CO,SO,HSC
+A00443205,Floyd,Purkins,05/03/1998,fpurkinskl@university.edu,304-109-0385,Charleston,WV,FR,PHAR
+A00425033,Manda,Stavers,09/06/1995,mstaverskm@university.edu,330-996-7136,Akron,OH,SR,ANTH
+A00399923,Ginny,Scourfield,07/09/1997,gscourfieldkn@university.edu,215-532-3485,Philadelphia,PA,FR,EDUC
+A00535158,Matt,Forrington,04/24/1996,mforringtonko@university.edu,202-609-9403,Washington,DC,JR,RELI
+A00989908,Mayne,Flamank,11/15/2002,mflamankkp@university.edu,305-729-3555,Miami,FL,GR,SOC
+A00006654,Elset,Burthom,04/24/2001,eburthomkq@university.edu,816-959-0449,Kansas City,MO,SR,ME
+A00683126,Atalanta,Baynes,06/26/1997,abayneskr@university.edu,213-623-4616,Van Nuys,CA,JR,PUBR
+A00588251,Ruby,Spensly,04/05/1997,rspenslyks@university.edu,757-772-5497,Norfolk,VA,SO,MEDA
+A00156717,Gwendolyn,Edson,12/14/1996,gedsonkt@university.edu,646-789-2366,New York City,NY,JR,SOWK
+A00906336,Lexie,Dow,03/31/1996,ldowku@university.edu,202-292-3631,Washington,DC,JR,PUBR
+A00562586,Mason,Andrini,01/02/1995,mandrinikv@university.edu,303-530-1858,Denver,CO,GR,ET
+A00233622,Othelia,Redborn,12/03/1998,oredbornkw@university.edu,213-192-9785,Los Angeles,CA,FR,ASTL
+A00497025,Red,Imrie,06/06/2001,rimriekx@university.edu,757-239-7401,Virginia Beach,VA,JR,CDIS
+A00393674,Tomlin,Chaucer,01/31/1996,tchaucerky@university.edu,617-395-1090,Boston,MA,FR,STAT
+A00585965,Kathie,Ateggart,11/16/1995,kateggartkz@university.edu,918-972-8250,Tulsa,OK,SO,GRAD
+A00070392,Nye,Kenneway,09/04/2001,nkennewayl0@university.edu,415-871-2902,San Francisco,CA,SO,LATN
+A00036517,Loria,Brodeau,01/03/1995,lbrodeaul1@university.edu,818-957-7259,Northridge,CA,JR,BIOM
+A00547596,Cammie,Hunnybun,10/27/1998,chunnybunl2@university.edu,816-721-0399,Kansas City,MO,SR,AVST
+A00089180,Lillis,Sweett,09/11/1996,lsweettl3@university.edu,214-829-3730,Garland,TX,JR,SOCI
+A00497281,Norene,Franzke,10/15/2000,nfranzkel4@university.edu,904-248-5358,Saint Augustine,FL,JR,COMM
+A00118233,Reamonn,Kytley,06/01/1995,rkytleyl5@university.edu,585-243-0311,Rochester,NY,SR,JAPN
+A00638030,Kristoforo,Asaaf,01/11/1996,kasaafl6@university.edu,916-827-5478,Sacramento,CA,GR,POLI
+A00522173,Vince,Caherny,08/21/2002,vcahernyl7@university.edu,909-970-3591,Riverside,CA,FR,PHIL
+A00932315,Corinna,Skermer,03/19/1998,cskermerl8@university.edu,936-481-1442,Beaumont,TX,SO,COBH
+A00687706,Joelie,Brawley,09/17/1997,jbrawleyl9@university.edu,225-616-7009,Baton Rouge,LA,SR,RADT
+A00610965,Bonnibelle,Tunkin,03/31/1998,btunkinla@university.edu,952-409-1212,Young America,MN,SO,COMP
+A00203671,Early,Denver,07/19/1998,edenverlb@university.edu,936-689-2216,Beaumont,TX,SO,HSCI
+A00923812,Valery,Whatford,12/17/1996,vwhatfordlc@university.edu,253-809-6310,Lakewood,WA,GR,PSYC
+A00857120,Caleb,Nalder,02/07/1996,cnalderld@university.edu,518-677-5485,Albany,NY,FR,MKTG
+A00708627,Devlin,Girkin,02/14/1995,dgirkinle@university.edu,404-444-0806,Lawrenceville,GA,SR,HETH
+A00521779,Olenolin,Drinkhill,07/12/2001,odrinkhilllf@university.edu,409-218-3702,Beaumont,TX,SO,SWRK
+A00497402,Stewart,Davidavidovics,10/31/2002,sdavidavidovicslg@university.edu,973-797-9103,Paterson,NJ,SO,UNIV
+A00520233,Maighdiln,Signori,08/07/1996,msignorilh@university.edu,313-188-7712,Detroit,MI,GR,ME
+A00027900,Emelina,Van Son,08/24/2002,evansonli@university.edu,561-355-6398,Boynton Beach,FL,SR,NTFD
+A00835988,Kale,Aguilar,05/02/2001,kaguilarlj@university.edu,916-607-8129,Sacramento,CA,SR,CJCR
+A00471898,Brenda,Antoni,04/10/1997,bantonilk@university.edu,413-982-0346,Springfield,MA,SO,LEAD
+A00765878,Maritsa,Karolowski,12/04/1997,mkarolowskill@university.edu,312-585-5587,Chicago,IL,FR,PEXS
+A00830048,Tuesday,Kippax,07/25/2000,tkippaxlm@university.edu,217-855-5790,Springfield,IL,SO,PADM
+A00876230,Kattie,Mapowder,09/29/1997,kmapowderln@university.edu,515-752-7516,Des Moines,IA,GR,BIOL
+A00419279,Stafford,Patis,01/14/1997,spatislo@university.edu,785-139-0940,Topeka,KS,GR,PEXS
+A00782543,Jacquette,Rissen,09/08/2002,jrissenlp@university.edu,401-565-2795,Providence,RI,SO,AMBA
+A00274586,Blake,Brice,06/26/2001,bbricelq@university.edu,502-590-4946,Louisville,KY,GR,AFAM
+A00893924,Kelcey,Eke,10/12/1999,kekelr@university.edu,816-194-6353,Kansas City,KS,SO,RTVF
+A00186027,Robers,Imlen,05/18/2001,rimlenls@university.edu,469-965-9898,Dallas,TX,GR,CJA
+A00346941,Dagny,Crimin,05/01/2001,dcriminlt@university.edu,303-508-9062,Aurora,CO,JR,HDAL
+A00702048,Madeleine,Urrey,12/18/2001,murreylu@university.edu,719-147-1908,Colorado Springs,CO,JR,ART
+A00616862,Kipper,Heinsh,12/20/2001,kheinshlv@university.edu,915-165-7499,El Paso,TX,SO,THEA
+A00961903,Devin,Curror,01/25/2002,dcurrorlw@university.edu,212-434-2465,New York City,NY,SR,JRSM
+A00322028,Dierdre,Laval,12/12/1991,dlavallx@university.edu,785-250-0251,Topeka,KS,FR,JOUR
+A00735203,Zola,Matsell,04/29/2001,zmatsellly@university.edu,206-730-5873,Tacoma,WA,FR,BUSN
+A00669792,Breena,Garrit,04/29/1999,bgarritlz@university.edu,205-220-1396,Birmingham,AL,GR,ECE
+A00714483,Hodge,Adamczyk,03/22/1995,hadamczykm0@university.edu,337-739-7036,Lake Charles,LA,GR,ENGR
+A00396302,Pavla,Grishagin,02/12/1995,pgrishaginm1@university.edu,661-635-2142,Lancaster,CA,GR,SPED
+A00939011,Kearney,Petrolli,10/18/2000,kpetrollim2@university.edu,915-973-9757,El Paso,TX,SO,DIGM
+A00920283,Stearn,Baldacchi,02/05/1995,sbaldacchim3@university.edu,973-400-4775,Newark,NJ,SR,EPID
+A00845488,Timmi,McNair,12/16/1998,tmcnairm4@university.edu,817-949-3324,Fort Worth,TX,SO,DANC
+A00332192,Alida,Ibbs,11/03/2002,aibbsm5@university.edu,915-988-7688,El Paso,TX,FR,HUM
+A00043607,Alair,Buzin,09/21/2002,abuzinm6@university.edu,256-433-1407,Huntsville,AL,SR,SCED
+A00775137,Marsh,Radford,12/15/1997,mradfordm7@university.edu,415-171-2414,San Francisco,CA,GR,INTD
+A00180732,Bren,Boustred,01/06/1997,bboustredm8@university.edu,202-550-6359,Washington,DC,FR,ANTH
+A00053809,Bren,Joskowicz,05/18/2000,bjoskowiczm9@university.edu,816-147-1814,Kansas City,MO,SO,AMBA
+A00264909,Merry,Farres,07/13/1999,mfarresma@university.edu,806-392-9142,Amarillo,TX,JR,ARTA
+A00827659,Tove,Titchmarsh,01/09/2002,ttitchmarshmb@university.edu,952-845-4766,Young America,MN,GR,ENTC
+A00806429,Lolly,Gewer,02/26/1996,lgewermc@university.edu,310-797-9373,Long Beach,CA,JR,AGRI
+A00110607,Vale,Attawell,06/06/1996,vattawellmd@university.edu,727-282-5138,Clearwater,FL,SR,CUAI
+A00952667,Murvyn,Camerello,03/03/1998,mcamerellome@university.edu,917-606-3887,Bronx,NY,SR,STAT
+A00920414,Dorella,Arden,11/23/1998,dardenmf@university.edu,202-242-8991,Washington,DC,FR,FREN
+A00003765,Brooke,Vigars,12/13/1996,bvigarsmg@university.edu,502-195-2420,Louisville,KY,FR,SRVL
+A00253085,Riccardo,Gretton,04/27/2002,rgrettonmh@university.edu,850-376-3371,Tallahassee,FL,JR,BIOC
+A00963009,Yuri,Stride,08/11/2000,ystridemi@university.edu,949-790-3852,Orange,CA,SR,PHED
+A00874734,Alden,Fury,12/11/1995,afurymj@university.edu,305-730-0773,Miami,FL,FR,PTMA
+A00769443,Derward,Coates,01/19/1997,dcoatesmk@university.edu,508-552-5507,New Bedford,MA,FR,GEOG
+A00772672,Caterina,Guest,03/13/1995,cguestml@university.edu,970-718-3372,Greeley,CO,SO,CUAI
+A00817720,Carling,Hourstan,03/30/2000,chourstanmm@university.edu,801-137-6479,Provo,UT,SR,EDAD
+A00463518,Karlie,Wilder,04/16/2002,kwildermn@university.edu,317-955-0645,Indianapolis,IN,GR,UHON
+A00652037,Dorene,Denzilow,08/10/2002,ddenzilowmo@university.edu,508-857-1541,Worcester,MA,GR,MGMT
+A00804675,Dermot,Montgomery,06/27/1996,dmontgomery@university.edu,937-932-7863,Dayton,OH,FR,PRST
+A00882945,Gustavo,Fragino,08/12/2002,gfraginomq@university.edu,423-591-6440,Johnson City,TN,JR,ME
+A00062926,Jorey,Robken,03/19/2002,jrobkenmr@university.edu,407-202-9799,Orlando,FL,GR,SLS
+A00699794,Maddie,Hamilton,10/28/2002,mhamiltonms@university.edu,608-925-1417,Madison,WI,SR,GREK
+A00642656,Anna-diane,Dennitts,02/27/2001,adennittsmt@university.edu,386-689-7536,Daytona Beach,FL,SR,UHON
+A00963878,Kai,Huffy,05/23/1998,khuffymu@university.edu,918-966-7640,Tulsa,OK,FR,CUAI
+A00612333,Lizzy,Pischoff,06/25/2002,lpischoffmv@university.edu,408-468-3063,San Jose,CA,JR,SOC
+A00719508,Dena,Tabour,04/24/2002,dtabourmw@university.edu,352-639-1393,Gainesville,FL,GR,ADMN
+A00955946,Abram,O'Fergus,01/09/1998,aofergusmx@university.edu,405-430-4141,Oklahoma City,OK,FR,SOWK
+A00519291,Rudolfo,Gland,07/11/1995,rglandmy@university.edu,574-895-0819,South Bend,IN,SO,GREK
+A00571055,Baird,Rozenbaum,12/19/2001,brozenbaummz@university.edu,774-584-8526,Worcester,MA,SR,HIMT
+A00605088,Winslow,Tzuker,04/01/1995,wtzukern0@university.edu,260-790-0772,Fort Wayne,IN,FR,CDIS
+A00192587,Thorpe,Nesbeth,01/31/2001,tnesbethn1@university.edu,203-281-4134,Waterbury,CT,GR,UHON
+A00706679,Celka,Bertelet,10/23/2001,cberteletn2@university.edu,202-904-7697,Washington,DC,FR,COL
+A00429368,Halsey,McLagan,03/10/1995,hmclagann3@university.edu,240-837-2553,Silver Spring,MD,SO,JOUR
+A00625559,Koren,Tryme,02/05/2002,ktrymen4@university.edu,336-461-4567,Greensboro,NC,GR,LATN
+A00629562,Bil,Yonge,01/15/1996,byongen5@university.edu,757-138-3022,Virginia Beach,VA,SR,UHON
+A00862863,Urban,Kilmurry,09/25/2002,ukilmurryn6@university.edu,586-329-8825,Warren,MI,JR,SPAN
+A00401700,Fredrick,Valentino,04/14/1996,fvalentinon7@university.edu,702-874-1142,North Las Vegas,NV,SR,INTD
+A00688785,Cindee,Laidel,06/22/2001,claideln8@university.edu,702-758-5533,Santa Barbara,CA,SR,GERM
+A00454582,Bryan,Cattlow,05/15/2002,bcattlown9@university.edu,785-790-0170,Topeka,KS,SR,POLI
+A00677677,Ailsun,Bloxholm,12/30/1996,abloxholmna@university.edu,760-422-0469,Carlsbad,CA,SR,HSRV
+A00600298,Rachele,Gunter,04/02/2002,rgunternb@university.edu,314-136-3464,Saint Louis,MO,SR,HIST
+A00302982,Demetre,Scandwright,02/20/1998,dscandwrightnc@university.edu,208-391-4334,Boise,ID,SR,HPSS
+A00565265,Rheba,Dowdeswell,01/09/2002,rdowdeswellnd@university.edu,757-713-8704,Hampton,VA,FR,MEDA
+A00390758,Del,Mattiacci,11/29/2000,dmattiaccine@university.edu,407-263-1319,Orlando,FL,GR,EDAD
+A00662578,Kippy,Duro,07/08/1998,kduronf@university.edu,210-196-6373,San Antonio,TX,FR,READ
+A00787714,Zerk,Bellringer,04/29/1997,zbellringerng@university.edu,315-936-5290,Syracuse,NY,SO,TEAE
+A00602714,Liane,Redwin,06/08/2001,lredwinnh@university.edu,336-602-2220,Winston Salem,NC,FR,ARTA
+A00297946,Maritsa,Coare,04/24/2001,mcoareni@university.edu,585-353-5914,Rochester,NY,SR,COM
+A00133959,Dael,Ruter,08/02/2000,druternj@university.edu,302-811-9234,Wilmington,DE,JR,TEAS
+A00337806,Craggy,Vigors,10/12/2001,cvigorsnk@university.edu,920-362-9108,Appleton,WI,SR,SW
+A00406430,Linea,Habron,08/02/1996,lhabronnl@university.edu,253-884-5151,Olympia,WA,FR,JRSM
+A00977553,Mycah,Eagleton,02/28/1998,meagletonnm@university.edu,646-516-3097,New York City,NY,FR,ACCT
+A00865963,Kessiah,Vakhlov,07/14/1998,kvakhlovnn@university.edu,205-223-8465,Birmingham,AL,SR,MKTG
+A00125933,Brandais,Van der Spohr,03/01/1998,bvanderspohrno@university.edu,859-753-6866,Lexington,KY,GR,ASTR
+A00307314,Rodney,Holliar,06/26/1996,rholliarnp@university.edu,757-701-4996,Newport News,VA,JR,BUSN
+A00254756,Lion,Glide,01/08/1996,lglidenq@university.edu,941-174-7894,Port Charlotte,FL,JR,AFAM
+A00661071,Heall,Thing,10/09/1998,hthingnr@university.edu,405-772-4628,Oklahoma City,OK,FR,PBRL
+A00949594,Ronald,Rainton,12/24/1997,rraintonns@university.edu,614-216-3811,Columbus,OH,JR,ARTA
+A00834096,Tyrus,Skitral,06/26/2000,tskitralnt@university.edu,713-712-1513,Humble,TX,JR,MDT
+A00627724,Darb,O' Mara,04/22/2002,domaranu@university.edu,520-927-4133,Tucson,AZ,GR,ENTC
+A00706646,Mel,Mattsson,11/13/2000,mmattssonnv@university.edu,616-992-0544,Grand Rapids,MI,GR,LANG
+A00779417,Reed,Manifield,05/04/2002,rmanifieldnw@university.edu,609-761-6680,Trenton,NJ,GR,DHYG
+A00950772,Zerk,O'Lyhane,06/09/2000,zolyhanenx@university.edu,281-816-6768,Houston,TX,GR,AGRI
+A00041576,Pegeen,Wyness,04/28/1998,pwynessny@university.edu,941-266-0917,Naples,FL,FR,AVST
+A00834894,Tally,Trusse,12/25/1996,ttrussenz@university.edu,417-104-8314,Springfield,MO,FR,ADMN
+A00542498,Sloan,Martinets,11/23/1999,smartinetso0@university.edu,502-245-4464,Migrate,KY,SR,ARTH
+A00693244,Mel,Skatcher,03/02/2001,mskatchero1@university.edu,412-723-4933,Pittsburgh,PA,JR,ENVS
+A00715478,Ganny,Berrey,11/22/1999,gberreyo2@university.edu,225-519-4953,Baton Rouge,LA,JR,MICR
+A00026659,Vida,Vasiliev,08/12/2001,vvasilievo3@university.edu,501-192-6454,Little Rock,AR,JR,PSCI
+A00398197,Tedi,Pluthero,11/13/1999,tplutheroo4@university.edu,702-319-8523,Las Vegas,NV,SR,FNCE
+A00829585,Sari,Cammack,12/09/1997,scammacko5@university.edu,408-137-9581,San Jose,CA,SO,DHYG
+A00017143,Marga,Richardon,11/01/2001,mrichardono6@university.edu,806-799-7886,Lubbock,TX,SO,WEBT
+A00518156,Ursa,Menpes,03/24/2002,umenpeso7@university.edu,260-179-2561,Fort Wayne,IN,SR,PSCI
+A00287701,Adelheid,Pease,05/29/1996,apeaseo8@university.edu,785-781-7484,Topeka,KS,JR,PHYT
+A00929754,Zebulen,Hallaways,03/08/1999,zhallawayso9@university.edu,772-636-2771,Port Saint Lucie,FL,JR,PUBR
+A00437932,Miller,Gomersal,05/12/1997,mgomersaloa@university.edu,770-256-1381,Marietta,GA,FR,CITC
+A00743657,Claretta,Scolli,08/24/1998,cscolliob@university.edu,940-132-1095,Wichita Falls,TX,SR,CPSC
+A00644670,Viola,Adger,12/30/2000,vadgeroc@university.edu,213-422-8208,Los Angeles,CA,SR,SOAA
+A00894571,Flora,Currm,09/20/2000,fcurrmod@university.edu,315-522-8413,Utica,NY,JR,PEXS
+A00086208,Loralie,Bonsul,11/08/2000,lbonsuloe@university.edu,915-104-9379,El Paso,TX,SR,HUMT
+A00275987,Valeria,Scutchin,02/16/1998,vscutchinof@university.edu,937-658-7681,Dayton,OH,SO,MCOM
+A00090231,Rockwell,Schnieder,04/17/2002,rschniederog@university.edu,571-411-5747,Arlington,VA,SR,CBAT
+A00944199,Doralin,Geale,05/26/1999,dgealeoh@university.edu,206-123-2371,Tacoma,WA,GR,ENGR
+A00396251,Joe,Cosson,10/25/1996,jcossonoi@university.edu,813-458-0076,Tampa,FL,JR,HSRV
+A00898088,Hew,Lowseley,02/05/2002,hlowseleyoj@university.edu,323-945-7989,Los Angeles,CA,SO,PHYT
+A00929419,Jo,Baitman,05/10/1996,jbaitmanok@university.edu,202-247-4759,Washington,DC,FR,WEB
+A00814480,Mart,Neal,08/18/2002,mnealol@university.edu,814-121-5616,Erie,PA,GR,CRMJ
+A00604817,Nanci,Kilbane,04/10/1999,nkilbaneom@university.edu,312-210-3391,Chicago,IL,GR,MEDA
+A00700403,Zacharie,Millsom,11/26/2001,zmillsomon@university.edu,617-632-7523,Boston,MA,JR,PMPR
+A00069258,Arlen,Lindenblatt,08/19/1995,alindenblattoo@university.edu,513-475-7755,Cincinnati,OH,JR,ARTH
+A00057504,Keriann,Linforth,03/06/1997,klinforthop@university.edu,239-414-8532,Fort Myers,FL,SR,MSDM
+A00809660,Kari,Pucknell,07/13/1996,kpucknelloq@university.edu,251-758-6874,Mobile,AL,JR,MKTG
+A00459193,Shara,McCrohon,03/08/2001,smccrohonor@university.edu,754-809-9868,Pompano Beach,FL,SR,EDCI
+A00490692,Rancell,Wasiel,11/27/2002,rwasielos@university.edu,573-323-6482,Jefferson City,MO,JR,SRVL
+A00877437,Adelbert,Havill,12/23/2002,ahavillot@university.edu,786-761-6392,Miami,FL,SO,MGMT
+A00197105,Knox,Syres,04/06/1997,ksyresou@university.edu,760-110-7537,San Diego,CA,GR,PETE
+A00134624,Waldon,Ivachyov,02/22/1997,wivachyovov@university.edu,304-521-8756,Huntington,WV,GR,MRCH
+A00172187,Dante,Ashingden,09/20/2002,dashingdenow@university.edu,806-887-2632,Lubbock,TX,SO,LATN
+A00631280,Gordy,Goodwell,10/28/1998,ggoodwellox@university.edu,972-637-4117,Dallas,TX,SR,SALM
+A00503882,Wilt,Bothams,08/30/1998,wbothamsoy@university.edu,916-701-8818,Sacramento,CA,JR,CDIS
+A00654848,Rutledge,Oxer,09/29/2001,roxeroz@university.edu,614-746-2103,Columbus,OH,JR,JRSM
+A00583729,Byram,Humburton,09/16/1997,bhumburtonp0@university.edu,202-141-7675,Washington,DC,GR,EDU
+A00368871,Kaitlin,Cullimore,05/06/2000,kcullimorep1@university.edu,662-724-7985,Columbus,MS,SO,UNIV
+A00118245,Terrie,Clears,12/26/1998,tclearsp2@university.edu,954-445-3586,Miami,FL,FR,SOWK
+A00530417,Merilee,Mitie,05/25/1995,mmitiep3@university.edu,202-550-0456,Washington,DC,SO,PHYT
+A00733706,Mariana,Brehat,12/27/1990,mbrehatp4@university.edu,304-637-4115,Charleston,WV,GR,AFAM
+A00870594,Yvor,Kluge,02/04/1997,yklugep5@university.edu,205-643-6317,Tuscaloosa,AL,FR,CEE
+A00962280,Shannan,Whitewood,09/05/1997,swhitewoodp6@university.edu,503-247-0398,Salem,OR,FR,CDST
+A00509625,Barri,Benning,10/24/2001,bbenningp7@university.edu,206-537-0874,Seattle,WA,JR,MCOM
+A00669421,Brande,Commuzzo,06/14/2002,bcommuzzop8@university.edu,512-536-3152,Austin,TX,JR,PUBR
+A00096872,Harriette,Giles,04/29/1996,hgilesp9@university.edu,513-681-9988,Cincinnati,OH,SR,BSTA
+A00041108,Rosaline,Newcome,02/27/1996,rnewcomepa@university.edu,775-547-0629,Carson City,NV,JR,GEOS
+A00645555,Zak,Stow,08/06/1996,zstowpb@university.edu,217-776-2139,Springfield,IL,JR,SOC
+A00447318,Fraser,Witherbed,05/09/2001,fwitherbedpc@university.edu,571-539-0117,Reston,VA,FR,LIST
+A00786150,Lib,Pritchett,01/07/2001,lpritchettpd@university.edu,562-273-2310,Long Beach,CA,JR,ASTR
+A00213708,Verile,Crew,08/08/1996,vcrewpe@university.edu,574-324-5340,South Bend,IN,SO,GRAD
+A00613175,Mirna,Aspinal,04/16/1999,maspinalpf@university.edu,972-550-8385,Dallas,TX,SR,HPSS
+A00159991,Brianne,Andreou,03/12/1998,bandreoupg@university.edu,702-334-0252,North Las Vegas,NV,FR,PBRL
+A00183740,Aubrette,Gellion,05/28/2000,agellionph@university.edu,801-621-3037,Sandy,UT,SO,FNCE
+A00625289,Merrili,Minshull,10/23/2002,mminshullpi@university.edu,816-524-0174,Kansas City,MO,SR,EDU
+A00181522,Quintina,D'Aeth,08/21/1999,qdaethpj@university.edu,405-955-0599,Oklahoma City,OK,SR,ENGR
+A00016838,Dore,Audibert,03/01/1998,daudibertpk@university.edu,513-676-7347,Cincinnati,OH,SO,PMPR
+A00602611,Kirsteni,Groucutt,05/29/1998,kgroucuttpl@university.edu,304-770-4253,Huntington,WV,SR,MSCI
+A00743975,Norene,Padwick,02/04/1997,npadwickpm@university.edu,630-433-2588,Chicago,IL,JR,PETE
+A00584995,Liza,Brigginshaw,02/11/2001,lbrigginshawpn@university.edu,661-957-1550,Bakersfield,CA,GR,DHYG
+A00503734,Consolata,Fowgies,08/26/1995,cfowgiespo@university.edu,310-549-2073,Long Beach,CA,GR,AGRI
+A00409722,Sholom,Booler,11/12/1999,sboolerpp@university.edu,571-823-0826,Dulles,VA,GR,GSLD
+A00745057,Matty,Tweedie,04/13/1999,mtweediepq@university.edu,843-990-6812,Myrtle Beach,SC,JR,TELC
+A00796218,Carolyne,Wawer,04/29/2002,cwawerpr@university.edu,941-830-0115,Sarasota,FL,FR,SOWK
+A00947146,Carson,Eglise,07/07/1995,cegliseps@university.edu,210-496-1964,San Antonio,TX,SR,CPSC
+A00316338,Beryle,Waddicor,11/17/1998,bwaddicorpt@university.edu,970-272-3528,Fort Collins,CO,SR,MKTG
+A00950977,Ellerey,Voisey,12/30/2000,evoiseypu@university.edu,212-642-2681,New York City,NY,GR,NTFD
+A00545709,Calhoun,Arnolds,04/14/1997,carnoldspv@university.edu,419-310-9702,Toledo,OH,FR,EXCH
+A00759803,Hendrika,Weinberg,04/22/2000,hweinbergpw@university.edu,209-535-3031,Stockton,CA,SO,ENGR
+A00586530,Vickie,McClay,11/11/2002,vmcclaypx@university.edu,937-339-6251,Dayton,OH,SO,READ
+A00090106,Fredelia,Lomas,01/04/1999,flomaspy@university.edu,310-779-8516,Long Beach,CA,GR,ELPA
+A00567591,Eudora,Austick,11/24/1998,eaustickpz@university.edu,651-936-8108,Saint Paul,MN,SO,BUSN
+A00890860,Cammy,Bengoechea,04/21/1997,cbengoecheaq0@university.edu,402-948-5446,Omaha,NE,GR,COBH
+A00732363,Rori,Gonzalvo,03/17/1999,rgonzalvoq1@university.edu,540-389-4806,Fredericksburg,VA,GR,EDAD
+A00248522,Norton,Costy,09/24/2001,ncostyq2@university.edu,401-886-5265,Providence,RI,SR,EDCI
+A00679601,Codie,Boyer,08/18/1998,cboyerq3@university.edu,719-588-7011,Colorado Springs,CO,FR,PMGT
+A00910272,Paulie,Ponter,11/12/1998,pponterq4@university.edu,205-179-7916,Birmingham,AL,JR,PMPR
+A00693348,Sarette,Bevir,06/12/1998,sbevirq5@university.edu,419-549-4563,Lima,OH,GR,FNCE
+A00459938,Fitz,Yurenin,05/05/1996,fyureninq6@university.edu,727-396-6128,Saint Petersburg,FL,FR,SOCI
+A00820422,Wash,Jeanneau,04/07/1995,wjeanneauq7@university.edu,706-552-4454,Columbus,GA,FR,EDFN
+A00376596,Guss,Korneev,08/31/1996,gkorneevq8@university.edu,502-611-9045,Louisville,KY,FR,EXCH
+A00315181,Stephani,Cardwell,11/02/1999,scardwellq9@university.edu,321-304-6685,Orlando,FL,JR,STAT
+A00871168,Constancia,Adney,12/20/1995,cadneyqa@university.edu,801-369-8501,Ogden,UT,GR,ENVH
+A00617772,Lauritz,Gogarty,03/17/1995,lgogartyqb@university.edu,818-186-3390,Los Angeles,CA,FR,BSTA
+A00817620,Rozelle,Filochov,11/28/1997,rfilochovqc@university.edu,408-654-1430,San Jose,CA,JR,HSRV
+A00512491,Reinhold,Codd,04/01/2002,rcoddqd@university.edu,402-620-2145,Lincoln,NE,JR,PHYT
+A00151752,Jeno,Gregan,06/27/2000,jgreganqe@university.edu,205-663-0296,Birmingham,AL,GR,CITC
+A00179006,Fionna,Kuhnke,09/15/2002,fkuhnkeqf@university.edu,412-396-1359,Pittsburgh,PA,JR,POLS
+A00559475,Francklyn,Ghio,05/26/1999,fghioqg@university.edu,415-201-0856,San Francisco,CA,JR,GSLD
+A00650011,Shanan,Montgomery,10/21/2002,smontgomery@university.edu,202-510-8956,Washington,DC,FR,DHYG
+A00209845,Burt,Le Marquis,04/11/1995,blemarquisqi@university.edu,203-401-2072,Stamford,CT,JR,EDUC
+A00062744,Montgomery,Maidstone,12/05/1995,mmaidstoneqj@university.edu,864-253-3054,Greenville,SC,GR,INFS
+A00339754,Janette,Priscott,08/19/1998,jpriscottqk@university.edu,318-958-5292,Shreveport,LA,GR,SW
+A00906107,Dorris,McQuaid,04/06/1998,dmcquaidql@university.edu,859-307-5233,Lexington,KY,SO,MSDM
+A00417707,Arel,Mushawe,01/19/1997,amushaweqm@university.edu,734-900-5926,Southfield,MI,SR,PETE
+A00857984,Jewelle,Mackie,01/29/1996,jmackieqn@university.edu,646-129-2538,Brooklyn,NY,SR,BIOL
+A00595444,Nickolas,Elbourn,11/06/2002,nelbournqo@university.edu,813-919-1696,Tampa,FL,FR,CDIS
+A00364256,Danit,Banthorpe,05/18/1995,dbanthorpeqp@university.edu,507-945-4920,Rochester,MN,JR,EXCH
+A00863262,Mariele,Bruinemann,03/31/2000,mbruinemannqq@university.edu,915-467-7280,El Paso,TX,JR,ACCT
+A00511317,Elly,Gatherell,12/26/1997,egatherellqr@university.edu,330-765-7666,Youngstown,OH,JR,TELC
+A00951086,Lenore,Shepland,06/30/1997,lsheplandqs@university.edu,904-655-5937,Jacksonville,FL,FR,COMP
+A00357891,Redd,Pabst,06/15/1996,rpabstqt@university.edu,801-224-9754,Salt Lake City,UT,JR,ELPA
+A00358041,Miriam,Priditt,10/15/2001,mpridittqu@university.edu,347-204-1477,Brooklyn,NY,FR,HETH
+A00075612,Billi,Barneveld,02/21/1995,bbarneveldqv@university.edu,239-168-3036,Fort Myers,FL,GR,PMSY
+A00573154,Ailina,Kaszper,12/23/2002,akaszperqw@university.edu,209-858-7896,Modesto,CA,FR,FREN
+A00878769,Mirna,Maevela,05/18/2002,mmaevelaqx@university.edu,208-917-0254,Boise,ID,FR,LANG
+A00604299,Barnabe,Rippon,02/15/1997,bripponqy@university.edu,508-567-6935,Worcester,MA,SR,BSTA
+A00594670,Allyce,Gunny,01/14/1998,agunnyqz@university.edu,334-462-9171,Montgomery,AL,FR,CJA
+A00815581,Manya,Hardisty,10/22/2000,mhardistyr0@university.edu,503-711-5580,Portland,OR,SR,STOR
+A00057974,Irene,Hayto,03/03/1996,ihaytor1@university.edu,408-291-3218,San Jose,CA,JR,HSCI
+A00235278,Darla,Eite,12/21/1999,deiter2@university.edu,323-617-7193,Inglewood,CA,SR,SLS
+A00070116,Rikki,Sickling,04/24/1996,rsicklingr3@university.edu,615-749-1274,Nashville,TN,JR,TEAE
+A00342759,Perla,Robben,10/10/1997,probbenr4@university.edu,336-408-9802,Winston Salem,NC,SO,PHYT
+A00842394,Evelina,Knappen,12/24/2001,eknappenr5@university.edu,215-543-5317,Philadelphia,PA,JR,PHIL
+A00106431,Joe,Bradburne,01/02/1999,jbradburner6@university.edu,808-213-5120,Honolulu,HI,SR,SOWK
+A00793260,Elfreda,Melrose,07/07/1995,emelroser7@university.edu,415-816-8861,San Francisco,CA,SR,MSCI
+A00439042,Lisle,Wollrauch,01/27/1995,lwollrauchr8@university.edu,253-726-9592,Olympia,WA,JR,ALHS
+A00486480,Eugenius,Close,05/25/2000,ecloser9@university.edu,330-298-9173,Youngstown,OH,SO,COL
+A00911030,Gianni,McCloud,04/09/1999,gmccloudra@university.edu,202-546-4108,Washington,DC,SR,DANC
+A00970963,Eugine,Arnefield,07/18/1996,earnefieldrb@university.edu,502-335-3548,Louisville,KY,GR,GSLD
+A00572718,Astra,Wyre,01/13/2000,awyrerc@university.edu,804-308-2917,Richmond,VA,GR,ENVS
+A00745484,Ruthy,Cholmondeley,02/16/2002,rcholmondeleyrd@university.edu,813-466-1079,Tampa,FL,JR,EDU
+A00883817,Ade,Congdon,12/01/2002,acongdonre@university.edu,770-934-1955,Lawrenceville,GA,GR,BSTA
+A00307247,Kayle,Pittford,01/12/1997,kpittfordrf@university.edu,303-124-3144,Boulder,CO,SR,PSY
+A00188398,Devonna,Cutridge,12/05/1995,dcutridgerg@university.edu,615-896-6664,Murfreesboro,TN,SO,SOC
+A00801272,Francis,Maken,07/25/1998,fmakenrh@university.edu,661-947-7167,Palmdale,CA,SO,CDIS
+A00538353,Janet,Bradder,04/07/1997,jbradderri@university.edu,678-679-9228,Duluth,GA,FR,ADMN
+A00067826,Gamaliel,Ikringill,02/12/1997,gikringillrj@university.edu,317-234-0428,Indianapolis,IN,GR,PETE
+A00646066,Brietta,Lotherington,05/11/1998,blotheringtonrk@university.edu,517-198-1964,Lansing,MI,SO,ASLC
+A00175698,Lynsey,Lutz,10/14/1997,llutzrl@university.edu,513-519-2731,Cincinnati,OH,SR,BMGT
+A00884978,Sascha,Montgomery,10/10/1999,smontgomery@university.edu,303-461-7627,Boulder,CO,SO,SLS
+A00637136,Agustin,Andrelli,04/13/2002,aandrellirn@university.edu,231-509-4241,Muskegon,MI,JR,ECON
+A00314539,Lorita,Guilaem,01/29/1996,lguilaemro@university.edu,775-433-0146,Sparks,NV,SO,ASTL
+A00524717,Ginny,Altamirano,04/13/1996,galtamiranorp@university.edu,202-524-1990,Washington,DC,SO,GSLD
+A00324119,Weston,Keyzor,12/22/2002,wkeyzorrq@university.edu,810-940-3537,Flint,MI,FR,BIOM
+A00727655,Erroll,Stansbury,10/16/1996,estansburyrr@university.edu,321-596-6997,Palm Bay,FL,SR,HLSC
+A00745008,Ilyse,Eberdt,07/21/1996,ieberdt0@university.edu,986-758-2463,San Luis,LA,FR,COUN
+A00546212,Dorisa,Snowball,02/14/1996,dsnowball1@university.edu,311-143-9938,Longwantun,GA,SO,LANG
+A00197840,Jaime,Erskin,06/27/1999,jerskin2@university.edu,191-901-2840,Ringinagung,WV,GR,PHYS
+A00910898,Emmalyn,Cornborough,12/06/2002,ecornborough3@university.edu,399-820-6722,Tatarbunary,NC,JR,JAPN
+A00615128,Danika,Palfrey,07/16/1996,dpalfrey4@university.edu,874-407-4225,Barranquilla,SC,GR,DANC
+A00777108,Saunder,Caistor,10/27/2000,scaistor5@university.edu,424-657-8138,Skrunda,VA,FR,UHON
+A00693379,Burtie,Cleaver,12/06/1996,bcleaver6@university.edu,451-606-8730,Moppo,WV,GR,HSRV
+A00556875,Jodee,Rain,09/28/2000,jrain7@university.edu,923-204-6910,Guanlu,LA,FR,TELC
+A00587058,Padraig,Ximenez,06/22/2002,pximenez8@university.edu,895-773-8427,Sanxi,FL,JR,PMPR
+A00750528,Devlin,Spurryer,10/04/2001,dspurryer9@university.edu,593-695-4799,Chunxi,SC,GR,WEB
+A00098850,Rhetta,Abbatt,12/12/1996,rabbatta@university.edu,913-317-6540,Zlaté Hory,VA,SR,STOR
+A00696811,Lula,Mosedale,12/27/1999,lmosedaleb@university.edu,255-717-1536,Heichengzi,FL,SR,CUAI
+A00433530,Blanca,Fishly,11/28/1999,bfishlyc@university.edu,748-244-1291,Yushugou,TN,SR,FNCE
+A00290777,Valeda,Hillaby,05/23/1995,vhillabyd@university.edu,113-843-6928,Bogdanovich,IA,SR,MUSC
+A00824207,Benyamin,Jellings,08/28/2001,bjellingse@university.edu,932-285-2980,Kobyzhcha,VA,SR,BMGT
+A00202219,Delila,Britner,01/04/1997,dbritnerf@university.edu,381-251-7635,Saki,WV,GR,PSY
+A00220257,Karrie,Artindale,05/20/1996,kartindaleg@university.edu,270-317-7367,San José de Bocay,VA,GR,COL
+A00180242,Tybie,Beecheno,01/04/1998,tbeechenoh@university.edu,831-738-7400,Dois Vizinhos,SC,JR,PHED
+A00809711,Debor,Kornilov,05/10/2001,dkornilovi@university.edu,614-343-3809,Jardia,KY,JR,HDAL
+A00276797,Jerri,Mewha,05/27/2000,jmewhaj@university.edu,324-528-5791,Mineralnye Vody,AL,FR,RTVF
+A00070820,Tremaine,Franzewitch,10/14/2000,tfranzewitchk@university.edu,306-102-4000,Častolovice,SC,SO,MCOM
+A00908721,Sibley,Tommasi,05/06/2001,stommasil@university.edu,170-615-2302,Itapipoca,GA,JR,SALM
+A00547315,Addie,Summerfield,09/08/1995,asummerfieldm@university.edu,872-300-4399,Augusto Corrêa,NC,SR,POLI
+A00493938,Stacie,Skryne,03/09/1996,sskrynen@university.edu,695-307-1912,Mentougou,GA,SO,ACCT
+A00162019,Hadleigh,Ogilby,07/23/1995,hogilbyo@university.edu,429-173-4467,Sukadana,IA,SR,ECE
+A00070467,Dolores,Veasey,01/20/1998,dveaseyp@university.edu,458-871-7135,Moneghetti,LA,SR,CHEM
+A00022594,Delinda,Scedall,10/21/2002,dscedallq@university.edu,235-417-2998,Lenger,TN,GR,PHIL
+A00989704,Rikki,Hubbard,05/27/1997,rhubbardr@university.edu,748-586-3784,Shuangtian,VA,GR,JOUR
+A00585947,Daffy,Rivard,03/22/1999,drivards@university.edu,846-897-0614,Pacucha,KY,FR,STOR
+A00741142,Dominga,Sadd,05/30/1997,dsaddt@university.edu,692-521-1852,Vysočany,VA,SO,HUM
+A00405145,Finn,Seggie,04/29/2000,fseggieu@university.edu,958-870-3264,Malartic,FL,SR,PHSI
+A00174604,Hayward,Sammut,05/21/1996,hsammutv@university.edu,597-441-6153,Ambatondrazaka,SC,GR,HSCI
+A00856123,Tawsha,Ewbanche,06/30/2001,tewbanchew@university.edu,229-301-8277,Alae,IL,SO,BIOC
+A00289093,Mitchael,Szimoni,07/03/1996,mszimonix@university.edu,947-738-5181,Lancheng,TN,FR,ALHE
+A00839958,Sibelle,Rootham,07/12/2002,sroothamy@university.edu,759-956-4672,Sembon,TN,FR,GEOS
+A00813392,Harold,Goodricke,12/19/1997,hgoodrickez@university.edu,697-220-8123,Zākhū,IL,SO,THEA
+A00382619,Trevar,Kares,12/05/1996,tkares10@university.edu,948-746-5893,Khvalovo,LA,SR,BIOL
+A00986025,Leesa,Neeves,10/09/2002,lneeves11@university.edu,621-630-2932,Dingjiayao,KY,FR,PMGT
+A00549667,Jacquie,Feben,12/04/2001,jfeben12@university.edu,681-167-2489,Ndeaboh,IL,JR,ENVH
+A00397057,Glenda,Ricks,06/05/1999,gricks13@university.edu,694-490-8190,Zhangjiagang,IA,JR,CJA
+A00022222,Debbi,Skones,05/12/2000,dskones14@university.edu,919-864-2560,Batudulang,SC,GR,COBH
+A00824625,Smith,Kmicicki,11/27/1996,skmicicki15@university.edu,473-209-2945,Chirilagua,FL,GR,MCOM
+A00111600,Margette,Domegan,07/11/1998,mdomegan16@university.edu,179-462-3936,Čajetina,NC,GR,ASTL
+A00991251,Hazel,Bickerton,06/13/2001,hbickerton17@university.edu,766-733-1787,Diriamba,IL,GR,GEOS
+A00556209,Sumner,Powton,07/24/1997,spowton18@university.edu,960-955-7926,Åby,LA,FR,ALHS
+A00041526,Bernete,Winsbury,02/10/1996,bwinsbury19@university.edu,517-507-3236,Sydney,SC,SR,PETE
+A00521136,Aubrey,Van Der Walt,06/27/1995,avanderwalt1a@university.edu,127-240-1706,Molina,SC,JR,GRAD
+A00724578,Davis,Plomer,01/10/2001,dplomer1b@university.edu,824-310-8484,Tokyo,KY,SO,COM
+A00082699,Anthe,Spinella,03/21/1997,aspinella1c@university.edu,269-522-1907,Khun Han,NC,SO,GSLD
+A00791810,Marina,Lander,10/28/1998,mlander1d@university.edu,706-228-8794,Columbus,VA,GR,CISP
+A00692679,Agna,Dufaire,09/06/1997,adufaire1e@university.edu,466-812-4396,Stende,LA,SO,GREK
+A00371647,Marrissa,Boreland,07/15/1999,mboreland1f@university.edu,425-223-1803,Bayambang,IA,SO,WEBT
+A00760073,Frieda,Spurman,03/14/2001,fspurman1g@university.edu,303-184-8729,Lusigang,TN,FR,CSCI
+A00585501,Sibylla,Attree,10/04/2000,sattree1h@university.edu,371-558-1723,Kazanlŭk,TN,SO,PMPR
+A00771114,Sonny,Beddall,01/02/1998,sbeddall1i@university.edu,709-963-5641,Pangian,IL,SO,BIOM
+A00224075,Bridget,Gwyther,08/05/1996,bgwyther1j@university.edu,279-498-5109,El Hajeb,NC,FR,CDIS
+A00944369,Gaynor,Plante,07/11/1996,gplante1k@university.edu,795-710-9740,Bauta,WV,JR,NTFD
+A00956791,Rosmunda,Innott,10/10/1996,rinnott1l@university.edu,431-226-2772,Psachná,LA,JR,CUAI
+A00136831,Corny,Wraight,06/13/1996,cwraight1m@university.edu,701-750-5753,Babakan,LA,SO,ECON
+A00718971,Drucill,Polin,06/18/2001,dpolin1n@university.edu,678-833-3006,Camino Real,IL,SO,ANTH
+A00489370,Dierdre,Randales,06/29/1999,drandales1o@university.edu,672-810-0820,Mikołów,AL,FR,SRVL
+A00841289,Forster,Treneman,03/24/1997,ftreneman1p@university.edu,676-542-1331,Otuzco,IA,JR,HSRV
+A00994196,Deina,Mozzini,12/17/1996,dmozzini1q@university.edu,636-309-6725,Höganäs,GA,FR,HETH
+A00145143,Vinson,Doughtery,08/23/2001,vdoughtery1r@university.edu,116-918-3118,Libouchec,KY,JR,ECON
+A00507281,Panchito,Ferres,10/15/1995,pferres1s@university.edu,636-725-2287,Ouro Preto,SC,FR,ELPA
+A00149515,Yolande,Seamer,03/16/1997,yseamer1t@university.edu,656-541-4404,Redinha,TN,SR,SOC
+A00545813,Casandra,Bru,07/05/1998,cbru1u@university.edu,159-335-6244,Luopu,AL,FR,MUS
+A00928337,Arnaldo,Carsey,06/11/1995,acarsey1v@university.edu,653-865-2615,Pruzhany,NC,FR,CEE
+A00831131,Woody,Van Hove,03/07/1997,wvanhove1w@university.edu,903-971-5088,Beaune,GA,SO,ALHS
+A00563679,Mordy,Paulet,05/09/1998,mpaulet1x@university.edu,565-416-2026,Amado Nervo,SC,SR,FNCE
+A00078479,Dianna,Bensusan,06/27/1999,dbensusan1y@university.edu,971-577-7479,Shadrinsk,KY,FR,SOWK
+A00117338,Jillayne,Grenfell,01/17/1999,jgrenfell1z@university.edu,549-447-4234,Staryy Oskol,KY,GR,PMPR
+A00676254,Tina,Reddihough,04/16/1996,treddihough20@university.edu,430-277-7820,Przasnysz,SC,FR,SPED
+A00216819,Nicola,Brinson,01/30/1997,nbrinson21@university.edu,999-843-1774,Ferreira do Alentejo,VA,JR,NTFD
+A00665829,Anjela,Robinette,04/13/2001,arobinette22@university.edu,495-832-2966,Tushi,WV,SR,EDU
+A00348486,Zarah,Noor,12/26/1995,znoor23@university.edu,448-298-7956,Coroatá,AL,FR,AGRI
+A00829382,Wilona,Haizelden,04/22/2002,whaizelden24@university.edu,661-919-5614,Santo Domingo,NC,SO,PHYS
+A00518042,Luca,Piers,05/09/2002,lpiers25@university.edu,285-861-1027,Hongling,VA,SR,ART
+A00164890,Dori,Manns,10/24/2002,dmanns26@university.edu,441-142-0438,Cofimvaba,VA,SO,PHYS
+A00983181,Theresita,Fills,11/27/2000,tfills27@university.edu,997-303-9250,Jiumen,VA,GR,FNCE
+A00202357,Tiffie,Dallaghan,05/04/1997,tdallaghan28@university.edu,630-976-0707,Karachi,VA,GR,COBH
+A00934241,Sallyanne,Aubert,01/28/1995,saubert29@university.edu,864-324-7318,Saint-Maixent-l'École,NC,JR,HIST
+A00784784,Delphinia,Bremley,11/14/1995,dbremley2a@university.edu,297-937-9159,Xinheng,FL,FR,ECON
+A00279382,Gris,Debrett,07/17/2001,gdebrett2b@university.edu,523-411-3950,Benito Juarez,GA,SO,COL
+A00308396,Esme,Skokoe,06/01/2002,eskokoe2c@university.edu,174-217-4609,Katagum,LA,SO,CJA
+A00655138,Marlane,Alecock,02/19/1998,malecock2d@university.edu,158-922-6298,Tigbinan,NC,SO,GERM
+A00717873,Gale,Mylchreest,05/14/1999,gmylchreest2e@university.edu,911-425-4158,Buzovna,WV,GR,STOR
+A00247480,Nessie,Grave,11/19/1999,ngrave2f@university.edu,954-224-5009,Sakaraha,FL,SR,ART
+A00439611,Leroi,Jeskins,05/25/1997,ljeskins2g@university.edu,803-566-7748,Agía Paraskeví,LA,SO,TEAE
+A00180127,Vanni,Learman,03/03/1999,vlearman2h@university.edu,618-129-8818,Zoumaling,GA,GR,EXCH
+A00454230,Nickolaus,Garfirth,08/31/1997,ngarfirth2i@university.edu,291-500-4553,La Caya,WV,JR,INFS
+A00610065,Lida,Cunniam,08/09/1997,lcunniam2j@university.edu,455-169-5509,Cayambe,NC,SR,WEBT
+A00389331,Merralee,Bassom,04/26/1995,mbassom2k@university.edu,270-860-1954,Poja,WV,SR,INFS
+A00922834,Shirl,Kores,10/01/1997,skores2l@university.edu,433-802-6127,Presidencia Roque Sáenz Peña,IA,SR,COMM
+A00462241,Gerik,Muzzini,08/25/1999,gmuzzini2m@university.edu,742-254-5049,Baquero Norte,LA,SO,MGMT
+A00902910,Sherie,Tallis,04/07/2000,stallis2n@university.edu,201-367-5352,Rushanzhai,LA,FR,SOWK
+A00842563,Sammy,Jeppe,07/10/1998,sjeppe2o@university.edu,861-610-4610,Przesmyki,VA,SR,ME
+A00077537,Victoir,Hutchinges,02/12/1996,vhutchinges2p@university.edu,755-373-3295,San Antonio del Monte,SC,SO,ECE
+A00642532,Gaston,Lincey,11/16/2000,glincey2q@university.edu,151-846-2511,Phetchabun,IA,GR,PHAR
+A00510118,Sherri,Cannan,03/27/2002,scannan2r@university.edu,837-490-3750,Vanino,FL,JR,PRST
+A00468647,Odille,Tomczykiewicz,05/15/2002,otomczykiewicz2s@university.edu,448-250-2041,Klippan,GA,SR,ELPA
+A00073415,Brade,Sarath,12/09/2000,bsarath2t@university.edu,947-936-6178,Golopau,VA,SO,SOWK
+A00359704,Madelene,L'Episcopi,03/26/1997,mlepiscopi2u@university.edu,799-260-4626,Nybro,LA,FR,CPSC
+A00375469,Morena,Gon,05/12/2002,mgon2v@university.edu,716-566-0959,Aravissós,GA,FR,HPSS
+A00788499,Vikki,Sproule,12/29/1998,vsproule2w@university.edu,483-579-0324,Salto,WV,GR,MDT
+A00600414,Linus,Eastope,05/20/1999,leastope2x@university.edu,955-676-8533,Jishan,FL,SR,PHYS
+A00667179,Hermia,Piser,07/06/1998,hpiser2y@university.edu,828-736-4420,Makrychóri,NC,SO,GEOS
+A00091454,Way,Sweetzer,11/17/2002,wsweetzer2z@university.edu,355-796-6244,Minas de Marcona,WV,FR,GSLD
+A00039962,Matty,Rawnsley,02/19/1996,mrawnsley30@university.edu,835-809-9296,Thị Trấn Yên Thịnh,TN,SR,PHED
+A00356776,Nance,Glancy,09/24/1995,nglancy31@university.edu,632-999-9202,Palilula,WV,SO,CHEM
+A00296977,Stesha,Matthews,08/09/2000,smatthews32@university.edu,350-713-6470,Robonkon,LA,JR,PSYC
+A00430869,Nathanael,Stickells,07/19/2001,nstickells33@university.edu,514-515-1159,Tanggan,IA,FR,SWRK
+A00682151,Costa,O'Carroll,11/10/2000,cocarroll34@university.edu,812-607-7976,Frankfurt am Main,KY,FR,COUN
+A00573952,Wallache,Alven,08/14/1996,walven35@university.edu,858-272-7703,Riangblolong,WV,SO,BLUE
+A00723132,Cele,Segoe,03/18/1998,csegoe36@university.edu,654-304-1691,Petrich,VA,SO,STAT
+A00669740,Georgine,Sibyllina,09/07/2000,gsibyllina37@university.edu,710-988-3263,Huangchen,WV,SO,ACCT
+A00701483,Roman,Patience,07/27/2000,rpatience38@university.edu,925-727-3287,Brest,IA,FR,PHED
+A00537169,Niall,Hendricks,07/12/2002,nhendricks39@university.edu,952-850-9754,Daegu,SC,JR,COMP
+A00622307,Ruddie,Prowting,04/22/1995,rprowting3a@university.edu,468-162-2807,Ocoyo,KY,SO,MRCH
+A00831424,Saudra,Coulman,10/04/1997,scoulman3b@university.edu,820-452-2718,Borås,KY,SR,MALS
+A00445736,Gothart,Dommerque,08/11/1997,gdommerque3c@university.edu,785-945-4398,Topeka,TN,SR,CPSC
+A00213176,Ferris,Farrimond,02/11/2001,ffarrimond3d@university.edu,823-331-7052,Yaozhanzi,WV,SO,SOAA
+A00363541,Richy,Wheatcroft,05/23/2000,rwheatcroft3e@university.edu,345-138-6935,Pýli,WV,FR,COM
+A00850591,Fredra,Olek,05/17/2001,folek3f@university.edu,476-984-8471,Girihieum,FL,FR,CDST
+A00452907,Aube,Boyer,11/29/2001,aboyer3g@university.edu,955-576-3879,Al Hāshimīyah,FL,SO,CDIS
+A00723989,Christine,Death,06/30/1995,cdeath3h@university.edu,984-246-7810,Sochi,VA,SO,LEAD
+A00632307,Berenice,Tyreman,02/24/2002,btyreman3i@university.edu,314-130-8884,Juan Santiago,WV,JR,PSY
+A00103218,Shaun,Guillerman,03/10/1998,sguillerman3j@university.edu,285-911-2555,Bojano,IL,SR,TELC
+A00141882,Felix,Kerman,11/26/2001,fkerman3k@university.edu,621-256-5767,Novais,LA,SO,ME
+A00862654,Taffy,Tirrell,11/27/1996,ttirrell3l@university.edu,251-315-4914,Tagbina,LA,SR,PHED
+A00907968,Jaquelyn,Newbery,05/10/1997,jnewbery3m@university.edu,314-285-5196,San Esteban,NC,JR,LANG
+A00533186,Egbert,Welfair,05/16/2000,ewelfair3n@university.edu,455-365-4340,Molsheim,GA,SR,MSCI
+A00249591,Gan,De Ferrari,06/19/1999,gdeferrari3o@university.edu,195-999-0875,‘Abs,FL,SO,AMBA
+A00943434,Ibrahim,Castelyn,04/16/2001,icastelyn3p@university.edu,729-866-1309,Chengji,VA,FR,EDCI
+A00735162,Moyna,Silverthorn,04/08/1997,msilverthorn3q@university.edu,497-745-6145,Koubia,AL,JR,NTFD
+A00823992,Benni,Letchford,12/25/2000,bletchford3r@university.edu,582-759-6582,Banjar Timbrah,GA,SO,MALS
+A00185203,Weidar,Hallawell,06/04/2002,whallawell3s@university.edu,956-998-9324,Setro,NC,SO,COUN
+A00641310,Hilary,Lethardy,11/24/1999,hlethardy3t@university.edu,638-791-6390,Frydek,NC,SO,SOAA
+A00041694,Shelli,Escolme,02/08/1995,sescolme3u@university.edu,516-139-8522,Hienghène,NC,GR,LEAD
+A00855264,Phillida,Medwell,08/19/1999,pmedwell3v@university.edu,343-226-7669,Zhangtan,IA,GR,LIST
+A00096721,Berton,Desbrow,10/25/1999,bdesbrow3w@university.edu,647-348-7727,Olszyna,WV,SR,GEOG
+A00858807,Mickie,Cropp,11/25/1995,mcropp3x@university.edu,777-314-5044,Adil Makmur,IL,SR,PHIL
+A00001792,Daloris,Streatley,11/24/1999,dstreatley3y@university.edu,915-507-0368,Galižana,GA,JR,INFS
+A00646004,Pearla,Duligall,12/02/2000,pduligall3z@university.edu,529-848-1602,Chernogorsk,LA,GR,HIMT
+A00068987,Svend,Skehens,05/15/2000,sskehens40@university.edu,236-151-5545,Luxi,NC,SO,SW
+A00897287,Kathryn,Housbie,04/19/1996,khousbie41@university.edu,450-649-7934,Korolevo,NC,GR,CJCR
+A00597785,Francoise,Zamorrano,11/09/2001,fzamorrano42@university.edu,334-840-3935,Barranqueras,KY,SR,AFAM
+A00576432,Gayle,Flageul,03/13/1996,gflageul43@university.edu,874-287-4094,Diofior,NC,SO,ENGL
+A00045678,Nanon,Girodier,06/09/1998,ngirodier44@university.edu,877-868-9925,Yefimovskiy,IL,JR,HIST
+A00711291,Marlon,Biever,01/11/1996,mbiever45@university.edu,961-954-1802,Tasīl,IL,SR,EDU
+A00269015,Corissa,Fomichyov,06/23/1995,cfomichyov46@university.edu,775-794-3771,Carson City,AL,SR,BIOM
+A00778814,Erv,McNicol,06/24/1999,emcnicol47@university.edu,996-112-9469,Iquique,VA,SR,STAT
+A00044680,Nana,Fancet,12/24/2001,nfancet48@university.edu,590-528-2871,Yacheng,LA,GR,TEAS
+A00082989,Annamarie,Sholem,01/08/1995,asholem49@university.edu,824-206-7035,Sidareja,GA,JR,STOR
+A00488852,Anatol,Fordyce,03/10/2002,afordyce4a@university.edu,423-104-2279,Čačak,AL,JR,MDT
+A00904166,Tera,Fishpond,07/08/1995,tfishpond4b@university.edu,284-540-4518,Abaeté,SC,FR,MATH
+A00442169,Lora,Blacklawe,07/13/2002,lblacklawe4c@university.edu,110-558-2444,Erba,LA,SO,FREN
+A00789222,Hattie,Yonnie,01/14/2002,hyonnie4d@university.edu,477-169-1281,Huaqiao,VA,GR,MSCI
+A00001248,Robinette,Czadla,10/27/1995,rczadla4e@university.edu,214-165-7802,Dallas,NC,SR,CITC
+A00321179,Lia,Sumbler,02/03/2001,lsumbler4f@university.edu,240-136-2561,Aurora,LA,FR,PMPR
+A00674486,Randy,Cumming,01/02/1999,rcumming4g@university.edu,579-469-0450,Anicuns,AL,FR,HDAL
+A00322559,Cynde,Binns,10/14/1996,cbinns4h@university.edu,756-609-1221,Al Ghizlānīyah,IL,GR,PSYC
+A00406150,Bryn,Shafe,07/22/2002,bshafe4i@university.edu,163-878-5616,Bergen,NC,GR,POLI
+A00037180,Ariela,Woodland,06/18/2002,awoodland4j@university.edu,646-230-8286,Hucun,IL,GR,ADVR
+A00960211,Jervis,Ragdale,10/18/2000,jragdale4k@university.edu,150-375-3516,Uiasa,TN,JR,GERM
+A00875637,Robert,Maffucci,01/08/1997,rmaffucci4l@university.edu,581-829-1179,Robatal,WV,FR,PHSI
+A00071427,Elvira,Relton,10/03/1996,erelton4m@university.edu,656-556-9440,Duba,WV,GR,CPSC
+A00896090,Gates,Goldsworthy,07/17/2000,ggoldsworthy4n@university.edu,469-487-2763,Xiaojian,AL,JR,READ
+A00461739,Ciro,Leftly,04/06/2002,cleftly4o@university.edu,713-762-2355,Minas de Matahambre,KY,JR,PMPR
+A00290551,Doroteya,Yellowlee,09/08/2000,dyellowlee4p@university.edu,201-984-4315,Logon,WV,JR,SPED
+A00530612,Raychel,Smeeton,03/31/2000,rsmeeton4q@university.edu,911-698-6509,Galyugayevskaya,GA,JR,RHSC
+A00953600,Nerte,Luquet,03/09/1997,nluquet4r@university.edu,265-262-3877,Wutun,SC,SO,HSC
+A00949145,Giordano,Mouat,02/23/1999,gmouat4s@university.edu,198-445-7773,Wawa,SC,JR,READ
+A00887506,Ammamaria,Breddy,12/01/2001,abreddy4t@university.edu,545-683-5030,Ampera,WV,FR,RELI
+A00745896,Denny,Mattingson,11/16/1995,dmattingson4u@university.edu,688-111-1891,Calzada Larga,GA,SR,ACCT
+A00007102,Averyl,Zoppo,11/01/1995,azoppo4v@university.edu,236-999-1162,Sulahan,IA,JR,PHYT
+A00053360,Leonore,Thumim,01/01/1995,lthumim4w@university.edu,384-237-5535,Bailai,FL,SR,SWRK
+A00888671,Jonis,Offin,06/17/2002,joffin4x@university.edu,352-234-3253,Ocala,GA,GR,CPSC
+A00959019,Tait,Hurton,08/24/1999,thurton4y@university.edu,634-278-9531,Yanglinwei,LA,JR,COUN
+A00606200,Nadia,Moody,07/22/1995,nmoody4z@university.edu,609-565-1037,Nanzhihui,FL,JR,TEAE
+A00808775,Brenden,Estoile,03/02/1998,bestoile50@university.edu,773-956-3035,San Juan,TN,JR,LDSP
+A00400878,Jacinthe,Tribbeck,09/30/2002,jtribbeck51@university.edu,102-752-3589,Bandar Pusat Jengka,TN,GR,HIST
+A00585084,Matilde,Delouch,06/30/1998,mdelouch52@university.edu,760-392-3731,Šardice,LA,FR,EDU
+A00264926,Kristo,Simenot,08/19/1995,ksimenot53@university.edu,162-500-2751,Denton,VA,SR,SW
+A00906160,Rodger,Spondley,07/07/1998,rspondley54@university.edu,459-524-0219,Viengxay,VA,JR,PHYT
+A00126116,Rutledge,Arenson,05/23/2002,rarenson55@university.edu,304-237-1730,Huangqiao,SC,FR,CRMJ
+A00395688,Buck,Boyer,05/09/1996,bboyer56@university.edu,374-481-4237,Alebtong,IA,SO,GEOS
+A00519121,Sterling,Krolman,07/16/1999,skrolman57@university.edu,569-434-1890,Driefontein,SC,SR,ADMN
+A00806423,Jaymie,Ivushkin,08/10/1995,jivushkin58@university.edu,233-162-8945,Jiaocheng,IL,GR,GREK
+A00618140,Price,Sleeny,11/14/1999,psleeny59@university.edu,400-820-0503,Shenglilu,GA,GR,MALS
+A00483274,Kayne,Feeney,05/24/1995,kfeeney5a@university.edu,943-535-4013,Arrah,GA,JR,UNIV
+A00812442,Pierrette,Fettes,06/04/2002,pfettes5b@university.edu,663-983-0371,Boljevci,NC,SR,HLSC
+A00697791,Willow,Gotch,01/16/2002,wgotch5c@university.edu,580-659-5751,Jieznas,IA,SR,SOCI
+A00349746,Yvon,Glenfield,06/29/1999,yglenfield5d@university.edu,105-847-3761,Dacheng,SC,JR,ALHE
+A00129158,Dom,Thorrold,02/21/1997,dthorrold5e@university.edu,267-380-6902,Kōchi-shi,AL,SR,MSDM
+A00431754,Maximilien,Litchfield,02/08/1996,mlitchfield5f@university.edu,611-602-2836,Xiaotang,AL,GR,CHEM
+A00281057,Monro,Bickerstaffe,01/09/1995,mbickerstaffe5g@university.edu,241-840-6691,San José,VA,SR,BIOL
+A00059849,Netti,McGarrahan,09/12/2001,nmcgarrahan5h@university.edu,428-377-5571,Lewotola,KY,SR,THEA
+A00495151,Shari,Loudon,09/15/2000,sloudon5i@university.edu,918-835-0826,Kotablolong,NC,JR,CITC
+A00893075,Kristyn,Probyn,08/08/2002,kprobyn5j@university.edu,821-835-7355,Mabini,AL,FR,DHYG
+A00713434,Claudelle,Gouldeby,01/11/2002,cgouldeby5k@university.edu,375-975-9977,Krzepice,KY,SR,INTD
+A00708743,Modesta,Cambell,06/26/2001,mcambell5l@university.edu,944-462-3443,Sumbawa Besar,FL,GR,EXCH
+A00598905,Tamarah,Hallatt,12/31/2001,thallatt5m@university.edu,420-121-3214,Tầm Vu,SC,FR,MALS
+A00768376,Perle,Hargreves,02/25/1999,phargreves5n@university.edu,943-731-1468,Doksy,TN,SO,PMPR
+A00451837,Meryl,Selly,04/20/2000,mselly5o@university.edu,332-790-2439,Daying,TN,SR,HIST
+A00050083,Wylma,Collabine,01/15/1996,wcollabine5p@university.edu,885-780-1000,Huabeitun,WV,FR,GRAD
+A00312627,Huberto,Corrado,10/22/1996,hcorrado5q@university.edu,587-996-0765,Tambir,LA,GR,AVST
+A00058579,Chelsey,Durrett,04/13/1996,cdurrett5r@university.edu,527-765-3512,Wanzu,KY,FR,UNIV
+A00291214,Virgie,Antoniat,03/16/1997,vantoniat5s@university.edu,826-677-9124,Xishui,AL,GR,HIMT
+A00848251,Vidovic,Camerello,05/15/1996,vcamerello5t@university.edu,452-271-1307,Zürich,SC,SR,LEAD
+A00820751,Melitta,Estoile,02/16/1995,mestoile5u@university.edu,625-251-6173,Zheleznodorozhnyy,NC,FR,RTVF
+A00047798,Tiebold,Guillot,11/27/2001,tguillot5v@university.edu,379-411-3495,Passa Quatro,TN,GR,SW
+A00946224,Grantley,Bouda,10/30/2001,gbouda5w@university.edu,911-949-6189,Thành Phố Thái Bình,KY,FR,TELC
+A00101257,Damiano,Fass,11/02/2002,dfass5x@university.edu,116-305-1413,Mathba,GA,SR,BIOL
+A00120476,Pavia,McMains,01/12/1990,pmcmains5y@university.edu,319-128-3196,Klippan,WV,FR,RHSC
+A00503060,Slade,Jerke,03/23/2002,sjerke5z@university.edu,126-951-1473,Dunyāpur,AL,SO,HIMT
+A00554229,Janina,Cobson,02/03/2001,jcobson60@university.edu,522-542-7570,Ziyang Chengguanzhen,IA,JR,INFS
+A00986801,Lorelei,Moakson,03/14/2000,lmoakson61@university.edu,203-207-2895,Neftobod,TN,FR,GRAD
+A00740585,Maryjane,Mordon,10/29/1997,mmordon62@university.edu,585-266-6256,Provatás,AL,SO,EPID
+A00337985,Hestia,Haney`,05/08/1998,hhaney63@university.edu,236-236-2995,Bulungu,WV,SR,TELC
+A00057171,Donnie,Gage,10/08/1997,dgage64@university.edu,482-175-2572,Ogurugu,AL,GR,RTVF
+A00624048,Roth,Thicking,04/26/2002,rthicking65@university.edu,112-913-2428,Mabyan,VA,GR,COL
+A00572088,Ogdon,Cicco,03/30/1996,ocicco66@university.edu,950-318-5372,Changma,VA,GR,COBH
+A00014354,Ase,Raiker,08/16/1995,araiker67@university.edu,104-770-8161,Xinning,LA,SO,BUSN
+A00114033,Joe,McFeat,03/11/2001,jmcfeat68@university.edu,454-662-1124,Horizonte,AL,SO,PETE
+A00670278,Tudor,Rennels,09/15/2001,trennels69@university.edu,852-319-3687,West Kelowna,KY,SR,ELPA
+A00120323,Dominique,Buzin,04/01/2000,dbuzin6a@university.edu,763-559-1930,Gachalá,KY,SO,EPID
+A00717318,Urson,Downes,10/22/1997,udownes6b@university.edu,725-356-8218,Tagoloan,FL,SR,PTMA
+A00292728,Annetta,Garry,12/24/1996,agarry6c@university.edu,798-405-1400,Loandjili,LA,FR,SOCI
+A00302405,Janela,Benjefield,11/20/1995,jbenjefield6d@university.edu,809-728-4336,San Pa Tong,SC,FR,ECON
+A00192628,Myrlene,Sawforde,11/03/1995,msawforde6e@university.edu,941-613-6775,Escazú,AL,JR,GEOG
+A00319008,Rollie,Bram,07/22/1997,rbram6f@university.edu,615-599-1473,Langensari,NC,JR,ECE
+A00979858,Becky,Obal,09/18/1995,bobal6g@university.edu,919-542-9032,Durham,FL,JR,LIST
+A00566073,Maurise,Spybey,10/26/1996,mspybey6h@university.edu,649-482-4782,Kivsharivka,NC,SO,ARTA
+A00623547,Noland,Philip,06/21/1995,nphilip6i@university.edu,182-931-5060,São Silvestre,IL,FR,TECH
+A00482184,Natassia,Wogan,10/30/1999,nwogan6j@university.edu,157-635-3383,Khao Kho,VA,GR,MRCH
+A00325453,Damaris,Heare,07/12/1995,dheare6k@university.edu,830-135-3598,Patitírion,KY,SR,CITC
+A00034951,Nerta,Whittier,04/01/1995,nwhittier6l@university.edu,306-224-6618,Hyrynsalmi,VA,FR,STOR
+A00096329,Zia,Pettersen,03/20/2000,zpettersen6m@university.edu,501-796-7352,North Little Rock,SC,SR,MUS
+A00579634,Jobina,Huskinson,02/03/1995,jhuskinson6n@university.edu,702-944-7144,Jiangwakou,IL,SR,DANC
+A00008579,Julienne,Hoggan,09/18/1999,jhoggan6o@university.edu,952-918-5232,Muroran,NC,SO,ARTA
+A00966335,Roseanne,Callis,04/14/1998,rcallis6p@university.edu,660-373-7659,Tianxin,LA,SR,EDUC
+A00249735,Alvin,Michieli,08/28/2002,amichieli6q@university.edu,535-295-2911,Promissão,WV,GR,DHYG
+A00617442,Matilde,Schade,03/15/1997,mschade6r@university.edu,942-804-3105,Odolanów,IA,SR,AGRI
+A00408105,Theobald,Gouldstraw,03/26/2000,tgouldstraw6s@university.edu,534-546-2748,Semīrom,LA,SO,GRAD
+A00244888,Elka,Shatliff,11/15/1996,eshatliff6t@university.edu,387-792-2066,Shuanghe,IA,FR,MDT
+A00170681,Xymenes,Vaudre,02/13/1998,xvaudre6u@university.edu,356-852-7259,Falun,IL,FR,MSCI
+A00018090,Abel,Ferrillio,06/27/2001,aferrillio6v@university.edu,206-739-3300,Beiqijia,IL,SO,POLS
+A00624313,Leoine,Bolland,10/02/1995,lbolland6w@university.edu,440-750-8867,Gongdanglegi Kulon,NC,FR,ADMN
+A00313678,Dolores,Ebbett,04/15/1995,debbett6x@university.edu,945-932-7600,El Obeid,VA,SR,ARTA
+A00933105,Stanwood,Chidley,06/20/1999,schidley6y@university.edu,964-535-3202,Qal‘at al Andalus,TN,SR,PMSY
+A00631888,Anallese,Olijve,09/01/1998,aolijve6z@university.edu,278-412-5744,Göteborg,IA,JR,COL
+A00528996,Hymie,Wiper,05/30/2002,hwiper70@university.edu,425-926-2844,Narok,LA,FR,BIOL
+A00733350,Sal,Bosden,09/18/2002,sbosden71@university.edu,879-195-7473,Marull,NC,FR,SCED
+A00349183,Virgina,Guilloneau,02/07/2001,vguilloneau72@university.edu,352-558-1793,Santa Rita,WV,SO,SPED
+A00988248,Zabrina,Omand,08/30/1995,zomand73@university.edu,121-121-3040,Mislak,WV,SO,PRST
+A00187909,Roby,Brayford,11/02/1997,rbrayford74@university.edu,980-776-6663,Dziadkowice,FL,SR,TEAS
+A00816751,Trevar,Succamore,05/13/1999,tsuccamore75@university.edu,639-473-3169,Khuzdār,TN,GR,ENVH
+A00635638,Hugo,Dutnell,04/02/1997,hdutnell76@university.edu,759-200-5437,Beicheng,TN,FR,AFAM
+A00061197,Philipa,Izod,04/27/1997,pizod77@university.edu,755-340-7777,Kaiyun,GA,SR,ANTH
+A00120224,Jory,Winterflood,02/22/1999,jwinterflood78@university.edu,955-679-5032,Canoas,GA,SO,SLS
+A00829113,Alta,Hancell,02/25/2001,ahancell79@university.edu,274-438-2832,Nanaimo,NC,FR,COL
+A00227980,Florella,Behr,10/06/1999,fbehr7a@university.edu,525-989-2707,Ostrów Mazowiecka,FL,GR,COL
+A00503399,Lorette,Gaine,04/24/1999,lgaine7b@university.edu,353-894-6356,Västerås,AL,SO,SOCI
+A00374138,Lauryn,Davinet,05/08/1999,ldavinet7c@university.edu,716-877-5270,San Roque,LA,JR,TEAE
+A00511202,Mignon,Peskin,07/16/2002,mpeskin7d@university.edu,410-129-8576,Filiátes,FL,JR,ASLC
+A00886659,Bambie,Mattiazzi,08/11/2000,bmattiazzi7e@university.edu,961-593-4067,Dembeni,AL,SO,APST
+A00040460,Berton,Hellwig,03/22/2001,bhellwig7f@university.edu,877-526-2329,Isesaki,KY,JR,PHIL
+A00310865,Rosalind,Brok,03/27/1997,rbrok7g@university.edu,276-969-3289,Novikovo,LA,SR,CDST
+A00506199,Reed,Calley,10/24/1995,rcalley7h@university.edu,463-788-3767,Bodø,GA,FR,BSTA
+A00212833,Benedikta,Leyborne,12/09/1998,bleyborne7i@university.edu,588-121-1410,Kallinge,TN,SO,CDST
+A00917745,Jodi,Charity,07/06/2000,jcharity7j@university.edu,435-118-2104,Mokotów,TN,SR,COMM
+A00107149,Nollie,Hearns,11/21/1997,nhearns7k@university.edu,141-763-4455,Jardim,LA,SR,EXCH
+A00706303,Nate,Dymocke,09/05/1997,ndymocke7l@university.edu,459-919-1022,‘Amd,WV,SR,HETH
+A00401600,Glynnis,Doctor,08/27/1999,gdoctor7m@university.edu,746-976-3321,Almere Haven,TN,JR,PBRL
+A00948031,Sandy,Stammer,11/06/1998,sstammer7n@university.edu,315-316-6993,Yajin,FL,SR,SOC
+A00029862,Tedman,Sayburn,07/04/1996,tsayburn7o@university.edu,609-439-1962,Sandovo,VA,JR,CUAI
+A00436553,Hunt,McVicar,12/12/1997,hmcvicar7p@university.edu,797-950-8686,Il’inskiy Pogost,WV,SR,SOCI
+A00816955,Karie,Slorance,04/27/2001,kslorance7q@university.edu,428-781-3850,Salon-de-Provence,IL,FR,PADM
+A00549836,Doria,Gaudon,08/01/2001,dgaudon7r@university.edu,738-247-8891,Gaofeng,NC,FR,SOC
+A00515641,Muffin,Carine,06/09/2000,mcarine7s@university.edu,133-343-4213,Bayanbaraat,AL,JR,CDIS
+A00910794,Ilyse,Marien,10/03/1995,imarien7t@university.edu,670-998-2476,Calceta,WV,FR,PMSY
+A00373343,Vicki,Idale,08/16/2000,vidale7u@university.edu,989-169-6750,Quxia,GA,SR,BLUE
+A00234588,Timoteo,Pateman,02/09/2000,tpateman7v@university.edu,732-415-3160,Jieyang,SC,GR,EXCH
+A00168189,Tucker,Seide,12/22/1995,tseide7w@university.edu,723-915-6836,Higetegera,IA,SR,WEB
+A00695386,Harcourt,Edel,09/30/1996,hedel7x@university.edu,586-123-9230,Jawf al Maqbābah,GA,SR,COUN
+A00429036,Dolorita,Gilyatt,04/28/1997,dgilyatt7y@university.edu,212-652-1001,Shanmei,IL,FR,SRVL
+A00671849,Ingeborg,Baus,09/26/1996,ibaus7z@university.edu,565-367-1185,Ameixoeira,LA,SR,HDAL
+A00171805,Rycca,Lello,05/14/2000,rlello80@university.edu,753-116-9597,Chişinău,SC,GR,RADT
+A00282326,Nathanil,Babber,11/23/1996,nbabber81@university.edu,601-504-2787,Xiaolou,FL,SR,ART
+A00823151,Gearalt,Heeks,07/10/2002,gheeks82@university.edu,638-907-2397,Rimpakgede,VA,GR,PHYT
+A00993521,Sophia,Conaboy,09/20/1999,sconaboy83@university.edu,890-936-8452,Kučevo,AL,GR,READ
+A00440356,Reg,Irnis,04/28/2001,rirnis84@university.edu,339-564-2346,Buguruslan,IL,FR,CUAI
+A00883473,Garwood,Tompkins,01/12/2000,gtompkins85@university.edu,768-321-7192,Carahue,LA,JR,PUBR
+A00102882,Corey,Murch,05/07/1997,cmurch86@university.edu,809-865-9125,São Bernardo do Campo,VA,SR,CJCR
+A00669401,Emelita,Yackiminie,05/30/1998,eyackiminie87@university.edu,854-937-6756,Gurra e Vogël,SC,JR,AMBA
+A00137738,Daphene,Ivanchov,01/15/2000,divanchov88@university.edu,423-765-0321,Stockholm,NC,GR,ECED
+A00808934,Margie,Jacobsson,04/11/1997,mjacobsson89@university.edu,201-781-2615,Mucllo,AL,GR,PHIL
+A00778443,Modesty,McAw,09/24/2002,mmcaw8a@university.edu,131-802-4042,Challhuahuacho,KY,SR,CISP
+A00598320,Johannah,Vondra,03/10/1999,jvondra8b@university.edu,263-276-7239,Los Angeles,TN,FR,ELPA
+A00447290,Pebrook,Cranny,10/22/1998,pcranny8c@university.edu,254-513-9778,Świecie,NC,GR,PREH
+A00369396,Merci,McLenahan,06/28/2001,mmclenahan8d@university.edu,738-640-3494,Cisiec,FL,FR,RADT
+A00259850,Garner,Seeks,01/07/1995,gseeks8e@university.edu,332-853-4146,Järfälla,AL,FR,EDU
+A00825003,Graeme,Singh,05/24/1998,gsingh8f@university.edu,551-724-2176,Dzhiginka,IL,GR,ADVR
+A00591851,Nelson,Goodbar,12/07/2002,ngoodbar8g@university.edu,293-698-9793,Světlá nad Sázavou,AL,SR,STOR
+A00134893,Kathe,Roseveare,02/07/2000,kroseveare8h@university.edu,428-212-3844,Ngulahan,WV,GR,EDUC
+A00334288,Patric,Courteney,08/08/2002,pcourteney8i@university.edu,703-521-8010,Colonias Unidas,NC,FR,AVST
+A00255938,Clayborn,McGeown,10/28/2002,cmcgeown8j@university.edu,595-202-2475,Ciseureuheun,GA,SO,PMSY
+A00795250,Bartlet,Morshead,12/18/2000,bmorshead8k@university.edu,244-786-1380,"Las Vegas, Santa Barbara",AL,JR,CRMJ
+A00834935,Noam,Parfett,10/19/1999,nparfett8l@university.edu,576-431-0365,Teresópolis,GA,GR,MGMT
+A00043223,Jenifer,Franceschielli,06/07/2002,jfranceschielli8m@university.edu,517-504-1041,Himeville,WV,SO,LIST
+A00954073,Shirl,Crowcher,07/22/1999,scrowcher8n@university.edu,346-422-0335,Tai’an,FL,SO,PMSY
+A00278339,Lauritz,Harman,09/21/1995,lharman8o@university.edu,301-157-6615,Rebrikha,VA,SR,THEA
+A00100987,Gram,Dumphy,11/29/2001,gdumphy8p@university.edu,515-694-4101,Talisayan,AL,SR,PHSI
+A00805055,Emmery,Goldis,01/31/1995,egoldis8q@university.edu,161-799-3929,Zhanqian,WV,SO,ENVH
+A00225095,Raynell,Margeram,05/18/1996,rmargeram8r@university.edu,316-503-8656,Miaofengshan,IL,SO,EDU
+A00735736,Rip,Codlin,05/29/1995,rcodlin8s@university.edu,573-929-6305,Nanjie,WV,JR,ELPA
+A00243844,Kingsly,Amey,08/21/1995,kamey8t@university.edu,466-363-3828,Caicedonia,IA,GR,PMGT
+A00304483,Matty,Franzolini,03/30/2001,mfranzolini8u@university.edu,682-857-9919,Longjie,GA,SR,BIOM
+A00728011,Lizbeth,Worsnup,07/01/1998,lworsnup8v@university.edu,300-901-6147,Angeghakot’,NC,SR,CPSC
+A00133191,Regan,Comford,02/09/1997,rcomford8w@university.edu,794-635-0057,New Kingston,IL,JR,SOCI
+A00296387,Laural,Scatchar,09/08/2000,lscatchar8x@university.edu,210-882-4172,Aachen,TN,GR,UHON
+A00623421,Ron,Bourton,06/23/2001,rbourton8y@university.edu,570-924-0114,Montaneza,SC,JR,SLS
+A00791828,Inigo,Grogor,01/23/2001,igrogor8z@university.edu,464-949-8026,Kribi,VA,SR,PBRL
+A00522059,Naomi,Ballance,02/22/1996,nballance90@university.edu,389-183-9303,Trảng Bom,VA,SR,ENGL
+A00755530,Deonne,Sacker,11/23/1996,dsacker91@university.edu,223-645-9169,Novoye Devyatkino,KY,GR,RADT
+A00573573,Wallis,Bugby,04/10/2001,wbugby92@university.edu,859-956-8328,Arasji,IL,GR,GRAD
+A00331348,Waiter,Hexam,12/12/1999,whexam93@university.edu,846-909-7985,Candi Prambanan,IL,GR,GEOL
+A00720632,Fernande,Harbinson,01/01/1998,fharbinson94@university.edu,856-488-2349,Kambar,FL,SR,ASTR
+A00807877,Constanta,Langabeer,09/19/1998,clangabeer95@university.edu,589-665-6539,Lazaro Cardenas,IL,GR,LIST
+A00697415,Franky,Hartigan,08/10/1999,fhartigan96@university.edu,634-449-9574,Tieremu,WV,SR,LDSP
+A00466897,Rodger,Riggey,01/01/1996,rriggey97@university.edu,741-323-4625,San Antonio de los Baños,WV,GR,PETE
+A00476457,Veradis,Delaney,11/02/1998,vdelaney98@university.edu,794-146-0133,Yashao,GA,JR,PRST
+A00542650,Laurella,Eggleson,12/09/1997,leggleson99@university.edu,139-910-7146,Maha Sarakham,IL,GR,PUBR
+A00144686,Mufi,Heffer,02/22/1995,mheffer9a@university.edu,408-473-1756,Petrovskoye,FL,JR,ENGL
+A00255857,Stanly,Lidgley,03/31/2001,slidgley9b@university.edu,476-639-6531,Kalodzishchy,FL,FR,GEOL
+A00832032,Morton,Riveles,07/26/2001,mriveles9c@university.edu,530-822-4019,Baykonyr,IL,SO,PBRL
+A00455878,Kizzee,Prevett,11/18/1998,kprevett9d@university.edu,806-451-9438,Petung,FL,GR,SCED
+A00862694,Olive,Childerhouse,11/17/2000,ochilderhouse9e@university.edu,786-801-1562,Espanola,TN,GR,STOR
+A00184586,Kiersten,Pfeuffer,06/07/1997,kpfeuffer9f@university.edu,586-404-9946,Detroit,NC,JR,POLS
+A00635050,Tamara,Duffree,02/20/1999,tduffree9g@university.edu,992-500-3794,Outeiro Seco,SC,GR,CDST
+A00322607,Lorilyn,Dowson,12/20/1999,ldowson9h@university.edu,490-256-7950,Dayuanhuizu,LA,GR,MALS
+A00031097,Alberto,Matteau,08/30/2000,amatteau9i@university.edu,922-747-5810,Нераште,GA,SO,ARTA
+A00144064,Aloin,Danielian,08/15/1999,adanielian9j@university.edu,501-617-5612,Podujeva,WV,JR,PRST
+A00214529,Florenza,Showalter,07/31/2002,fshowalter9k@university.edu,615-825-0761,Nggesa,WV,FR,COMM
+A00451487,Oren,Antonov,07/19/2002,oantonov9l@university.edu,985-615-0721,Hor,GA,GR,MSCI
+A00249230,Delly,McColgan,09/05/2000,dmccolgan9m@university.edu,852-448-1692,South River,GA,SR,CJCR
+A00632588,Noah,Kenchington,08/23/2001,nkenchington9n@university.edu,950-986-6093,Bilo,IA,JR,EDUC
+A00667912,Lynda,Moorey,03/05/1997,lmoorey9o@university.edu,826-833-1828,Sūrīān,TN,GR,RADT
+A00043439,Alexine,Lemanu,05/14/2002,alemanu9p@university.edu,491-120-9021,Eirado,VA,SR,HLSC
+A00827356,Greta,Goosey,04/17/1997,ggoosey9q@university.edu,878-111-2917,Gaoqiao,LA,GR,RADT
+A00150164,Abbe,Davsley,07/09/1996,adavsley9r@university.edu,258-150-9314,Karangampel,LA,SR,NTFD
+A00963687,Boot,Pratchett,05/11/1995,bpratchett9s@university.edu,517-792-4385,Kuangshan,VA,SO,CISP
+A00603992,Kalinda,Risborough,10/25/1996,krisborough9t@university.edu,246-216-4635,Mīrpur Māthelo,GA,JR,INFS
+A00168155,Lanny,Ben,06/23/1996,lben9u@university.edu,943-545-2797,Beloye,TN,JR,PHYT
+A00453430,Thorstein,Tune,06/08/1999,ttune9v@university.edu,333-991-6099,Santana do Paraíso,LA,SO,COMP
+A00246710,Chick,Mellon,06/02/1997,cmellon9w@university.edu,167-310-1517,Chadan,SC,JR,HSMP
+A00136971,Zared,Pearsey,12/13/1995,zpearsey9x@university.edu,500-500-1972,Skalat,LA,FR,PETE
+A00260746,Marylin,Yes,11/28/1999,myes9y@university.edu,906-337-8434,Haz-Zebbug,KY,SR,DIGM
+A00623469,Whittaker,Oertzen,01/03/1995,woertzen9z@university.edu,428-806-6445,Shuishiying,KY,FR,PMGT
+A00926170,Hilly,Whitwell,11/30/1998,hwhitwella0@university.edu,744-940-8478,Letlhakane,FL,SO,HIST
+A00812669,Yuri,Collyear,02/18/1999,ycollyeara1@university.edu,804-508-0985,Qinglian,IA,GR,DIGM
+A00433496,Eben,Ochiltree,03/10/1996,eochiltreea2@university.edu,689-875-7068,Yaita,KY,FR,JAPN
+A00914807,Rudy,Scading,05/20/1996,rscadinga3@university.edu,384-312-5693,Jajaway,LA,FR,CRMJ
+A00274744,Ken,Pead,10/27/1995,kpeada4@university.edu,408-908-3832,Kol’chugino,SC,JR,UNIV
+A00829181,Nealson,Atyea,06/27/2000,natyeaa5@university.edu,903-422-3990,Rejoagung,AL,FR,RELI
+A00526629,Giff,Jellis,08/18/1998,gjellisa6@university.edu,772-154-0135,Nanjie,FL,SR,DIGM
+A00478173,Corinna,Kincaid,05/30/2001,ckincaida7@university.edu,141-147-9230,Kradinan,IL,JR,MEDA
+A00430260,Ham,Rivilis,07/21/1999,hrivilisa8@university.edu,366-836-8883,Bolesławiec,LA,JR,BMGT
+A00190923,Alida,Mitchard,01/12/1997,amitcharda9@university.edu,537-786-1391,Huocheng,KY,FR,RTVF
+A00517130,Dill,Canti,03/11/1996,dcantiaa@university.edu,498-751-1352,Bogovinje,TN,JR,COMM
+A00201341,Buckie,Neild,08/15/1996,bneildab@university.edu,714-160-3088,Kilcullen,IA,SR,HUM
+A00407863,Tomlin,Kopecka,04/10/1998,tkopeckaac@university.edu,813-554-8904,Tampa,TN,JR,MRCH
+A00186575,Willa,Dumingos,09/14/1997,wdumingosad@university.edu,241-950-4754,Kiukainen,KY,GR,HSMP
+A00807730,Rosanna,Whal,12/30/2000,rwhalae@university.edu,334-269-3374,Montgomery,LA,JR,ECON
+A00845563,Oralie,Blanket,11/28/1996,oblanketaf@university.edu,225-957-9468,Rogowo,KY,GR,MUS
+A00162824,Elissa,Haydn,07/30/1998,ehaydnag@university.edu,957-209-7233,Dębica,TN,FR,LEAD
+A00930361,Joyous,Origin,01/21/1999,joriginah@university.edu,257-591-6779,Ágios Stéfanos,NC,SO,CUAI
+A00170689,Mil,Tylor,06/28/2000,mtylorai@university.edu,718-620-9436,Kailahun,GA,GR,NRSE
+A00172157,Frankie,Drayson,12/15/2001,fdraysonaj@university.edu,488-958-0937,Šenčur,SC,SR,COUN
+A00788537,Haywood,Varren,11/20/1998,hvarrenak@university.edu,658-630-1579,Nusajaya,AL,FR,FNCE
+A00120222,Aundrea,Griffey,07/16/1997,agriffeyal@university.edu,950-139-6757,Shangzhuang,IA,SR,PMSY
+A00562024,Frans,Graveney,02/25/1995,fgraveneyam@university.edu,201-825-8730,Mérignac,LA,GR,ELPA
+A00530300,Porter,Dally,08/07/1998,pdallyan@university.edu,408-280-4733,Bègles,LA,SO,AGRI
+A00717630,Katina,Traice,06/23/1998,ktraiceao@university.edu,974-491-3591,Néa Ionía,IL,SR,PHSI
+A00759284,Nichols,Shipway,05/28/1996,nshipwayap@university.edu,598-571-5719,Coromandel,WV,SR,PSYC
+A00451957,Yancey,Agerskow,07/18/1998,yagerskowaq@university.edu,575-181-4678,Apalit,KY,SR,HSMP
+A00028470,Elliot,Khadir,11/29/1996,ekhadirar@university.edu,693-933-9394,Graikochóri,KY,GR,DIGM
+A00520885,Mia,Dive,11/04/2000,mdiveas@university.edu,540-541-9796,Tangxi,FL,SO,ARTA
+A00099960,Justine,Zanneli,12/02/2001,jzanneliat@university.edu,893-956-7052,Aotou,IA,GR,PADM
+A00472344,Bat,Ganders,07/20/1998,bgandersau@university.edu,383-148-8170,Hoçisht,LA,SO,PMPR
+A00799886,Brooke,Escritt,03/18/1995,bescrittav@university.edu,979-844-5322,Maromme,TN,JR,ALHE
+A00794799,Marrissa,Adshad,04/02/2000,madshadaw@university.edu,651-280-7592,Xingang,FL,FR,LATN
+A00553459,Harlin,Quirk,06/11/1999,hquirkax@university.edu,637-459-8156,Ekou,WV,GR,UHON
+A00559934,Adi,Garrattley,04/30/1998,agarrattleyay@university.edu,525-760-9071,Zamostochcha,LA,SO,CJA
+A00686847,Berna,Meany,08/14/1998,bmeanyaz@university.edu,763-571-7081,Monticello,LA,JR,HDAL
+A00878661,Madonna,Tournay,03/29/1995,mtournayb0@university.edu,784-204-1699,Bhola,SC,GR,PHYT
+A00680802,Mala,Baggallay,10/19/2002,mbaggallayb1@university.edu,973-643-0567,Chandra,GA,SO,POLS
+A00977670,Lorie,Everest,08/08/2000,leverestb2@university.edu,169-724-3870,Hetou,SC,FR,HSCI
+A00099101,Helga,Purches,05/03/2001,hpurchesb3@university.edu,842-153-2780,Kupchino,VA,JR,BMGT
+A00008219,Son,Ovey,04/16/1995,soveyb4@university.edu,276-348-7759,Gangjia,KY,SO,BIOC
+A00260355,Arlyn,Boorn,04/30/1998,aboornb5@university.edu,740-529-5985,Hutou,VA,GR,MATH
+A00077728,Mavis,Redhole,12/18/1999,mredholeb6@university.edu,151-649-0970,Uppsala,NC,SR,PMSY
+A00905155,Yank,Giacobillo,01/22/1998,ygiacobillob7@university.edu,273-385-1762,Dikwa,LA,FR,PHYT
+A00307694,Abel,Matisse,07/29/1999,amatisseb8@university.edu,371-667-7349,Trollhättan,SC,GR,ENGL
+A00887698,Frederique,McShirie,08/22/2000,fmcshirieb9@university.edu,731-698-8958,Trieste,TN,FR,ECED
+A00354168,Gradeigh,Lumsdale,06/08/1997,glumsdaleba@university.edu,508-525-6739,Huikou,TN,SR,EPID
+A00501291,Davida,Brosnan,02/24/1999,dbrosnanbb@university.edu,508-181-4192,New Bedford,IA,SO,ACCT
+A00506285,Kory,Lourens,04/22/2000,klourensbc@university.edu,445-796-5199,Naguilian,SC,GR,CITC
+A00533023,Giorgio,Whoston,12/09/1996,gwhostonbd@university.edu,161-524-4398,Gritsovskiy,WV,FR,MATH
+A00542571,Nero,Brownlow,01/21/1986,nbrownlowbe@university.edu,820-501-0713,Novotitarovskaya,LA,SR,MICR
+A00031171,Briney,Archanbault,10/26/1998,barchanbaultbf@university.edu,814-396-8080,Sosnovka,SC,SR,HDAL
+A00298894,Rinaldo,Dunsire,08/29/1999,rdunsirebg@university.edu,409-502-8740,Tilburg,IA,SO,CDST
+A00118730,Osmond,Redgrove,06/21/2001,oredgrovebh@university.edu,929-527-5634,Yehud,GA,JR,PHED
+A00706601,Lon,Lamburne,10/12/2002,llamburnebi@university.edu,592-232-9637,Pizhanka,WV,FR,EDUC
+A00677661,Augustine,Forshaw,10/15/2001,aforshawbj@university.edu,209-739-2438,Tyachiv,FL,GR,TELC
+A00248578,Beckie,Costerd,05/25/2002,bcosterdbk@university.edu,547-788-7747,Acton Vale,GA,SR,GERM
+A00663519,Madeline,Cuningham,10/02/1999,mcuninghambl@university.edu,463-612-0802,San Francisco de Yare,GA,GR,HIST
+A00051667,Payton,Dennis,08/01/1995,pdennisbm@university.edu,737-906-3306,San Juan Bautista,AL,SR,MEDA
+A00262397,Heddi,Rodd,04/11/1996,hroddbn@university.edu,979-277-7230,Daqian,LA,SO,HSC
+A00436895,Foster,Ambrogi,01/10/2002,fambrogibo@university.edu,375-292-3545,Sutton,KY,SO,GEOL
+A00501443,Salomi,Hinkley,10/04/1997,shinkleybp@university.edu,494-355-4835,Sertânia,GA,SR,RHSC
+A00177665,Angelico,Sandison,12/28/1996,asandisonbq@university.edu,945-263-1169,Zhongxin,IA,SO,GEOG
+A00890611,Barry,Tween,10/26/2002,btweenbr@university.edu,689-889-4581,La Huerta,TN,JR,HIMT
+A00304415,Shirl,Dalligan,01/25/1998,sdalliganbs@university.edu,895-373-9344,Beiguoyuan,GA,FR,EPID
+A00704696,Caz,Bergstram,12/06/1998,cbergstrambt@university.edu,126-636-3503,Pontevedra,FL,FR,SPAN
+A00459759,Pegeen,Varns,02/05/1998,pvarnsbu@university.edu,415-239-5436,Quillota,LA,GR,BMGT
+A00674065,Micki,Lorkin,09/18/1999,mlorkinbv@university.edu,334-694-6004,Uglich,IA,GR,SWRK
+A00223326,Dominique,Sarre,04/28/1996,dsarrebw@university.edu,960-591-7799,Bhamo,FL,JR,TEAS
+A00770109,Pascal,Snepp,12/08/2001,psneppbx@university.edu,383-212-4030,Margherita,AL,SO,NRSE
+A00195931,Zacharie,Beedle,04/22/1996,zbeedleby@university.edu,292-827-5159,Radashkovichy,AL,SO,MSDM
+A00300575,Fanchon,Kiely,04/26/2002,fkielybz@university.edu,950-886-4946,Bécancour,IA,JR,BLUE
+A00296234,Michel,Egarr,11/07/2000,megarrc0@university.edu,596-747-7384,Oussivo,LA,SO,PRST
+A00762617,Hollie,Breffitt,02/12/2002,hbreffittc1@university.edu,839-338-7977,Samboan,IA,SR,PSY
+A00690183,Elle,Teall,06/27/1997,eteallc2@university.edu,127-274-1066,Luklukan,IL,FR,PHED
+A00252283,Allard,Rodear,10/26/2001,arodearc3@university.edu,618-387-5029,Zhongjiapu,IA,SO,HPSS
+A00026005,Sean,Dobey,01/30/1998,sdobeyc4@university.edu,642-482-1715,København,AL,GR,PHAR
+A00688613,Joela,Boissieux,09/27/1995,jboissieuxc5@university.edu,338-194-3833,El Progreso,FL,JR,SOCI
+A00204099,Leona,Bretherton,11/27/2002,lbrethertonc6@university.edu,382-556-5689,Selebi-Phikwe,VA,JR,HSRV
+A00432336,Godiva,Vicker,06/16/1999,gvickerc7@university.edu,546-868-5574,Alfenas,NC,FR,AMBA
+A00416509,Florinda,Tong,04/05/1997,ftongc8@university.edu,562-779-2264,Qingban,FL,SR,LEAD
+A00710709,Huntington,Yuryaev,01/25/2000,hyuryaevc9@university.edu,513-599-4157,Gazojak,IA,SO,GRAD
+A00774849,Elonore,McCamish,08/13/1997,emccamishca@university.edu,918-906-4148,Longhe,FL,GR,CEE
+A00441292,Franz,McAlester,04/14/2000,fmcalestercb@university.edu,745-618-6946,Ciudad Darío,VA,SO,MRCH
+A00151170,Rabi,Wilcox,03/03/2002,rwilcoxcc@university.edu,145-800-4472,Pamplona/Iruña,KY,JR,PHED
+A00973092,Nikolaus,Pashley,12/16/1997,npashleycd@university.edu,973-628-4199,Eusébio,IL,SO,BMGT
+A00657578,Arvin,Simchenko,05/01/1999,asimchenkoce@university.edu,636-893-2408,Aso,TN,SO,BIOM
+A00671008,Glenn,Bullick,06/13/2001,gbullickcf@university.edu,687-544-8069,Payabon,FL,JR,PHSI
+A00109778,Ingaberg,Town,02/14/2001,itowncg@university.edu,622-778-5615,Saripin,AL,SR,GERM
+A00303161,Carlin,Hanner,06/10/2002,channerch@university.edu,133-652-4205,Gabès,TN,SR,PHAR
+A00996710,Karee,Santhouse,09/22/1999,ksanthouseci@university.edu,658-977-9275,Tadabliro,GA,JR,FNCE
+A00689195,Katlin,Hullock,01/13/2002,khullockcj@university.edu,595-253-3918,Jingouhe,NC,FR,CUAI
+A00093324,Bentley,Lowater,04/06/1999,blowaterck@university.edu,660-601-0400,Sanjiang,NC,GR,RHSC
+A00661090,Eolanda,Lambot,05/23/1999,elambotcl@university.edu,167-155-1908,Upton,VA,FR,BUSN
+A00613765,Kendal,Guard,08/04/2000,kguardcm@university.edu,922-741-4127,Loyola,KY,FR,MUSC
+A00600989,Andeee,Dinsey,05/19/1999,adinseycn@university.edu,669-186-0424,Glad,WV,SO,LATN
+A00034220,Katharina,Kentwell,12/12/1996,kkentwellco@university.edu,139-227-4617,Dazhigu,FL,FR,ART
+A00875754,Liz,Brahmer,08/13/1997,lbrahmercp@university.edu,642-248-7415,Pasarbaru,SC,SO,SWRK
+A00336410,Malchy,Kingzett,12/28/2000,mkingzettcq@university.edu,301-666-0082,Jiangkou,AL,SR,TECH
+A00703535,Darcy,Bellanger,08/02/2002,dbellangercr@university.edu,989-876-3952,Emiliano Zapata,KY,GR,CHEM
+A00176964,Monroe,Storry,10/30/1999,mstorrycs@university.edu,571-874-3474,Rzhev,WV,JR,HDAL
+A00492073,Tabbatha,Stiger,09/15/1997,tstigerct@university.edu,522-929-3445,Now Zād,SC,SR,PREH
+A00109811,Otho,Limprecht,12/31/1995,olimprechtcu@university.edu,255-994-8007,Arcena Pequena,IL,FR,RADT
+A00414385,Giorgio,Olohan,03/14/1999,golohancv@university.edu,642-454-1981,Liebu,LA,SO,MICR
+A00401607,Gradey,Rikkard,07/17/2000,grikkardcw@university.edu,844-771-8978,Yuanqiao,TN,SR,ET
+A00446870,Ole,Forsard,08/23/2000,oforsardcx@university.edu,288-879-5055,Mihara,IA,JR,ANTH
+A00615640,Otho,Worgan,12/09/1997,oworgancy@university.edu,512-255-0536,Austin,TN,GR,THEA
+A00232406,Karole,Toovey,01/15/1995,ktooveycz@university.edu,954-104-0679,Tarīm,KY,JR,GREK
+A00875626,Giacopo,Creavan,04/29/2000,gcreavand0@university.edu,793-989-8970,Lanas,VA,JR,PHSI
+A00906082,Marrissa,Buxton,07/30/1998,mbuxtond1@university.edu,744-231-7187,Borås,WV,SO,BUSN
+A00226945,Ulick,Warhurst,12/12/1997,uwarhurstd2@university.edu,635-725-0305,Stockholm,KY,SR,HSMP
+A00892073,Pinchas,Libbie,06/22/2001,plibbied3@university.edu,419-534-1125,Daqian,SC,SR,HIST
+A00571361,Huntington,Leaming,12/05/2001,hleamingd4@university.edu,831-829-6090,Quintã,VA,FR,MGMT
+A00417014,Analiese,Gamett,12/20/1995,agamettd5@university.edu,137-443-2886,Veliki Preslav,NC,GR,BLUE
+A00935183,Alberik,Moodie,04/05/1999,amoodied6@university.edu,519-197-2746,Odiong,SC,SR,PTMA
+A00042045,Vidovic,Matthensen,01/12/2000,vmatthensend7@university.edu,969-693-6178,Badong,IA,FR,EPID
+A00289066,Vally,Rushbury,09/27/2001,vrushburyd8@university.edu,531-246-7784,Bålsta,AL,SR,HPSS
+A00749258,Octavius,Sparks,11/11/2000,osparksd9@university.edu,370-798-0236,Cachoeirinha,WV,GR,LIST
+A00033851,Anett,Rickesies,05/02/2000,arickesiesda@university.edu,895-636-1486,Pilar,FL,GR,SW
+A00871978,Selby,Bowick,03/05/1997,sbowickdb@university.edu,459-502-5375,Ormstown,VA,FR,EDFN
+A00035442,Fabian,Simononsky,03/03/1999,fsimononskydc@university.edu,591-668-4044,Thị Trấn Tủa Chùa,AL,SO,SOWK
+A00980864,Hildagard,Bilverstone,05/24/1995,hbilverstonedd@university.edu,908-546-7231,Dedza,VA,SR,UHON
+A00405581,Marillin,Hirtzmann,08/13/1999,mhirtzmannde@university.edu,216-831-5899,Caotang,LA,GR,MEDA
+A00806691,Shermy,Streak,01/21/1996,sstreakdf@university.edu,910-428-6809,Josefův Důl,GA,GR,PEXS
+A00542889,Sheila,Francillo,12/27/1998,sfrancillodg@university.edu,595-858-5557,Sukakarya,SC,GR,ACCT
+A00590644,Monah,Sedgeman,05/02/1998,msedgemandh@university.edu,207-459-3534,Jepat Kidul,NC,SO,PEXS
+A00525021,Bert,McEniry,12/20/2002,bmcenirydi@university.edu,847-901-6011,Shaykh al Ḩadīd,IL,FR,CDST
+A00451733,Travers,Raigatt,10/30/1999,traigattdj@university.edu,511-306-3285,Mértola,WV,GR,SPED
+A00628377,Arte,Cullinan,12/06/1996,acullinandk@university.edu,617-482-5300,Budapest,TN,FR,MALS
+A00899338,Bruce,Gunther,03/22/1998,bguntherdl@university.edu,217-324-8288,Nunmanu,TN,FR,WEBT
+A00337184,Silvanus,Filchagin,05/03/2001,sfilchagindm@university.edu,832-512-4759,Otaslavice,SC,FR,HUM
+A00150668,Rozelle,MacKean,10/09/2001,rmackeandn@university.edu,402-369-8797,Omaha,VA,JR,AVST
+A00449931,Valli,Giacobbo,07/09/1995,vgiacobbodo@university.edu,554-857-7388,Saronída,KY,SO,RHSC
+A00390134,Aubrie,Ravenscraft,05/14/1999,aravenscraftdp@university.edu,135-909-8970,Tupaciguara,NC,GR,EDAD
+A00028322,Ciro,Vivians,10/10/2002,cviviansdq@university.edu,373-923-3355,Novyy Svit,AL,JR,GSLD
+A00858490,Isabella,Berney,09/08/2002,iberneydr@university.edu,511-523-7951,Nong Hin,WV,SR,AGRI
+A00093710,Guillemette,Ambrosi,06/14/2001,gambrosids@university.edu,974-821-0944,La Concepcion,NC,GR,PHYT
+A00744143,Brittne,Christauffour,06/29/2001,bchristauffourdt@university.edu,971-833-5533,Huaqiao,FL,GR,PM
+A00153528,Sherline,Tatchell,12/12/1996,statchelldu@university.edu,550-634-3874,Ouésso,WV,GR,ART
+A00567157,Wandie,Lambotin,11/29/1995,wlambotindv@university.edu,706-418-7883,Ligang,NC,SO,HPSS
+A00065445,Caresa,Agott,10/22/1998,cagottdw@university.edu,245-501-6473,Cisasak,AL,FR,FREN
+A00877758,Melissa,Culleford,12/31/2001,mculleforddx@university.edu,508-425-9754,Santo Antônio da Platina,SC,FR,BADM
+A00930915,Otes,Ruggiero,06/19/2002,oruggierody@university.edu,286-702-7225,Tartu,LA,SO,COBH
+A00017868,Kristina,Candie,12/30/1995,kcandiedz@university.edu,961-471-7772,Kuroda,WV,JR,BADM
+A00416056,Corrie,Aldcorne,12/07/1997,caldcornee0@university.edu,517-225-7617,Solomenskoye,FL,SO,AMBA
+A00464900,Thoma,Furber,04/29/1998,tfurbere1@university.edu,805-341-9049,San Lucas Sacatepéquez,LA,GR,PSY
+A00172899,Evangelina,Limming,02/23/2002,elimminge2@university.edu,814-978-6257,Koíla,LA,JR,BLUE
+A00469400,Shell,Parlor,06/22/2000,sparlore3@university.edu,366-887-2675,Shkodër,FL,SR,PTMA
+A00228906,Elisabet,Faircley,01/14/1996,efaircleye4@university.edu,746-969-4390,Izborsk,NC,FR,ASLC
+A00547719,Lianna,Clinnick,07/26/1999,lclinnicke5@university.edu,162-181-0167,Chingas,SC,JR,SPED
+A00132001,Shirl,Sidden,06/15/1997,ssiddene6@university.edu,149-464-0720,Honkajoki,TN,FR,GEOL
+A00990463,Teressa,Dowrey,07/30/1995,tdowreye7@university.edu,496-283-7170,Iperó,FL,FR,SURV
+A00864055,Sib,McWaters,06/26/2002,smcwaterse8@university.edu,918-749-2796,Villa Nueva,SC,SR,COM
+A00525220,Yettie,Petru,11/11/1995,ypetrue9@university.edu,780-803-2232,Culianin,IA,SO,ADVR
+A00706432,Josey,Jenson,08/06/2000,jjensonea@university.edu,845-587-6913,Évry,NC,FR,SURV
+A00943120,Mason,Polino,04/22/1995,mpolinoeb@university.edu,687-250-5925,Luts’k,VA,SO,HSC
+A00350393,Aeriell,Guerro,11/17/1997,aguerroec@university.edu,830-600-8349,Guadalupe,SC,SR,AGRI
+A00257119,Audi,Gillbanks,12/15/2001,agillbanksed@university.edu,718-826-2225,Fale old settlement,GA,JR,JRSM
+A00977220,Menard,Mateus,05/03/1995,mmateusee@university.edu,986-714-3809,Dongwan,GA,GR,CPSC
+A00504169,Carr,Mangin,05/31/1996,cmanginef@university.edu,178-979-9049,Khinjān,NC,SO,ARTH
+A00095516,Amitie,Gibb,09/27/1998,agibbeg@university.edu,777-863-0763,Kyriáki,VA,SO,ACCT
+A00416012,Jonathan,St. Hill,01/07/1997,jsthilleh@university.edu,740-810-0848,Bachowice,AL,FR,ANTH
+A00391084,Trev,Fuentez,04/16/1995,tfuentezei@university.edu,553-157-4917,Byczyna,IA,SR,AMBA
+A00528448,Eba,De Bernardis,06/28/1999,edebernardisej@university.edu,285-957-7915,Genting,VA,SR,PMGT
+A00111124,Jobina,Brelsford,10/25/1998,jbrelsfordek@university.edu,280-388-9264,Orikhiv,NC,FR,WEBT
+A00347819,Winnifred,Sarfatti,04/16/1996,wsarfattiel@university.edu,947-134-2748,Chelbasskaya,IL,FR,ENTC
+A00769697,Renie,Phare,06/29/2000,rphareem@university.edu,658-723-5397,Tulungagung,FL,GR,NRSE
+A00009232,Delora,Thresher,05/27/1995,dthresheren@university.edu,941-654-0766,Dār an Naşr,AL,GR,JOUR
+A00274946,Shena,Lawdham,02/05/1995,slawdhameo@university.edu,705-730-0024,Franco da Rocha,AL,GR,MATH
+A00494349,Meridith,Flori,09/09/1995,mfloriep@university.edu,916-562-9782,Hekinan,NC,SR,LEAD
+A00892040,Leena,Patton,02/21/1997,lpattoneq@university.edu,197-681-6520,Radojevo,IL,JR,GSLD
+A00614229,Trefor,West,03/21/2000,twester@university.edu,305-465-5696,Kapshagay,NC,SR,CITC
+A00042978,Joline,Bettenson,03/23/1997,jbettensones@university.edu,762-611-3625,Jijiazhuang,LA,SR,ME
+A00588038,Ogden,Henrys,01/20/2000,ohenryset@university.edu,686-793-1731,Xicheng,LA,FR,PSCI
+A00281983,Zebadiah,Koppe,08/03/2002,zkoppeeu@university.edu,318-280-1345,Koa,WV,FR,DIGM
+A00233693,Rosemonde,Rushbury,03/05/2000,rrushburyev@university.edu,986-108-9925,Bataiporã,IL,FR,PBRL
+A00575190,Richie,Riste,04/24/1997,rristeew@university.edu,799-552-0030,Sidomulyo,WV,FR,PADM
+A00170613,Ken,Crookshank,05/11/2001,kcrookshankex@university.edu,801-658-6133,Ogden,IA,FR,GSLD
+A00504736,Marjy,Spanswick,02/12/1997,mspanswickey@university.edu,652-488-5781,Atok,WV,FR,UHON
+A00692604,Tine,Skirrow,10/24/1998,tskirrowez@university.edu,738-364-3544,San Antonio,KY,GR,ELPA
+A00814091,Rouvin,Lamort,08/02/1995,rlamortf0@university.edu,980-285-2800,Paris 06,VA,FR,APST
+A00291169,Annabell,Bikker,05/23/1996,abikkerf1@university.edu,281-110-1512,Amarillo,SC,JR,CDST
+A00518048,Fanechka,Niece,08/17/2001,fniecef2@university.edu,757-160-9093,Dzhebariki-Khaya,SC,GR,PTMA
+A00718654,Corinne,Esel,10/07/2001,ceself3@university.edu,434-757-0060,Fagatogo,WV,SR,EDUC
+A00141721,Far,Bellefant,02/03/1995,fbellefantf4@university.edu,703-520-3767,Kryevidh,IA,SR,TECH
+A00693920,Enrica,Capon,10/01/2001,ecaponf5@university.edu,197-585-5957,Senador Canedo,FL,FR,HSCI
+A00796727,Shandie,Monkley,03/30/1995,smonkleyf6@university.edu,410-173-7997,Maintang,IL,GR,ECE
+A00679720,Saw,Moulson,10/20/1996,smoulsonf7@university.edu,540-841-9213,Kuniran,GA,SO,MALS
+A00164507,Shawn,Jantet,12/18/2000,sjantetf8@university.edu,418-904-5960,Teresópolis,WV,JR,MSCI
+A00446459,Shandee,Quinion,02/14/1997,squinionf9@university.edu,717-282-9587,Harrisburg,IA,FR,TECH
+A00656977,Christopher,Vell,11/14/1998,cvellfa@university.edu,304-109-2969,Charleston,NC,GR,BIOC
+A00304937,Fallon,Tothacot,04/28/1997,ftothacotfb@university.edu,737-860-0318,Vlachovice,GA,FR,TECH
+A00442623,Nora,Ternouth,06/16/2000,nternouthfc@university.edu,516-578-9295,Novoye Devyatkino,GA,SR,MGMT
+A00731273,Juieta,Mullin,08/26/2001,jmullinfd@university.edu,625-646-5612,Volodarsk,KY,GR,COM
+A00312539,Dory,Sindle,07/26/1997,dsindlefe@university.edu,893-613-9779,Fengyuan,FL,GR,LATN
+A00071085,Alisun,Leese,11/07/1998,aleeseff@university.edu,723-688-6371,Ourinhos,SC,FR,GSLD
+A00097877,Paula,de Zamora,06/17/1999,pdezamorafg@university.edu,442-777-2064,Jiayuguan,KY,JR,BIOC
+A00593535,Adelheid,Sunley,01/23/2000,asunleyfh@university.edu,653-895-7792,Mahanoro,VA,JR,ADVR
+A00086808,Kally,Mathewson,07/29/2001,kmathewsonfi@university.edu,599-913-9226,Mel’nikovo,KY,SO,ELPA
+A00511621,Mychal,Limbourne,12/26/1996,mlimbournefj@university.edu,908-416-4410,Songea,FL,GR,GEOG
+A00305283,Pepillo,Orrick,01/10/1995,porrickfk@university.edu,428-375-7686,Falun,IL,FR,CEE
+A00273143,Antonius,Dewhurst,12/23/1996,adewhurstfl@university.edu,112-114-4182,Anggana,TN,GR,COUN
+A00907148,Lindsay,Pleven,01/15/1999,lplevenfm@university.edu,471-629-0042,Qiantang,WV,FR,ENGR
+A00620671,Kelsy,Villar,10/18/1995,kvillarfn@university.edu,439-612-6088,Osasco,NC,SO,UHON
+A00424660,Rachael,Calafato,12/14/1997,rcalafatofo@university.edu,857-451-8376,Gudang,NC,SO,MALS
+A00825581,Starlene,Gockelen,06/04/2002,sgockelenfp@university.edu,503-999-9293,Bela-Bela,SC,JR,PMPR
+A00293703,Hurley,Carruthers,11/22/1995,hcarruthersfq@university.edu,209-773-7144,Bicas,IL,SO,GSLD
+A00258704,Christan,Ruoff,02/20/1999,cruofffr@university.edu,621-537-2670,Lelekovice,IL,JR,ACCT
+A00599910,Gualterio,Ireson,01/24/1998,giresonfs@university.edu,887-799-8972,Sridadi,VA,JR,CPSC
+A00556796,Eldridge,Sherlock,04/10/2002,esherlockft@university.edu,211-499-1973,Casa Nova,LA,GR,COMM
+A00540427,Bert,Hasell,03/18/1995,bhasellfu@university.edu,934-290-2846,Florida,IA,FR,CDIS
+A00304034,Cynde,Struttman,07/04/2001,cstruttmanfv@university.edu,740-749-5467,Rouen,SC,SO,PMSY
+A00391944,Karalynn,Waudby,02/26/2000,kwaudbyfw@university.edu,621-945-3755,Turgun,TN,SO,PHIL
+A00538950,Elmer,Noon,06/06/1995,enoonfx@university.edu,762-167-9079,Novopavlovsk,IA,SR,GEOS
+A00091595,Martynne,Shambrook,02/20/1996,mshambrookfy@university.edu,406-922-4329,Gävle,SC,SO,TEAE
+A00444650,Fredrick,Chanson,10/17/1995,fchansonfz@university.edu,814-314-3781,Laoqiao,GA,FR,CJA
+A00663000,Stacee,Reardon,05/23/1998,sreardong0@university.edu,763-117-2431,Longnan,SC,GR,ECE
+A00194197,Maurise,Azam,07/17/1998,mazamg1@university.edu,903-846-6497,Mýrina,LA,FR,ADVR
+A00370404,Jaquenette,Klas,03/06/1998,jklasg2@university.edu,755-355-8176,Nevinnomyssk,NC,JR,HDAL
+A00452128,Lowe,Rosenqvist,10/21/1999,lrosenqvistg3@university.edu,723-182-2746,Baytā al Fawqā,KY,JR,PHAR
+A00443279,Deane,Szanto,09/06/2001,dszantog4@university.edu,237-104-0697,Robonkon,IL,SO,ENGL
+A00876421,Allegra,Givens,03/25/1997,agivensg5@university.edu,442-148-0746,Yihe,TN,SO,CJA
+A00078782,Pancho,O'Lenechan,01/28/2001,polenechang6@university.edu,238-149-5039,Viçosa,AL,GR,TECH
+A00789684,Killy,McLardie,07/02/1995,kmclardieg7@university.edu,273-824-8396,Zhongguan,NC,SR,ELED
+A00692885,Jocelin,Bowcher,03/16/1997,jbowcherg8@university.edu,905-554-1130,Binuangeun,SC,SR,EDU
+A00263842,Nessie,Siddall,10/02/2000,nsiddallg9@university.edu,873-582-0960,Babiak,GA,FR,GSLD
+A00084499,Lorelei,Donaher,08/31/1998,ldonaherga@university.edu,879-317-3005,San Rafael,GA,GR,SCED
+A00330283,Stacia,Reason,06/15/2001,sreasongb@university.edu,913-528-8034,Cayenne,KY,SO,COBH
+A00305040,Marleen,Farrants,01/05/2001,mfarrantsgc@university.edu,851-661-4605,Guoxiang,AL,FR,CBAT
+A00253015,Fredi,Vlasyev,12/09/1996,fvlasyevgd@university.edu,656-616-8082,Kidangbang,IL,JR,ENGR
+A00644256,Novelia,Wolfenden,07/15/2000,nwolfendenge@university.edu,670-964-8718,Pingqiao,LA,FR,READ
+A00954091,Tressa,Gawen,07/23/1998,tgawengf@university.edu,621-393-7481,Griboyedov,SC,JR,BIOC
+A00296461,Lenette,Routledge,03/26/1995,lroutledgegg@university.edu,671-880-1317,Wanju,GA,GR,ART
+A00157682,Shurlock,Keymer,05/22/2002,skeymergh@university.edu,800-254-0786,Dongming,KY,JR,SOWK
+A00304669,Chilton,Kitchener,02/11/2000,ckitchenergi@university.edu,531-416-7812,Tireman Timur,FL,FR,CEE
+A00019170,Georgina,Osbidston,02/29/2000,gosbidstongj@university.edu,234-883-9682,Santa Bernardina,FL,SO,ART
+A00960902,Brandais,Cicco,06/23/1995,bciccogk@university.edu,568-185-7362,Brakas,GA,JR,RELI
+A00558050,Barnett,Tumilson,12/25/1997,btumilsongl@university.edu,513-511-2574,Kolsh,SC,GR,MDT
+A00340502,Jo-ann,Dufaur,08/17/2002,jdufaurgm@university.edu,545-376-1590,Huibu,IL,GR,ACCT
+A00917097,Peirce,Wilding,02/28/2001,pwildinggn@university.edu,254-859-6319,Ribeirão Preto,IA,SR,COUN
+A00134860,Juan,Bedder,01/28/1998,jbeddergo@university.edu,907-374-2866,Masaguisi,KY,GR,HSMP
+A00991375,Lydie,Soughton,02/18/1996,lsoughtongp@university.edu,112-502-2551,Cotabato,GA,GR,BMGT
+A00170450,Orv,Pealing,01/24/2001,opealinggq@university.edu,461-936-1526,Miaoxi,AL,FR,HSCI
+A00366007,Marissa,Gherardini,04/02/1997,mgherardinigr@university.edu,179-169-4883,Thị Trấn Mường Khến,LA,FR,GEOL
+A00005069,Ozzie,Salmon,01/24/2001,osalmongs@university.edu,695-614-9087,Azacualpa,VA,SO,UHON
+A00787391,Shalom,Lawleff,01/26/1997,slawleffgt@university.edu,814-878-2946,Concordia,NC,FR,HDAL
+A00734125,Skip,Loude,03/18/2001,sloudegu@university.edu,845-356-0411,Oslo,GA,JR,PHED
+A00972223,Mable,Sturdey,11/26/2002,msturdeygv@university.edu,694-402-2465,Zhaowu,GA,FR,BLUE
+A00642497,Briant,Le Guin,05/08/1998,bleguingw@university.edu,677-246-9248,Vila Ribeiro,FL,GR,EXCH
+A00417372,Valle,MacCarroll,06/26/2001,vmaccarrollgx@university.edu,458-886-7203,Dacun,WV,SR,DANC
+A00175354,Lorenza,Govenlock,12/03/1997,lgovenlockgy@university.edu,946-286-6969,Hongsi,NC,FR,JRSM
+A00357824,Isa,Oldale,12/09/1999,ioldalegz@university.edu,300-367-0870,Seremban,GA,FR,INFS
+A00964354,Rowen,Ansell,06/13/2001,ransellh0@university.edu,203-423-5791,Kedungsumurkrajan,KY,SR,AGRI
+A00972912,Gerry,Greensite,01/24/1995,ggreensiteh1@university.edu,339-388-6236,Gryaznovskoye,TN,GR,CBAT
+A00076660,Sayers,Ingerith,08/09/1996,singerithh2@university.edu,820-358-9825,Caluquembe,NC,GR,AMBA
+A00688960,Pryce,Bleier,10/15/1995,pbleierh3@university.edu,489-496-3346,Koronowo,TN,SR,PUBR
+A00063899,Hayley,Boldry,02/05/1995,hboldryh4@university.edu,561-571-1212,Cergy-Pontoise,IA,FR,CJA
+A00980618,Nicholle,Chalfont,04/24/1995,nchalfonth5@university.edu,482-428-8663,Kafr ad Dīk,VA,SO,ARTH
+A00487249,Rand,Petrescu,01/28/1998,rpetrescuh6@university.edu,137-563-0177,Bolhos,VA,FR,AVST
+A00036627,Aaren,Colter,03/01/1995,acolterh7@university.edu,282-318-3075,Luxor,TN,JR,CISP
+A00664746,Darice,Docherty,02/01/1999,ddochertyh8@university.edu,535-764-8229,Sukhobezvodnoye,WV,JR,GEOG
+A00193451,Caleb,Shales,12/23/2002,cshalesh9@university.edu,646-495-7917,Núi Sập,AL,GR,DHYG
+A00420358,Franky,Ollarenshaw,05/30/1997,follarenshawha@university.edu,359-167-0340,Serrinha,WV,SR,TECH
+A00098704,Poppy,Jagielski,07/16/1997,pjagielskihb@university.edu,443-798-6167,Oslo,AL,SR,CJCR
+A00231936,Jeane,Raphael,05/30/2001,jraphaelhc@university.edu,565-432-8870,Olofström,SC,SR,TELC
+A00747965,Maddie,Mepham,03/29/1997,mmephamhd@university.edu,143-390-2549,Buan,FL,GR,CSCI
+A00682846,Prissie,McGaughie,12/18/1996,pmcgaughiehe@university.edu,496-412-7458,Ganxi,GA,SR,JAPN
+A00115797,Zackariah,Reames,09/28/1998,zreameshf@university.edu,565-757-7242,Pereiros,SC,FR,CUAI
+A00031495,Sandor,Cleaveland,05/28/1995,scleavelandhg@university.edu,492-702-7017,Al Wāsiţah,FL,SR,ME
+A00542221,Orly,Bullier,02/17/1996,obullierhh@university.edu,803-108-7927,Yataity del Norte,LA,FR,PSYC
+A00611032,Ximenes,Skates,10/27/2000,xskateshi@university.edu,929-550-2826,Neochóri,NC,SO,ACCT
+A00035278,Ortensia,Raveau,09/11/1995,oraveauhj@university.edu,677-358-5147,Ituberá,NC,GR,PMPR
+A00053436,Rossy,VanBrugh,05/05/1999,rvanbrughhk@university.edu,576-180-7567,Phichit,VA,SO,BADM
+A00861253,Corbin,Delgadillo,11/05/1995,cdelgadillohl@university.edu,273-627-3863,Tembau,IL,JR,MGMT
+A00347409,Sherwood,Cullerne,06/01/2002,scullernehm@university.edu,298-827-1577,Qingu,TN,GR,PHYS
+A00871141,Linea,Almack,10/16/2001,lalmackhn@university.edu,212-663-4390,Datong,VA,FR,MUSC
+A00087926,Patrice,Westmarland,12/25/2002,pwestmarlandho@university.edu,741-971-8858,Quzhou,IL,JR,GSLD
+A00937124,Kimble,Croll,01/03/1999,kcrollhp@university.edu,262-453-5910,Heshui,WV,JR,HSCI
+A00737160,Thibaud,Youens,06/09/1998,tyouenshq@university.edu,365-905-4909,Verkhnye Syn’ovydne,LA,SR,HIST
+A00087444,Tootsie,MacDearmaid,12/26/1989,tmacdearmaidhr@university.edu,100-215-5401,Ínfias,TN,SO,HSCI
+A00222464,Friedrich,Cissell,11/10/2000,fcissellhs@university.edu,148-125-5432,Shashi,FL,JR,SOCI
+A00972430,Guillema,Stonham,05/06/1995,gstonhamht@university.edu,529-463-2422,Hedong,TN,JR,ASLC
+A00631378,Adolphus,Halgarth,04/12/1996,ahalgarthhu@university.edu,953-607-9240,Plaški,LA,SO,ECON
+A00821684,Mandi,Prichard,09/30/2002,mprichardhv@university.edu,629-854-2547,Magoúla,IA,FR,ECED
+A00986096,Evangelia,Mallion,07/30/1997,emallionhw@university.edu,499-538-5353,Stockholm,KY,FR,COMM
+A00527991,Salvador,Blunkett,07/08/1998,sblunketthx@university.edu,624-598-8015,Belköl,FL,SR,DANC
+A00845955,Andreana,Roberson,08/10/1995,arobersonhy@university.edu,407-410-1675,Winter Haven,SC,FR,DANC
+A00567454,Constantine,Lies,06/10/1995,clieshz@university.edu,679-359-2795,La Roche-sur-Yon,NC,FR,DIGM
+A00802601,Thurstan,Hallgath,04/30/1998,thallgathi0@university.edu,581-690-9445,Biao,AL,JR,RELI
+A00488687,Gabe,Jancso,06/15/2000,gjancsoi1@university.edu,335-897-8397,Carreira,SC,SO,FNCE
+A00103738,Rex,Stelfox,02/26/1998,rstelfoxi2@university.edu,162-608-2100,Guatraché,IL,JR,ENGR
+A00492110,Shawnee,Spensley,11/20/2002,sspensleyi3@university.edu,419-864-4663,Cikendi,AL,SR,SALM
+A00027303,Schuyler,Wasmuth,05/31/1999,swasmuthi4@university.edu,480-215-0436,Cruzeiro,VA,FR,EDFN
+A00157560,Grata,Heavy,03/31/1995,gheavyi5@university.edu,606-831-8105,Altos,LA,SR,NTFD
+A00425530,Tracey,Kimm,08/23/1999,tkimmi6@university.edu,353-591-4203,Ciénega,VA,SR,CDIS
+A00281414,Joannes,Bettington,09/18/2000,jbettingtoni7@university.edu,588-584-4405,Babakanjaya,VA,JR,LANG
+A00744287,Finley,Prazor,02/13/2001,fprazori8@university.edu,597-785-8096,Buena Vista,IA,FR,PSYC
+A00621069,Ray,Esom,11/19/2002,resomi9@university.edu,362-825-7006,Baykonyr,IA,SR,PHAR
+A00976346,Jonathan,Monte,02/02/2000,jmonteia@university.edu,883-195-0438,Krajan Kidul Rojopolo,IA,JR,INTD
+A00794572,Windy,MacKenzie,11/03/1996,wmackenzieib@university.edu,316-992-7107,Gande,FL,JR,APST
+A00016678,Rianon,Lipman,03/07/2001,rlipmanic@university.edu,101-938-6145,Myronivka,VA,SR,HIST
+A00249637,Ilyssa,Restall,03/17/1995,irestallid@university.edu,164-653-9856,Huangzhou,LA,JR,GREK
+A00391832,Electra,Drever,11/05/2001,edreverie@university.edu,801-453-9606,Bobowa,NC,SO,JRSM
+A00464207,Laney,Wyson,01/03/1998,lwysonif@university.edu,637-608-7769,Lacombe,FL,GR,PADM
+A00922655,Evania,Lamplough,07/25/1999,elamploughig@university.edu,941-694-7206,Provins,SC,SR,INTD
+A00761671,Darin,Loverock,07/21/1999,dloverockih@university.edu,340-663-4959,Jiuxi,IA,FR,PUBR
+A00555202,Abbot,Trapp,12/13/1999,atrappii@university.edu,245-985-7222,Vasilikón,NC,SR,EPID
+A00548829,Joann,Allsworth,04/22/2000,jallsworthij@university.edu,742-952-0231,Veisiejai,LA,JR,NRSE
+A00453185,Thurston,MacCambridge,10/10/2001,tmaccambridgeik@university.edu,853-729-8770,Huikou,FL,JR,BLUE
+A00019234,Dwayne,Russell,09/19/2002,drussellil@university.edu,864-305-6723,Vasyl'evsky Ostrov,LA,GR,RHSC
+A00320788,Archibold,Airy,09/08/2001,aairyim@university.edu,100-857-8970,Mikstat,TN,JR,EDAD
+A00173662,Christoph,Moller,01/23/1999,cmollerin@university.edu,442-614-8623,Changping,TN,GR,MCOM
+A00759128,Olympe,Walder,01/31/1998,owalderio@university.edu,488-333-6207,Miraflores,GA,FR,BIOL
+A00576252,Rouvin,Creddon,12/27/1998,rcreddonip@university.edu,466-295-1174,Bretaña,SC,SO,BIOL
+A00272635,Torrin,Ashbridge,06/25/1999,tashbridgeiq@university.edu,468-484-2377,Nazaré da Mata,IA,SR,JAPN
+A00726449,Ailee,Haslock,01/18/1999,ahaslockir@university.edu,976-626-4348,Beiyang,WV,JR,HIMT
+A00728465,Krisha,Menlow,07/12/1996,kmenlowis@university.edu,431-341-0103,Borgholm,IA,SO,GRAD
+A00042496,Selig,Wilton,02/01/2000,swiltonit@university.edu,249-341-7259,Palestina de los Altos,WV,GR,ANTH
+A00532669,Valaria,Gore,05/19/1999,vgoreiu@university.edu,587-579-1721,Zhongshanmen,FL,SO,SW
+A00077521,Erasmus,Driffield,09/06/1998,edriffieldiv@university.edu,349-296-7827,Jablunkov,FL,GR,AFAM
+A00009738,Nehemiah,Shorton,01/04/2001,nshortoniw@university.edu,631-529-2406,Kasamatsuchō,VA,GR,ACCT
+A00700899,Vasily,Grollmann,10/26/1995,vgrollmannix@university.edu,397-733-9562,Shalkar,WV,JR,BADM
+A00547908,Ulysses,Titford,10/27/2001,utitfordiy@university.edu,939-133-8966,Qasr Abu Hadi,AL,SR,SALM
+A00515251,Leela,Josephsen,05/06/1998,ljosephseniz@university.edu,455-952-3049,Sozopol,LA,FR,RADT
+A00480486,Mirelle,Norrie,02/06/2000,mnorriej0@university.edu,960-478-4009,Edéa,KY,FR,COMM
+A00766180,Hedi,Harford,04/29/2002,hharfordj1@university.edu,974-679-5226,Balong Wetan,SC,SO,NTFD
+A00892525,Shae,Ellicott,07/25/2000,sellicottj2@university.edu,959-462-6127,Issy-les-Moulineaux,VA,SR,SALM
+A00168326,Constance,Edinburough,09/30/1997,cedinburoughj3@university.edu,567-421-5391,Cambará,IL,SO,ASTL
+A00257973,Stesha,Craighall,12/21/1997,scraighallj4@university.edu,781-408-5659,Bordeaux,LA,SR,WEB
+A00202522,Bambi,Pedrazzi,04/15/1998,bpedrazzij5@university.edu,778-786-2339,Nobinobi,AL,GR,HSCI
+A00435771,Moishe,Ducastel,08/08/1998,mducastelj6@university.edu,625-727-9503,Leping,FL,FR,SRVL
+A00910991,Glenn,Kenningham,04/14/2000,gkenninghamj7@university.edu,818-539-5385,Kabūdarāhang,TN,SR,CHEM
+A00132946,Zsazsa,Immins,02/07/1995,zimminsj8@university.edu,522-809-6440,Banjar Lalangpasek,SC,SR,COM
+A00139774,Fredia,Whye,05/17/1996,fwhyej9@university.edu,939-576-1361,Brudzeń Duży,SC,GR,PADM
+A00138089,Upton,Relph,09/23/1995,urelphja@university.edu,314-846-5219,Askeaton,SC,JR,AFAM
+A00240014,Pip,Darnody,05/21/2002,pdarnodyjb@university.edu,476-136-5275,Liujia,WV,FR,PMGT
+A00665731,Virgilio,MacTrustam,01/25/2000,vmactrustamjc@university.edu,513-195-6404,Stari Kuty,TN,JR,FNCE
+A00248479,Shirl,O'Shea,01/07/1995,sosheajd@university.edu,814-540-4336,Middleton,TN,JR,MALS
+A00280281,Addy,Sline,02/10/1996,aslineje@university.edu,563-752-8574,Idanha-a-Nova,TN,GR,MRCH
+A00723600,Petrina,Webb,10/16/1996,pwebbjf@university.edu,547-126-8623,Ōkawa,IL,FR,FREN
+A00870909,Fabiano,Cardow,02/21/1996,fcardowjg@university.edu,480-724-6351,Pimenta Bueno,NC,GR,GREK
+A00289030,Gabriellia,Marsay,09/18/1995,gmarsayjh@university.edu,529-710-8948,Maţāy,VA,SR,MUS
+A00617167,Cash,Donati,07/13/1996,cdonatiji@university.edu,269-942-6385,Maple Ridge,KY,FR,SPED
+A00019686,Marni,Colbert,08/03/2000,mcolbertjj@university.edu,783-760-3025,Verenchanka,WV,SR,SPED
+A00441995,Doralia,Lothlorien,04/21/2001,dlothlorienjk@university.edu,494-465-9999,Canta,KY,SR,PMPR
+A00240167,Andra,Colquitt,07/03/1998,acolquittjl@university.edu,795-225-7482,Huancapi,GA,SO,PHED
+A00719054,Creighton,Addlestone,09/16/2000,caddlestonejm@university.edu,743-829-7077,Llano Largo,IA,SO,PHAR
+A00479257,Lusa,Favey,01/30/1995,lfaveyjn@university.edu,644-480-3799,Gaotaizi,IL,SO,BIOC
+A00122997,Dody,Arson,06/18/1997,darsonjo@university.edu,343-491-7213,General Pinedo,AL,FR,GREK
+A00589518,Melissa,Rathke,11/29/1996,mrathkejp@university.edu,667-635-5184,Kushar,KY,FR,PHED
+A00891159,Lotty,Ruggles,08/16/2000,lrugglesjq@university.edu,420-309-6763,Tarouca,IA,SO,PMPR
+A00872352,Buffy,Watsham,01/01/2000,bwatshamjr@university.edu,987-898-1842,Sunan,LA,SO,NTFD
+A00952689,Babbette,Pharrow,06/19/1995,bpharrowjs@university.edu,564-659-1778,Qingban,KY,GR,INFS
+A00857682,Garrett,Blenkensop,06/12/1998,gblenkensopjt@university.edu,831-757-3293,Chengbei,TN,FR,CISP
+A00571147,Merridie,Brokenshaw,07/24/1997,mbrokenshawju@university.edu,256-118-5175,Sarykemer,KY,FR,ALHS
+A00486684,Douglas,Sennett,09/30/1995,dsennettjv@university.edu,294-514-9998,Kavarna,NC,GR,LATN
+A00764470,Verla,Giacoppo,08/31/1995,vgiacoppojw@university.edu,489-841-1153,Chigan,AL,SO,MRCH
+A00988134,Alikee,Elkin,07/16/1995,aelkinjx@university.edu,814-310-2078,Kopidlno,KY,SR,EPID
+A00983168,Hy,Heinicke,10/16/2001,hheinickejy@university.edu,695-934-9473,Shahre Jadide Andisheh,GA,GR,ET
+A00994274,Yoshi,Bromby,09/20/1998,ybrombyjz@university.edu,980-902-4523,Constanza,IA,FR,UHON
+A00380592,Laurel,Swanger,04/05/2001,lswangerk0@university.edu,182-569-1846,Tiannan,KY,JR,MSDM
+A00229292,Nan,Cluatt,01/05/1996,ncluattk1@university.edu,541-221-3308,Ban Na,WV,FR,PRST
+A00574308,Judye,Giacubo,01/14/1995,jgiacubok2@university.edu,787-251-0631,Landerneau,LA,FR,MDT
+A00964432,Hanson,Rackham,06/01/1995,hrackhamk3@university.edu,688-773-9163,Mapalacsiao,SC,SO,RADT
+A00776763,Audre,Fairnie,05/17/1998,afairniek4@university.edu,982-732-0065,Dulangan,FL,JR,HSCI
+A00709467,Meara,Meininger,12/08/1996,mmeiningerk5@university.edu,134-326-2247,Porto Salvo,IA,FR,ET
+A00431793,Raf,Hopkyns,06/25/1996,rhopkynsk6@university.edu,361-124-3059,Kalianget,TN,GR,ENVH
+A00826275,Hillard,Clacson,08/13/1998,hclacsonk7@university.edu,756-395-5590,Maradi,KY,JR,ECE
+A00687190,Guthry,Keenor,10/08/2002,gkeenork8@university.edu,275-125-4460,Piteå,IL,FR,SPAN
+A00087752,Tara,Stubbe,09/25/1995,tstubbek9@university.edu,747-939-1380,Sausa,IA,FR,THEA
+A00772127,Sile,McCrohon,07/07/1997,smccrohonka@university.edu,812-520-9913,Sagua de Tánamo,NC,FR,EDFN
+A00133890,Zebulon,Redish,10/23/1995,zredishkb@university.edu,185-851-5563,Annopol,LA,GR,MSCI
+A00246688,Alisa,Sorro,05/03/1995,asorrokc@university.edu,725-500-1980,Jarry,FL,FR,CDIS
+A00290987,Padraig,Morford,06/03/2000,pmorfordkd@university.edu,589-456-6883,Złotniki,NC,JR,RADT
+A00141771,Tobin,McInally,08/21/2002,tmcinallyke@university.edu,402-491-5812,Palmeiros,IL,SO,SOCI
+A00624407,Timothee,Crenshaw,08/20/1996,tcrenshawkf@university.edu,244-259-6051,Poddębice,AL,SO,ADMN
+A00103816,Con,Feldklein,11/25/1996,cfeldkleinkg@university.edu,743-764-8125,Ośno Lubuskie,LA,JR,LDSP
+A00197773,Arny,Baton,03/28/1996,abatonkh@university.edu,533-397-7755,Santa Cruz De Tenerife,TN,GR,INFS
+A00202094,Gus,MacAughtrie,11/28/1997,gmacaughtrieki@university.edu,449-142-7280,Vitina,GA,JR,CHEM
+A00059475,Carolann,Zanussii,06/01/1997,czanussiikj@university.edu,238-625-2575,Blendis,NC,GR,PHSI
+A00565369,Brenda,Olenichev,04/02/2002,bolenichevkk@university.edu,401-103-4682,Pamplona/Iruña,IA,JR,PHYS
+A00563283,Jeanelle,Taggert,01/11/1995,jtaggertkl@university.edu,987-820-4620,Novosel’ye,WV,JR,PUBR
+A00352896,Rennie,Burnhams,07/29/1999,rburnhamskm@university.edu,310-532-7309,Shishang,TN,GR,DIGM
+A00306970,Giorgi,Blakebrough,09/13/1996,gblakebroughkn@university.edu,527-380-2575,Citundun,NC,SO,HUMT
+A00820021,Joly,Odgers,05/07/1997,jodgersko@university.edu,342-562-1346,Barranqueras,AL,JR,GEOS
+A00013988,Gordie,Johanssen,10/20/1998,gjohanssenkp@university.edu,162-384-3952,Bol’shoye Selo,IA,SR,INTD
+A00654641,Normy,Brewett,01/03/2001,nbrewettkq@university.edu,742-961-6349,Gabaldon,KY,SO,APST
+A00943397,Ibby,Gabala,06/29/2000,igabalakr@university.edu,483-126-4924,Studzionka,WV,FR,EDFN
+A00797547,Dewitt,Duckers,12/21/1995,dduckersks@university.edu,286-616-8428,Igrejinha,FL,GR,ENTC
+A00009562,Jannel,Horsey,01/26/1995,jhorseykt@university.edu,219-448-4442,Paradahan,IL,SO,EDFN
+A00979585,Harri,Patinkin,06/12/2000,hpatinkinku@university.edu,890-347-5724,Cobre,IL,SO,CHEM
+A00317783,Blanch,Grigson,06/02/1995,bgrigsonkv@university.edu,334-321-2222,Wadungasri,IA,SR,PUBR
+A00759837,Philis,Missington,12/09/1999,pmissingtonkw@university.edu,183-775-0093,Camgyai,VA,SO,PHYT
+A00502780,Lizbeth,Oxbe,03/18/1998,loxbekx@university.edu,879-861-1000,Jiuchi,LA,JR,THEA
+A00466694,Andrej,Ohanessian,02/12/1995,aohanessianky@university.edu,184-343-7222,São Fidélis,AL,SO,BLUE
+A00692165,Aaren,Mussilli,12/19/2000,amussillikz@university.edu,287-518-1337,Song’ao,SC,SO,JRSM
+A00215473,Jethro,Mates,01/04/2001,jmatesl0@university.edu,144-453-4347,San Pablo,GA,FR,SLS
+A00709191,Sephira,Bending,02/06/2002,sbendingl1@university.edu,338-180-1285,San Carlos de Bariloche,KY,SR,PMPR
+A00927385,Ferrell,Rouf,08/21/2001,froufl2@university.edu,202-647-4192,Washington,TN,JR,APST
+A00551281,Matthaeus,Cruikshanks,05/20/1999,mcruikshanksl3@university.edu,763-874-1459,Ḩarf al Musaytirah,TN,GR,SOAA
+A00561075,Laraine,Crangle,01/31/1995,lcranglel4@university.edu,407-701-2240,Petrovskoye,KY,GR,COUN
+A00016103,Stevena,Roocroft,09/01/2001,sroocroftl5@university.edu,781-406-1722,Fuyo,LA,FR,BIOC
+A00010962,Kore,Gayler,04/21/1995,kgaylerl6@university.edu,597-956-8845,Toulouse,FL,JR,JAPN
+A00620560,Nerta,Ucceli,11/04/2000,nuccelil7@university.edu,202-835-6468,Washington,AL,JR,INFS
+A00799899,Gigi,Cocklie,05/13/1997,gcockliel8@university.edu,695-644-9114,Hīt,VA,JR,EXCH
+A00691421,Shanda,Roycroft,11/30/1996,sroycroftl9@university.edu,820-592-3752,Andkhōy,FL,SR,GERM
+A00813306,Nicol,Vaggs,04/16/1996,nvaggsla@university.edu,933-520-1104,Bački Petrovac,KY,FR,SOCI
+A00461077,Vivyanne,Grealish,11/24/1997,vgrealishlb@university.edu,743-966-7563,Lamía,WV,JR,BSTA
+A00910374,Ches,Russell,08/17/1999,crusselllc@university.edu,457-962-3637,Villa Nueva,SC,FR,ELPA
+A00708632,Karrah,Storey,01/09/1999,kstoreyld@university.edu,770-145-9928,Vilares,KY,SR,BIOL
+A00380613,Calvin,Gounard,01/15/1997,cgounardle@university.edu,360-808-6861,Praia,LA,SR,TELC
+A00687472,Livia,Charker,11/22/2002,lcharkerlf@university.edu,408-785-0308,Anjia,VA,SR,LEAD
+A00667675,Lorita,Bleazard,01/24/1999,lbleazardlg@university.edu,249-589-9217,Wolomarang,GA,SO,BIOM
+A00288262,Denice,Bonifas,08/03/1996,dbonifaslh@university.edu,263-294-7079,Shezhu,KY,SR,STAT
+A00303449,Stillman,Klainer,09/09/1997,sklainerli@university.edu,747-871-1744,Benghazi,FL,GR,EDCI
+A00583139,Tristan,McCambrois,05/04/1997,tmccambroislj@university.edu,704-142-8305,Bankaw,LA,JR,SOC
+A00645428,Corbie,Cleve,03/20/2001,cclevelk@university.edu,944-113-5531,Phanom Sarakham,GA,JR,PM
+A00211068,Aron,Pegden,05/11/2001,apegdenll@university.edu,827-645-7350,Saint-Rémy-de-Provence,LA,SR,ECON
+A00093510,Dalenna,Breacher,10/23/1997,dbreacherlm@university.edu,984-590-5048,Tsarychanka,WV,SR,ASTR
+A00361419,Willabella,Orford,09/26/1995,worfordln@university.edu,972-658-5032,Tuburan,KY,FR,WEB
+A00546021,Danette,Dunkinson,01/06/2000,ddunkinsonlo@university.edu,659-330-1928,Prinza,SC,SO,BIOC
+A00502378,Kare,Jeaves,07/03/1997,kjeaveslp@university.edu,592-873-0294,Järfälla,IL,SR,GSLD
+A00541817,Saul,Brogiotti,09/20/1995,sbrogiottilq@university.edu,636-717-2645,Gradizhsk,SC,SO,HIST
+A00947209,Cassandra,Baigrie,10/18/1999,cbaigrielr@university.edu,701-196-7293,Shahe,GA,JR,ECON
+A00026209,Karlens,Flewitt,09/17/2001,kflewittls@university.edu,763-425-0401,Orsha,KY,SO,PHED
+A00656712,Rubie,Lloyds,01/31/1997,rlloydslt@university.edu,600-748-9560,Sudikampir,LA,JR,ENVS
+A00978633,Jae,Giovanizio,03/07/1998,jgiovaniziolu@university.edu,524-415-0849,Buenavista,GA,JR,NRSE
+A00156951,Wye,Ivatt,03/17/1998,wivattlv@university.edu,810-500-4437,Tall Salḩab,IL,JR,EDUC
+A00397806,Corty,O'Sherrin,04/27/1995,cosherrinlw@university.edu,431-520-0949,Bagay,FL,GR,POLS
+A00358694,Arty,Flipsen,11/28/1998,aflipsenlx@university.edu,378-388-2271,Voyskovitsy,NC,SR,PETE
+A00507504,Thornie,Elphick,09/17/2002,telphickly@university.edu,102-738-4103,Köping,WV,FR,SURV
+A00780885,Laurens,Arkley,04/18/1997,larkleylz@university.edu,446-211-3532,Campamento,WV,FR,LIST
+A00595032,Viviana,Woolgar,05/03/2000,vwoolgarm0@university.edu,674-183-2511,Huangduobu,AL,FR,ENGL
+A00323060,Linus,Monelle,03/12/1995,lmonellem1@university.edu,385-878-5183,Yuankeng,IA,SO,MSCI
+A00968063,Ardath,Sims,02/19/1998,asimsm2@university.edu,311-416-5026,Zengtian,IA,SR,MICR
+A00457695,Ranice,Lyddyard,06/24/1995,rlyddyardm3@university.edu,829-467-0144,Al Mukallā,KY,GR,MDT
+A00177575,Sydney,Agostini,12/09/2001,sagostinim4@university.edu,262-595-6286,Vigo,FL,FR,SPAN
+A00546190,Ado,Conn,07/29/1996,aconnm5@university.edu,115-811-1893,Marignane,AL,FR,RHSC
+A00784601,Valina,Bayne,05/31/1999,vbaynem6@university.edu,653-194-2558,Guarabira,VA,GR,PHIL
+A00297289,Kristen,Bullen,09/15/1995,kbullenm7@university.edu,736-998-2671,Yishui,WV,SR,LANG
+A00245271,Herbie,Monaghan,02/26/1998,hmonaghanm8@university.edu,475-606-9334,Meixi,IL,FR,PHED
+A00962645,Minni,Curnow,06/17/1995,mcurnowm9@university.edu,321-938-3646,Batojaran,NC,JR,BLUE
+A00831029,Humfrey,Pleasaunce,02/17/1995,hpleasauncema@university.edu,649-991-6629,El Espino,TN,SO,LDSP
+A00330861,Elvira,Goodhall,12/21/1997,egoodhallmb@university.edu,219-434-8165,Momanalu,WV,FR,PRST
+A00282063,Roderigo,Kalb,12/27/2002,rkalbmc@university.edu,189-905-6176,Ambatofinandrahana,SC,SO,GEOS
+A00090388,Bunny,Boobyer,09/30/1997,bboobyermd@university.edu,148-768-6599,Gudang,FL,GR,ECE
+A00952480,Olwen,Johnikin,09/12/1996,ojohnikinme@university.edu,163-428-3265,Jurm,TN,GR,PMGT
+A00723590,Shanan,Whiskerd,06/16/1998,swhiskerdmf@university.edu,201-694-8362,Lorut,WV,GR,GEOL
+A00384831,Flin,Clarke,03/26/1995,fclarkemg@university.edu,985-706-8498,Alcaria,AL,FR,STOR
+A00991170,Farra,Naulls,07/31/1996,fnaullsmh@university.edu,927-135-2192,Växjö,VA,SR,SOWK
+A00750027,Dedie,Cardnell,09/21/1997,dcardnellmi@university.edu,649-857-1532,Banovo Polje,IA,SO,PHYS
+A00498006,Allie,Chilley,02/02/2002,achilleymj@university.edu,417-545-7737,Satun,LA,GR,HETH
+A00804194,Celestyna,Rens,11/04/2002,crensmk@university.edu,240-663-3746,Alue Glumpang,IL,SR,ANTH
+A00691331,Myrtle,Fabb,10/31/1999,mfabbml@university.edu,649-861-2095,Vila Nova,NC,GR,ALHE
+A00418108,Langsdon,Grigoire,05/17/2000,lgrigoiremm@university.edu,391-638-7787,Teresita,KY,GR,LDSP
+A00182652,Peggi,Gillibrand,03/08/2000,pgillibrandmn@university.edu,444-271-9966,Bondoufle,LA,FR,CRMJ
+A00229944,Brynne,Pettinger,01/18/1998,bpettingermo@university.edu,319-263-3417,Jinsha,SC,FR,CJA
+A00395045,Alison,Klaff,07/25/1996,aklaffmp@university.edu,132-914-6615,Olsztyn,KY,SR,CJA
+A00870339,Harald,Bridgewater,03/29/1998,hbridgewatermq@university.edu,156-284-1016,Wumahe,WV,FR,ENVS
+A00050927,Reidar,Gaule,02/14/1997,rgaulemr@university.edu,811-837-4995,Camarate,SC,SR,MCOM
+A00005031,Pris,Collerd,10/04/1996,pcollerdms@university.edu,497-160-7667,Fukushima-shi,LA,FR,SOC
+A00629938,Gerhardine,Benza,03/11/1995,gbenzamt@university.edu,760-412-1773,Xiaoguwei,WV,SO,MDT
+A00197737,Sianna,Billes,05/24/2000,sbillesmu@university.edu,844-846-3863,Leles,LA,JR,FREN
+A00564234,Evangelin,Steedman,02/20/1999,esteedmanmv@university.edu,422-987-4350,Zhangjiayuan,NC,FR,SOCI
+A00619515,Layne,Clash,05/22/1998,lclashmw@university.edu,759-158-5109,Billdal,IA,JR,ASTR
+A00697135,Daniele,Caunce,06/02/1996,dcauncemx@university.edu,520-221-7740,Tucson,IA,FR,MICR
+A00121893,Engelbert,Jell,05/09/1999,ejellmy@university.edu,234-292-6775,Semampirbarat,SC,FR,ET
+A00670193,Zared,Breeton,05/28/1996,zbreetonmz@university.edu,185-426-6339,Pará de Minas,KY,FR,HSMP
+A00832330,Anthea,McGiff,04/28/1995,amcgiffn0@university.edu,983-486-3565,Oesapa,SC,JR,LIST
+A00791949,Peyton,Bellee,08/10/1995,pbelleen1@university.edu,305-364-8667,Laoag,KY,GR,CRMJ
+A00856510,Lenee,Manchett,08/17/2002,lmanchettn2@university.edu,608-160-3533,Lirung,SC,GR,GEOL
+A00971472,Morgen,Eddowes,07/05/2000,meddowesn3@university.edu,839-910-5929,Богданци,LA,JR,HETH
+A00488433,Toddie,Highway,05/20/1995,thighwayn4@university.edu,300-244-4954,Beihuaidian,SC,FR,LDSP
+A00162789,Augusto,Folcarelli,12/20/1997,afolcarellin5@university.edu,829-498-9007,Dimovo,IA,JR,UHON
+A00991125,Maryanne,BURWIN,10/15/1999,mburwinn6@university.edu,585-333-7649,Tumu’ertai,TN,FR,CITC
+A00068385,Ric,Paoloni,06/03/1999,rpaolonin7@university.edu,925-107-0517,Salvaleón de Higüey,NC,SO,GERM
+A00026037,Caril,Heinecke,05/14/2000,cheinecken8@university.edu,811-437-2124,Marcara,TN,GR,AMBA
+A00667393,Maximilian,Albion,04/03/1997,malbionn9@university.edu,764-890-7934,Nan’an,KY,FR,COMM
+A00814443,Pet,Gurner,08/08/1995,pgurnerna@university.edu,888-206-5605,Huaqiao,SC,FR,FNCE
+A00276584,Kimbell,Magrane,07/02/2001,kmagranenb@university.edu,876-944-1784,Šardice,TN,GR,ALHE
+A00852283,Hayley,Alstead,01/03/1995,halsteadnc@university.edu,205-791-9124,Kampungsusah,LA,GR,STOR
+A00155122,Milton,Wandrey,03/03/1998,mwandreynd@university.edu,619-600-4132,Verkhnye Syn’ovydne,GA,SO,EDCI
+A00247343,Asia,Sieghard,01/28/1997,asieghardne@university.edu,201-519-8844,Calamba,NC,GR,SOCI
+A00049179,Christian,Germann,11/08/1995,cgermannnf@university.edu,789-623-5836,Sułów,IA,SR,RADT
+A00063594,Wendall,McLewd,03/11/2002,wmclewdng@university.edu,564-871-2863,Huangshagang,LA,SO,CISP
+A00610501,Hershel,Geall,12/19/2000,hgeallnh@university.edu,689-210-0432,Lampitak,GA,JR,EPID
+A00107081,Corbie,Stiegers,09/21/1997,cstiegersni@university.edu,382-949-3904,San Roque,IL,GR,SPAN
+A00862418,Cyril,Venturoli,10/19/2001,cventurolinj@university.edu,643-295-1380,Xiacaoqiao,SC,JR,BIOM
+A00745420,Celine,Vokes,09/06/2002,cvokesnk@university.edu,991-541-6515,Sinamar,IL,GR,BIOL
+A00320473,Avie,Jewel,09/01/1997,ajewelnl@university.edu,793-353-6607,Maibu,NC,FR,PM
+A00637652,Sarette,Ker,09/02/1998,skernm@university.edu,827-715-2502,Nārāyanganj,FL,SO,CRMJ
+A00903572,Madelon,Airs,07/31/1997,mairsnn@university.edu,628-155-8797,Shengci,FL,JR,READ
+A00188217,Lauren,Holburn,03/16/2001,lholburnno@university.edu,316-138-9596,Glagahdowo,GA,GR,JAPN
+A00293156,Roby,Gilcriest,09/23/1999,rgilcriestnp@university.edu,355-632-2606,Passo Fundo,TN,FR,CHEM
+A00443146,Welby,Streater,09/04/1999,wstreaternq@university.edu,388-752-7399,Chornyanka,IA,GR,CHEM
+A00908862,Cristie,Berrisford,01/15/1995,cberrisfordnr@university.edu,797-960-9146,Gaopeng,IL,SO,HUMT
+A00969270,Ramonda,Frift,03/15/1998,rfriftns@university.edu,754-928-5485,Jabon,IA,JR,NRSE
+A00526262,Batsheva,Farlowe,06/29/1995,bfarlowent@university.edu,196-978-9908,Bāniyās,SC,JR,SOCI
+A00389263,Hermina,Fenne,12/31/1999,hfennenu@university.edu,182-730-0246,Cimanggu,WV,SR,SURV
+A00555615,Anjela,Petrakov,01/30/2001,apetrakovnv@university.edu,175-201-8087,Enköping,SC,SR,MCOM
+A00168007,Rurik,Itzik,10/19/1999,ritziknw@university.edu,666-945-2664,Melikkrajan,VA,FR,PHIL
+A00604485,Yettie,Feldbau,01/23/1996,yfeldbaunx@university.edu,456-896-2750,Barbosa,IA,JR,ENGL
+A00310716,Odie,Edden,05/30/1998,oeddenny@university.edu,342-989-0080,Aranguren,NC,GR,ET
+A00455864,Yevette,Younie,09/13/1998,yyounienz@university.edu,352-840-9312,Kamennogorsk,TN,GR,AGRI
+A00389863,Yorke,Wathey,12/08/1999,ywatheyo0@university.edu,363-920-3574,Alma,NC,SR,CJA
+A00289317,Zonda,Clowser,07/28/1996,zclowsero1@university.edu,121-868-8671,Urayasu,NC,GR,MKTG
+A00658395,Benny,Izatson,03/19/1997,bizatsono2@university.edu,536-624-3294,Pau,VA,GR,SOWK
+A00722644,Daniella,Blakeden,04/22/1997,dblakedeno3@university.edu,238-602-3181,Shazikou,GA,GR,NRSE
+A00846131,Cristionna,Bedo,12/31/1999,cbedoo4@university.edu,608-757-7931,Ban Na,IL,JR,MSCI
+A00864491,Junina,Wiggington,08/12/1999,jwiggingtono5@university.edu,302-319-5712,Zvishavane,WV,SO,ME
+A00837151,Eldin,Whitear,08/07/2001,ewhitearo6@university.edu,156-216-2478,Smiltene,TN,SR,ECON
+A00984601,Titos,Tuite,02/10/1995,ttuiteo7@university.edu,122-962-3083,Angers,WV,FR,READ
+A00317591,Marie-jeanne,Cayet,02/12/1998,mcayeto8@university.edu,312-950-8559,Dobroměřice,VA,JR,MDT
+A00742831,Astrix,Mitchelmore,08/23/1995,amitchelmoreo9@university.edu,261-458-9898,Krajan Caluk,AL,JR,SOAA
+A00161354,Dur,Wissbey,08/18/2000,dwissbeyoa@university.edu,135-598-6543,Shilaoren,AL,JR,HETH
+A00718649,Ange,Timmons,03/01/1996,atimmonsob@university.edu,160-831-1522,Mafra,AL,GR,PMGT
+A00258613,Petrina,Daniello,05/14/1995,pdaniellooc@university.edu,929-979-6509,Pojan,KY,JR,PHYS
+A00725098,Donavon,Southcoat,07/02/1997,dsouthcoatod@university.edu,954-812-5266,Anaráchi,FL,SO,HDAL
+A00692740,Fredra,Grandham,02/11/1996,fgrandhamoe@university.edu,838-743-3005,Torslanda,LA,SO,HDAL
+A00184714,Murvyn,Fearby,05/09/1998,mfearbyof@university.edu,956-991-5382,Amvrosiyivka,NC,SO,READ
+A00120762,Wittie,Mithon,06/17/1998,wmithonog@university.edu,215-558-6242,Igarapé,IA,JR,AGRI
+A00248440,Milka,Tallboy,01/12/2001,mtallboyoh@university.edu,113-285-5701,Yanac,IA,SO,BSTA
+A00680925,Brana,Lee,05/10/2002,bleeoi@university.edu,485-125-2856,Hostěradice,GA,SO,EDFN
+A00338539,Donnajean,Derbyshire,06/27/2001,dderbyshireoj@university.edu,322-201-6276,Skwierzyna,GA,SO,PSY
+A00790998,Silas,Pailin,09/07/2002,spailinok@university.edu,606-328-1949,Miastko,NC,GR,TELC
+A00518160,Beret,Jeffcoat,10/15/1997,bjeffcoatol@university.edu,576-286-7150,Kanazawa-shi,KY,GR,SPED
+A00426504,Chrysa,Jiruch,09/21/1997,cjiruchom@university.edu,776-965-2724,Valenciennes,LA,GR,PREH
+A00027687,Arlie,Pahl,07/03/1997,apahlon@university.edu,772-747-3964,Fort Pierce,KY,SO,LATN
+A00655436,Robyn,Klauber,05/26/2001,rklauberoo@university.edu,901-532-9687,Bordeaux,AL,GR,BUSN
+A00068975,Mollie,Lye,07/23/2000,mlyeop@university.edu,793-468-0748,Cortiços,TN,GR,JRSM
+A00554840,Delmer,Kevis,03/18/2002,dkevisoq@university.edu,650-964-4042,Huaguo,KY,SO,ASTL
+A00448378,Regen,Melmeth,10/01/1999,rmelmethor@university.edu,376-728-1141,Huaping,IA,SR,GEOS
+A00909750,Jozef,Camin,05/21/2001,jcaminos@university.edu,578-551-9389,Sakura,WV,SR,COUN
+A00917487,Fleurette,Borwick,01/29/1998,fborwickot@university.edu,218-909-1524,Baicun,NC,JR,CJA
+A00707759,Cassi,Cassedy,06/09/1999,ccassedyou@university.edu,681-653-6232,Montes Velhos,IL,SR,AVST
+A00513768,Pinchas,Keay,05/04/2002,pkeayov@university.edu,583-189-5893,Bealanana,SC,SO,ECED
+A00107059,Thorpe,Parmiter,08/13/1996,tparmiterow@university.edu,839-349-7606,Onzaga,IA,SR,CSCI
+A00259426,Wake,Adamczewski,03/20/1997,wadamczewskiox@university.edu,997-922-6588,Concepción,NC,SO,ARTA
+A00033134,Lovell,Curwen,08/07/1995,lcurwenoy@university.edu,251-917-2373,Haozigang,VA,FR,ANTH
+A00164646,Myranda,Pattullo,12/19/2000,mpattullooz@university.edu,649-228-0856,Canaman,FL,FR,ET
+A00853389,Lek,Rickard,02/19/2002,lrickardp0@university.edu,885-466-4710,Honglan,GA,SR,NTFD
+A00342046,Lanae,Decourcy,02/05/2002,ldecourcyp1@university.edu,691-618-1519,Jiangning,FL,JR,JAPN
+A00420105,Allister,Struan,03/31/1999,astruanp2@university.edu,171-917-0953,Dalazi,SC,SR,ENGR
+A00479195,Vivyan,Margery,01/04/1998,vmargeryp3@university.edu,616-599-3423,Gujō,IL,FR,SWRK
+A00841710,Vally,Keywood,07/20/1998,vkeywoodp4@university.edu,875-602-6793,Baffa,GA,JR,PTMA
+A00025163,Florette,Kembery,01/28/1997,fkemberyp5@university.edu,672-799-8737,Stockholm,IL,SO,LATN
+A00846382,Helaina,Bock,07/13/1998,hbockp6@university.edu,485-599-8290,Napel,IA,SO,SCED
+A00395384,Florette,Fridaye,09/22/2002,ffridayep7@university.edu,171-600-4523,Lazaro Cardenas,KY,GR,COL
+A00144295,Ralph,Cardno,09/24/1995,rcardnop8@university.edu,840-898-1918,Södertälje,WV,SR,ENGR
+A00007099,Glyn,Daughtery,01/16/1998,gdaughteryp9@university.edu,463-992-4109,Gentilly,GA,SO,PHAR
+A00080942,Denise,Aingel,03/19/1999,daingelpa@university.edu,856-696-7493,Varāmīn,FL,FR,EDU
+A00313644,Suzann,Vardey,02/10/1996,svardeypb@university.edu,400-758-7345,Bendoroto,FL,JR,SOWK
+A00007224,Tibold,Popping,05/06/2002,tpoppingpc@university.edu,439-224-8683,Bogorodsk,GA,FR,GERM
+A00162381,Quinton,Gamblin,11/04/2000,qgamblinpd@university.edu,301-407-6570,Nangen,TN,GR,HUMT
+A00779312,Mill,Brundle,01/08/2001,mbrundlepe@university.edu,158-852-0229,Majiao,GA,JR,READ
+A00088259,Terrell,Attwell,10/14/2001,tattwellpf@university.edu,165-340-5174,Mahébourg,FL,JR,POLI
+A00805843,Shayne,Rushforth,10/19/1998,srushforthpg@university.edu,396-309-5060,Villanueva,AL,GR,ENVS
+A00849292,Luther,Gather,01/14/1999,lgatherph@university.edu,769-381-8077,El Perico,IA,SR,PHYT
+A00623592,Sawyer,Casiroli,07/17/1999,scasirolipi@university.edu,586-855-6596,Laveiras,GA,JR,PRST
+A00144965,Tedi,Cluney,01/03/1999,tcluneypj@university.edu,467-905-0046,Satu Nou,VA,FR,SLS
+A00967080,Vinson,Brackenbury,11/15/2001,vbrackenburypk@university.edu,306-597-2501,Ciudad Arce,AL,JR,HUMT
+A00925079,Nessa,Heathorn,12/04/1999,nheathornpl@university.edu,846-301-9238,Aygavan,TN,SR,TEAS
+A00423992,Ashla,Sidon,08/18/2002,asidonpm@university.edu,429-770-1662,Askim,AL,FR,PSY
+A00488321,Brigida,Geraghty,01/07/2000,bgeraghtypn@university.edu,502-527-4059,Louisville,NC,GR,MUS
+A00170965,Sloane,McGillivrie,06/19/1995,smcgillivriepo@university.edu,337-908-3109,Vitry-sur-Seine,LA,GR,EPID
+A00238232,Corinna,Closs,06/29/1998,cclosspp@university.edu,307-553-9678,Lubień,LA,JR,PRST
+A00127709,Casper,Livingstone,01/09/1996,clivingstonepq@university.edu,840-967-8379,Torbeyevo,TN,JR,LANG
+A00163954,Hestia,Meaker,02/25/1999,hmeakerpr@university.edu,139-684-7969,Sheshan,AL,SO,WEBT
+A00974495,Georgeanne,Spurman,02/05/2001,gspurmanps@university.edu,532-704-6506,Kalininaul,SC,SR,HIMT
+A00404343,Sumner,Cockerham,10/08/2001,scockerhampt@university.edu,129-760-6221,Changzhi,IL,SO,EDAD
+A00121129,Arlene,Beagin,12/11/2001,abeaginpu@university.edu,187-284-5860,Yong’an,AL,SR,HPSS
+A00674822,Mavis,Knath,11/10/1999,mknathpv@university.edu,875-436-2541,Vyatskiye Polyany,WV,FR,COBH
+A00865093,Shirl,Haslock,07/29/1999,shaslockpw@university.edu,569-571-5647,Norberg,TN,FR,ANTH
+A00072519,Vincenz,Mullard,08/16/1996,vmullardpx@university.edu,248-983-2429,Cachadinha,AL,GR,HIMT
+A00560717,Law,Tomsen,12/22/1997,ltomsenpy@university.edu,808-881-4959,An Nāşirīyah,IL,JR,BLUE
+A00023850,Christabel,Peake,10/05/2000,cpeakepz@university.edu,426-753-2048,Liulin,NC,JR,HSRV
+A00047717,Leisha,Jonuzi,01/19/2001,ljonuziq0@university.edu,934-649-6027,Kibingo,SC,JR,BADM
+A00497599,Agretha,Lakenton,01/27/2000,alakentonq1@university.edu,150-535-2399,Sorren Daya,TN,SO,COL
+A00568254,Emmott,Kira,02/15/2002,ekiraq2@university.edu,515-107-4853,Zigong,LA,GR,ENGL
+A00395065,Lowe,Echalie,10/24/1998,lechalieq3@university.edu,846-355-2238,Yawata,GA,JR,HSC
+A00228190,Juliana,Prater,04/06/2001,jpraterq4@university.edu,641-408-0897,Boa Esperança,IL,SR,CSCI
+A00044233,Merell,McGuiness,08/17/1997,mmcguinessq5@university.edu,940-846-3341,Losino-Petrovskiy,LA,GR,SRVL
+A00583844,Tedd,Borg,08/21/2001,tborgq6@university.edu,520-402-2480,Metz,IL,FR,WEB
+A00769916,Constantino,Marder,02/12/2000,cmarderq7@university.edu,406-487-1745,Opatowiec,KY,SO,JRSM
+A00642095,Devina,Shorey,01/09/2001,dshoreyq8@university.edu,189-346-3690,Colegiales,AL,SR,SALM
+A00186738,Daisie,Blenkiron,06/01/1999,dblenkironq9@university.edu,463-514-2655,Weiguo,FL,FR,JAPN
+A00403536,Eldridge,Patershall,11/27/1995,epatershallqa@university.edu,968-534-7878,Kuzhorskaya,GA,JR,RTVF
+A00893916,Kalila,Grammer,03/14/1999,kgrammerqb@university.edu,258-347-3044,Tiout,LA,GR,PMSY
+A00126612,Dar,Tieman,02/27/1996,dtiemanqc@university.edu,507-980-3099,Malaga,VA,JR,SOC
+A00043843,Jilli,Bunning,10/21/2000,jbunningqd@university.edu,612-585-2646,Yengiawat,FL,SR,EXCH
+A00525763,Karisa,Boyne,12/01/2000,kboyneqe@university.edu,979-346-5066,Blachownia,SC,SO,DHYG
+A00285215,Normand,MacLeod,04/28/1998,nmacleodqf@university.edu,369-235-6364,Arenal,KY,JR,PBRL
+A00068832,Joaquin,Blaber,05/11/2002,jblaberqg@university.edu,646-970-7254,Bāglung,GA,JR,AVST
+A00231378,Bettine,Southall,05/03/1997,bsouthallqh@university.edu,326-183-5386,Dayr Mawās,TN,SR,ADMN
+A00638443,Donny,Bisson,02/24/1997,dbissonqi@university.edu,301-744-8619,Ketang,FL,GR,ANTH
+A00829879,Reider,Pragnall,11/22/1995,rpragnallqj@university.edu,583-920-4808,Glatik,WV,JR,NRSE
+A00869747,Lacee,Clayfield,06/12/1998,lclayfieldqk@university.edu,842-799-2190,Córdoba,SC,SR,CITC
+A00328471,Chad,Cottrill,01/05/2002,ccottrillql@university.edu,377-102-0932,Brändö,SC,GR,RADT
+A00582517,Feodor,Kruschov,03/13/2002,fkruschovqm@university.edu,371-146-4912,Esfarāyen,IA,FR,COMP
+A00638312,Berkly,Scatcher,06/20/1995,bscatcherqn@university.edu,511-343-6082,Acobambilla,IL,JR,PHSI
+A00176151,Geoffrey,Ropp,07/23/1995,groppqo@university.edu,559-301-9197,Linjiang,GA,SR,CJA
+A00191060,Neila,Moscone,07/08/1995,nmosconeqp@university.edu,687-159-6204,Slavonice,NC,FR,CITC
+A00634183,Cos,Gruszczak,06/14/1995,cgruszczakqq@university.edu,282-175-9949,Ochota,GA,FR,ENTC
+A00886112,Shae,Nizard,02/24/1995,snizardqr@university.edu,274-869-0445,Hacıhüseynli,AL,FR,DIGM
+A00847582,Rhys,Knibbs,05/03/2000,rknibbsqs@university.edu,509-678-4276,Osan,KY,GR,SURV
+A00688486,Ashlen,Maylam,09/01/2001,amaylamqt@university.edu,514-316-5976,Líbeznice,IA,JR,PHYS
+A00934219,Maxie,Balogun,11/29/2001,mbalogunqu@university.edu,761-610-0733,Larreynaga,GA,JR,ASTR
+A00961746,Melina,Greenier,01/21/1997,mgreenierqv@university.edu,284-663-0933,Rantīs,VA,JR,MICR
+A00196457,Ambrosius,Orton,08/14/1996,aortonqw@university.edu,965-214-3396,Zhouyuan,VA,FR,MKTG
+A00404335,Livvyy,Dingsdale,05/20/2000,ldingsdaleqx@university.edu,673-217-2149,Pôrto Barra do Ivinheima,TN,GR,BIOM
+A00258354,Fonz,Covet,12/04/2001,fcovetqy@university.edu,516-615-6166,Great Neck,VA,GR,HSRV
+A00862922,Davy,Deehan,06/11/1998,ddeehanqz@university.edu,462-114-1979,Malianchuan,FL,SR,EXCH
+A00561282,Laverna,Stilgo,10/08/2002,lstilgor0@university.edu,852-181-7355,Nanterre,KY,JR,SW
+A00875491,Juliane,Lundbeck,11/08/1999,jlundbeckr1@university.edu,951-796-3492,Xinglongchang,GA,GR,TEAE
+A00137582,Alameda,Davion,03/14/1996,adavionr2@university.edu,833-270-4227,Hultsfred,SC,SO,ARTH
+A00135593,Barnaby,Bruff,12/29/2001,bbruffr3@university.edu,310-351-4943,Hujra,WV,FR,RTVF
+A00857330,Baron,Banner,09/19/1992,bbannerr4@university.edu,919-487-1384,Parang,TN,SR,BMGT
+A00240395,Genvieve,Meriguet,11/22/1995,gmeriguetr5@university.edu,480-420-9124,Mezhdurechensk,LA,SO,PMGT
+A00968254,Mace,Mellon,02/20/1999,mmellonr6@university.edu,642-966-7724,Boavista,AL,SR,THEA
+A00986329,Maible,Merrill,07/15/2002,mmerrillr7@university.edu,883-731-5249,Vizal San Pablo,NC,SO,MALS
+A00210202,Lolly,Zahor,03/14/2001,lzahorr8@university.edu,239-279-7047,Xincheng,NC,FR,BMGT
+A00784202,Morty,Branno,10/23/1995,mbrannor9@university.edu,326-162-4204,Karafao,VA,JR,PHED
+A00349260,Dorolisa,Shapira,02/21/2002,dshapirara@university.edu,814-840-0135,Paranavaí,AL,SO,RADT
+A00794171,Shelley,Lovel,10/09/1995,slovelrb@university.edu,118-143-4204,Waoundé,VA,FR,MUS
+A00355293,Bil,Bosche,06/19/2000,bboscherc@university.edu,487-534-1706,Arauquita,AL,JR,FREN
+A00015796,Wernher,Loverock,07/11/1996,wloverockrd@university.edu,412-245-9150,Hirado,WV,GR,SOAA
+A00833181,Angele,Leidl,02/13/2002,aleidlre@university.edu,718-939-9539,Bronx,IL,SO,ENGR
+A00305673,Gilles,Whacket,08/19/2000,gwhacketrf@university.edu,716-770-8936,Laleng,AL,SR,MALS
+A00947311,Colver,Coarser,10/30/1999,ccoarserrg@university.edu,628-424-9170,Pinrang,FL,SO,COMP
+A00769583,Angel,Klimkovich,01/15/1999,aklimkovichrh@university.edu,761-768-4132,Puricay,WV,JR,ELPA
+A00694370,Caddric,Pleasance,07/22/1998,cpleasanceri@university.edu,769-562-2678,Świętajno,SC,SR,PEXS
+A00033845,Nikos,Bontine,01/05/1999,nbontinerj@university.edu,785-972-4858,Kluki,GA,JR,SPAN
+A00087858,Malynda,Dicty,06/10/2001,mdictyrk@university.edu,526-307-6412,Telhado,IL,SR,ELPA
+A00248429,Nolly,Hovie,01/16/2000,nhovierl@university.edu,779-446-0731,Francisco Beltrão,IL,SO,TEAS
+A00885900,Cyndie,Finders,08/12/1996,cfindersrm@university.edu,774-861-8443,Aknīste,VA,GR,BIOM
+A00359874,Claudine,Larne,05/30/1997,clarnern@university.edu,299-902-2782,Kalix,KY,SO,AMBA
+A00143658,Yuri,Luckwell,04/24/1997,yluckwellro@university.edu,461-286-5890,Luokeng,KY,FR,CRMJ
+A00990750,Diahann,Florio,03/20/1995,dfloriorp@university.edu,858-903-7042,Kashima,AL,SR,ECE
+A00022479,Fee,Ugoni,05/03/2002,fugonirq@university.edu,120-970-5696,Donghe,TN,SO,PM
+A00130032,Sig,Pitcock,01/29/1999,spitcockrr@university.edu,355-371-7429,Nanpiao,GA,SR,RELI
